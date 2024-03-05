@@ -961,14 +961,16 @@ do
 $confirm = Read-Host "Please Type 'David Hasselhoff' to confirm -case sensitive, hit ctrl-c to close"
 }
 while ($confirm -ne 'David Hasselhoff')
-
+<#
  $image = [System.Drawing.image]::FromFile("C:\David_Hasselhoff\the_glory.png")
  $image.rotateflip("Rotate90FlipNone")
  $image.save('C:\David_Hasselhoff\the_glory.png','png')
-
+#>
  do
  {
  $David_Hasselhoff = $true
+
+ $Test_David = [System.IO.File]::Exists("C:\David_Hasselhoff\the_glory.png")
 
  IF ($Test_David -eq $False){
  $David_Hasselhoff_Base64 = @"
