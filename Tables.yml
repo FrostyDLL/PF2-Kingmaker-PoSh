@@ -1,6 +1,6 @@
 Information:
     Topic:
-        Stolen Lands Zones:
+        Stolen Lands Zones Summary:
             0:
                 - Brevoy
                 - BV
@@ -101,6 +101,8 @@ Information:
                 - BR
                 - 117
                 - Dangerous, towering mountains.
+        
+        Stolen Lands Zones Area-Details:
         CAMPING ZONES:
             0:
                 - Brevoy
@@ -722,6 +724,10 @@ Generators:
             8: Castruccio has fallen under the spell of a vampire priestess of Urgathoa who lives in a secret cave under his palace. She wants to turn Pitax into a necropolis! (False.)
             9: The mastodon-riding hill giants known as Tusker’s Riders are on the march! Some say King Castruccio hired them, but I don’t believe that.
             10: Somewhere in Thousand Voices lies a mysterious ruin called the Castle of Knives, but no one seems to know who built it.
+    Hazards:
+        - WIP
+    Weather:
+        - WIP
 Hex-Encounter:
     Hex-Crawl:
         Zone 1 - ROSTLAND HINTERLANDS (RL):
