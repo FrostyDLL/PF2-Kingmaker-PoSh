@@ -1,0 +1,1234 @@
+Information:
+    Topic:
+        Stolen Lands Zones:
+            0:
+                - Brevoy
+                - BV
+                - 50
+                - Includes the city of Restov and its environs.
+            1:
+                - Rostland Hinterlands
+                - RL
+                - 51
+                - Southern hinterlands of Brevoy, lightly settled.
+            2:
+                - Greenbelt
+                - GB
+                - 58
+                - Lightly forested to the west, rolling hills to the east.
+            3:
+                - Tuskwater
+                - TW
+                - 69
+                - Forested hills surrounding a large lake.
+            4:
+                - Kamelands
+                - KL
+                - 78
+                - Rolling hills with periodic small copses of trees.
+            5:
+                - Narlmarches
+                - NM
+                - 82
+                - Deep, thick forests.
+            6:
+                - Sellen Hills
+                - SH
+                - 84
+                - Unsettled grassy hills surrounding the Little Sellen River.
+            7:
+                - Dunsward
+                - DS
+                - 87
+                - Largely unsettled grasslands and rolling hills.
+            8:
+                - Nomen Heights
+                - NH
+                - 90
+                - Rocky hills with sparse patches of rugged vegetation.
+            9:
+                - Tors of Levenies
+                - LV
+                - 91
+                - Rugged mountains with lightly forested valleys.
+            10:
+                - Hooktongue
+                - HT
+                - 94
+                - Vast stretch of swampland surrounding a large lake.
+            11:
+                - Drelev
+                - DR
+                - 103
+                - Grasslands with a few small settlements and a large fort.
+            12:
+                - Tiger Lords
+                - TL
+                - 105
+                - Grassy hills; ancestral lands of the Tiger Lord barbarians.
+            13:
+                - Rushlight
+                - RU
+                - 108
+                - Unsettled grasslands claimed (in theory) by Pitax.
+            14:
+                - Glenebon Lowlands
+                - GL
+                - 108
+                - Largely empty grasslands with poor-quality soil.
+            15:
+                - Pitax
+                - PX
+                - 109
+                - Settled reaches of the kingdom of Pitax.
+            16:
+                - Glenebon Uplands
+                - GU
+                - 110
+                - Rugged hills, tangled undergrowth, rocky outcroppings.
+            17:
+                - Numeria
+                - NU
+                - 112
+                - Rugged badlands with sporadically vegetated hills.
+            18:
+                - Thousand Voices
+                - TV
+                - 115
+                - Dense, dangerous forest haunted by the First World.
+            19:
+                - Branthlend Mountains
+                - BR
+                - 117
+                - Dangerous, towering mountains.
+        CAMPING ZONES:
+            0:
+                - Brevoy
+                - 14
+                - 12
+                - 50
+            1:
+                - Rostland Hinterlands
+                - 15
+                - 12
+                - 50
+            2:
+                - Greenbelt
+                - 16
+                - 14
+                - 58
+            3:
+                - Tuskwater
+                - 18
+                - 12
+                - 69
+            4:
+                - Kamelands
+                - 19
+                - 12
+                - 78
+            5:
+                - Narlmarches
+                - 20
+                - 14
+                - 82
+            6:
+                - Sellen Hills
+                - 20
+                - 12
+                - 84
+            7:
+                - Dunsward
+                - 18
+                - 12
+                - 87
+            8:
+                - Nomen Heights
+                - 24
+                - 12
+                - 90
+            9:
+                - Tors of Levenies
+                - 28
+                - 16
+                - 91
+            10:
+                - Hooktongue
+                - 32
+                - 14
+                - 94
+            11:
+                - Drelev
+                - 28
+                - 12
+                - 103
+            12:
+                - Tiger Lords
+                - 28
+                - 12
+                - 105
+            13:
+                - Rushlight
+                - 26
+                - 12
+                - 108
+            14:
+                - Glenebon Lowlands
+                - 30
+                - 12
+                - 108
+            15:
+                - Pitax
+                - 29
+                - 12
+                - 109
+            16:
+                - Glenebon Uplands
+                - 35
+                - 12
+                - 110
+            17:
+                - Numeria
+                - 36
+                - 12
+                - 112
+            18:
+                - Thousand Voices
+                - 43
+                - 14
+                - 115
+            19:
+                - Branthlend Mountains
+                - 41
+                - 16
+                - 117
+        TERRAIN:
+            Aquatic:
+                Note: typically requires a boat or a swim speed; depends on the strengths of currents and the weather.
+                Resources:
+                    - seafood
+                    - coral
+                    - pearls
+                    - shipwrecks
+                Secrets: remote islands filled with monsters, isolated communities, pirates, flooded or underwater cities of aquatic creatures.
+            Artic:
+                Note: typically difficult or greater difficult terrain.
+                Resources:
+                    - scarce food (broken ice floes that allow for fishing)
+                    - breading grounds for seals or whales
+                Secrets: thawed passes that allow ship travel, hidden caverns, isolated communities of arctic dwellers.
+            Desert:
+                Note: typically difficult or greater difficult terrain.
+                Resources:
+                    - water sources (underground springs, oases, and streams)
+                    - mineral wealth
+                Secrets: Forgotten civilizations beneath the dunes
+            Forest:
+                Note: typically difficult terrain, or greater difficult terrain for a dense jungle.
+                Resources:
+                    - diverse flora and fauna
+                    - natural remedies
+                    - plentiful game
+                Secrets: bandit encampment, druid's henge, fey-touched glade or mushroom circle.			
+            Mountain: 
+                Note:  typically greater difficult terrain, or difficult terrain for hills.
+                Resources:
+                    - minerals
+                    - gold
+                    - silver
+                    - gemstones
+                Secrets: hidden pass, watchtower or waypoint contructed by a nearby empire, dragon's lair, bandit hideout.
+            Plains:
+                Note: open terrain
+                Resources:
+                    - useful plants (flax or cotton)
+                Secrets: artifats abandoned after a historic battle, valuabled buried by outlaws for later retrieval			
+            Swamp:
+                Note: typically greater difficult terrain
+                Resources:
+                    - materials useful for medicine or poison
+                Secrets: river raider camps, remains and gear of unlucky travelers, sites of mystic significance.
+Camping:
+    Info:
+        1: Zone DC is the base DC required for success at any skill check involved with securing the campsite or performing most campsite activities.
+        2: Encounter DC indicates the flat check DC of a random encounter occurring during the camping session, use associated Encounter Chart
+    Steps:
+        PREPARE A CAMPSITE:
+            Required: Minimum one PC or NPC uses the "PREPARE CAMPSITE" exploration activity.
+            Other Actions: Others can attempt the following Exploration activities Decipher Writing, Identify, Alchemy, Identify Magic, Repair, or Treat Wounds. They can also attempt to Influence an NPC companion or attempt to Aid the PC Preparing the Campsite.
+        CAMPING ACTIVITIES:
+        EATING:
+        RESTING:
+        DAILY PREPARATIONS:
+    Activities:
+        CAMOUFLAGE CAMPSITE:
+            Source: PF2 Companion Guide Page XX
+            Traits:
+                - Camping
+                - Manipulate
+                - Secret
+            Time: 1 Hour
+            Requirements: Trained in Stealth
+            Description: ou spend an hour concealing the camp from potential threats by covering tents with branches, ensuring campfire placement minimizes the spread of scent or smoke, reminding others to avoid making too many loud noises, and so on. Attempt a Stealth check against the Zone DC. You can only attempt to Camouflage Campsite once per camping session, regardless of the activity’s result.
+            Skill Check: Stealth
+            Check Result:
+                Critical Success: Your camouflage attempt exceeds expectation. Increase the Encounter DC for your camp by 2. The first time a flat check would result in an encounter during this camping session, instead treat that result as a failure with no encounter.
+                Success: Your work helps hide your camp from detection. Increase the Encounter DC for your camp by 1.
+                Critical Failure: You believe you’ve done well at your camouflage attempt but have actually forgotten something important or accidentally did something to make the campsite more noticeable. Decrease the Encounter DC for your camp by 2, and flat checks made to determine encounters result in a critical success on a roll of 19 or 20.
+        COOK BASIC MEAL:
+            Source: PF2 Companion Guide Page XX
+            Traits:
+                - Camping
+                - Manipulate
+            Time: 2 Hours
+            Description: You spend 2 hours preparing a meal. Expend 2 basic ingredients per serving you wish to prepare, as well as 1 day’s rations, or provisions from Subsisting, per serving. Once the party finishes all Camping activities and the characters have chosen which meals they wish to eat, attempt a DC 22 Survival check or a DC 18 Cooking Lore check to determine the effectiveness of your basic meal.
+            Skill Check: DC 22 Survival check or a DC 18 Cooking Lore 
+            Check Result:
+                Critical Success: You prepare a delicious meal. A character who eats this meal recovers Hit Points equal to their Constitution modifier (minimum 1) multiplied by twice their level when they rest during this camping session instead of the normal amount, and they gain a +1 status bonus to all saving throws until they complete their daily preparations, or begin adventuring again.
+                Success: You prepare a meal. A character who eats it gains a +1 status bonus to all saving throws until they complete their daily preparations or begin adventuring again.
+                Failure: Your meal fills bellies, but has no other effects.
+                Critical Failure: Your meal wreaks havoc on digestion. A character who partook of this meal becomes sickened 1 until after they rest and complete their daily preparations.
+        COOK SPECIAL MEAL:
+            Source: PF2 Companion Guide Page XX
+            Traits:
+                - Camping
+                - Manipulate
+            Time: 2 Hours
+            Requirements: Knowledge of the recipe
+            Description: You spend 2 hours preparing a special meal. Choose a special meal whose recipe the party knows and then expend the basic and special ingredients required for each serving you wish to prepare, as well as 1 day’s rations, or provisions from Subsisting, per serving. Special meal recipes are formulas you can purchase at a settlement or discover on your own with the Discover Special Meal activity.Cook Special Meal can be attempted multiple times during a camping session, but each attempt must use a different recipe. A character who is sickened can’t eat a special meal or gain its benefits. Once the party finishes all Camping activities and the characters have chosen which meals they wish to eat, attempt a Survival check or a Cooking Lore check to determine the effectiveness of your special meal. The DC of the check required varies by recipe. Unless the special meal’s description says otherwise, its effects last until the next time the party prepares a camp or 24 hours, whichever comes first.
+            Skill Check: Varies Survival or Cooking Lore
+            Check Result:
+                Critical Success: The character gains the recipe’s listed critical success effect.
+                Success: The character gains the recipe’s listed success effect.
+                Failure: The character gains no special benefit from the meal, though it still prevents starvation.
+                Critical Failure: The character suffers the recipe’s critical failure effect.
+        DISCOVER SPECIAL MEAL:
+            Source: PF2 Companion Guide Page XX
+            Traits:
+                - Camping
+                - Manipulate
+            Time: 2 Hours
+            Requirements: Trained in Cooking Lore
+            Description: You spend 2 hours attempting to discover a special recipe. Choose a common recipe from those listed starting on page 114; the recipe must be of a level equal to or less than the level of the zone you’re camping in. Expend twice the normal amount of ingredients required to prepare 1 serving of the special meal, then attempt that special meal’s Cooking Lore check.
+            Skill Check: Cooking Lore
+            Check Result:
+                Critical Success: You discover the special meal and add it to the list of recipes the party knows. In addition, your research was efficient, and you recover half of the ingredients you had to expend to attempt this activity.
+                Success: As critical success, but you do not recover any ingredients.
+                Failure: You fail to discover the special meal and do not recover any ingredients.
+                Critical Failure: As failure, but you also expose yourself to the special meal’s critical failure effect while performing an unwise taste test.
+        HUNT AND GATHER:
+            Source: PF2 Companion Guide Page XX
+            Traits:
+                - Camping
+                - Move
+            Time: 2 Hours
+            Requirements: Trained in Survival
+            Description: You spend 2 hours gathering ingredients. This supplements the food from Subsisting with additional ingredients you can use to cook basic or special meals, gaining greater effects than simply eating the rations alone. Attempt a Hunting Lore or Survival check against the Zone DC.
+            Skill Check: Varies Hunting Lore or Survival
+            Check Result:
+                Critical Success: You find a number of basic ingredients equal to twice the zone’s DC, plus 4 special ingredients. If you’re Hunting and Gathering in a zone that’s at least level 7, increase the number of special ingredients found to 8; if you’re doing so in a zone that’s at least level 14, increase it to 12.
+                Success: You find a number of basic ingredients equal to the zone’s DC, plus 1d4 special ingredients. If you’re Hunting and Gathering in a zone that’s at least level 7, increase the number of special ingredients found to 2d4; if you’re doing so in a zone that’s at least level 14, increase it to 3d4.
+                Failure: You find a number of basic ingredients equal to the zone’s DC.
+                Critical Failure: You find 1d4 basic ingredients (maximum equal to the zone’s DC). In addition, you’ve attracted attention. Make an additional flat check to determine if a random encounter occurs at your campsite following this activity.
+        LEARN FROM A COMPANION:
+            Source: PF2 Companion Guide Page XX
+            Traits:
+                - Camping
+                - Concentrate
+            Time: 2 Hours
+            Requirements: The companion to be learned from must be camping with you, and they must be at least Friendly.
+            Description: All of the companions in this book are presented with specialized Camping activities. Normally, in order for a PC to be able to attempt one of these specialized activities, that companion must be present in the camp as well, but this activity allows the companion to attempt to teach the party how to perform the activity on their own. You spend 2 hours with the companion when you attempt to learn from them, then attempt a DC 20 Perception check.
+            Skill Check: DC 20 Perception
+            Check Result:
+                Critical Success: s You learn the companion’s special activity. Any PC who meets that activity’s requirements (see table above) can now perform that activity even when the companion isn’t in the camp.
+                Success: You make progress in learning the special activity but require at least one more day to master it. If you attempt to Learn from this Companion the next time you camp, the result of that check is improved by one degree of success from the result rolled.
+                Failure: You fail to learn anything from the companion.
+                Critical Failure: You fail to learn from the companion, who grows frustrated with the party. No further attempts to Learn from this Companion can be attempted during this camping session.
+        ORGANIZE WATCH:
+            Source: PF2 Companion Guide Page XX
+            Traits:
+                - Camping
+            Time: 2 Hours
+            Requirements: Expert in Perception.
+            Description: You spend 2 hours to take the lead on organizing the camp’s watch rotation, optimizing shifts, and scouting the surrounding area to determine which approaches to the camp are most likely to be used by enemies. Attempt a Perception check against the Zone DC.
+            Skill Check: Perception
+            Check Result:
+                Critical Success: The camp’s watch is efficient. Treat the total time required for rest as if the party size were 1 more, and all characters gain a +2 status bonus to Perception checks made during their shift on watch.
+                Success: Characters gain a +1 status bonus to Perception checks made during their shift on watch.
+                Failure: Your attempt to organize the watch doesn’t grant any additional benefits.
+                Critical Failure: As failure, but you may have attracted unwanted attention. Attempt a flat check against the zone’s Encounter DC to determine if a random encounter occurs.
+        PROVIDE AID:
+            Source: PF2 Companion Guide Page XX
+            Traits:
+                - Camping
+                - Concentrate
+            Time: 2 Hours
+            Requirements: The ally is willing to accept your aid on a Camping activity that requires a check for success.
+            Description: You take 2 hours to aid another character in their Camping activity. When you Provide Aid, attempt a skill check of a type decided by the GM. The typical DC is 20, but the GM might adjust this DC for particularly hard or easy tasks. You can Provide Aid as many times as you want during a camping session, but remember that the circumstance bonuses granted by Provide Aid do not stack.
+            Skill Check: Varies
+            Check Result:
+                Critical Success:  You grant your ally a +2 circumstance bonus to the activity. If you’re a master with the check you attempted, the bonus is +3, and if you’re legendary, it’s +4.
+                Success: You grant your ally a +1 circumstance bonus to the activity’s check.
+                Critical Failure: Your ally takes a –1 circumstance penalty to their activity’s check.
+        RELAX:
+            Source: PF2 Companion Guide Page XX
+            Traits:
+                - Camping
+            Time: 2 Hours
+            Description: You spend 2 hours listening to campfire stories, chatting, reading, meditating, napping, or otherwise simply relaxing. You gain a +1 circumstance bonus to the next check you make in order to resolve a Camping activity, provided that check happens during this camping session. A character that’s suffering a status penalty from a critical failure on the Tell Campfire Story activity removes that penalty after spending an hour Relaxing. You can Relax as many times as you want during a camping session.
+        TELL CAMPFIRE STORY:
+            Source: PF2 Companion Guide Page XX
+            Traits:
+                - Camping
+                - Concentrate
+                - Emotion
+                - Linguistic
+                - Mental
+            Time: 2 Hours
+            Description: You spend 2 hours telling a rousing story, perhaps one of your previous adventures or something that was in turn told to you around a campfire. The GM might award a +1 circumstance bonus to your check if the story is relevant to your recent or upcoming adventures, or if it reflects one or more characters’ personal stories. Attempt a Performance check against a DC equal to that set by your own level, as given on Table 10–5 on page 503 of the Core Rulebook.All allies in your camp can potentially gain benefits from your stories, but those who spend the hour Relaxing gain the greatest benefits. An ally who spends the two hours of your campfire story Hunting and Gathering or is otherwise outside of the camp’s immediate area is not affected by your campfire story.
+            Skill Check: Performance DC Varies
+            Check Result:
+                Critical Success: You inspire your allies dramatically. For the remainder of the camping session, your allies gain a +2 status bonus to attack rolls, saving throws, and skill checks during combat at the campsite. The bonuses end as soon as daily preparations begin after resting is concluded. If an ally spent the hour Relaxing, they can also choose to reroll a failed roll at any time once during the remainder of the camping session while the status bonus persists; this is a fortune effect.
+                Success: You inspire your allies. As critical success, but the status bonus is +1. An ally who spent the hour Relaxing receives a +2 status bonus but does not receive the reroll effect granted by a critical success.
+                Failure: Your allies are unmoved and receive no benefits.
+                Critical Failure:  Your story distracts or unsettles your allies. They each take a –1 status penalty to skill checks until they Relax or until they begin daily preparations.
+Exploration:
+    Activities:
+        PREPARE A CAMPSITE:
+            Source: PF2 Kingmaker Adventure Path
+            Traits:
+                - Concentrate
+                - Exploration
+                - Move
+            Description: You spend 2 hours searching the hex for a safe and secure location to make camp and then setting up the campsite itself by attempting a Survival check against the Zone DC of the region you’re located in (see the Camping Zones table below). Once a campsite is prepared, you can use the Prepare Campsite activity in this same hex again in the future (but no more than once per 24 hours) to automatically achieve the same degree of success with only an hour of work.
+            Time: 2
+            Skill Check: Survival
+            Check Result:
+                Critical Success: You find the perfect spot for a camp. Flat checks to determine encounters at the campsite for the next 24 hours have a DC 2 higher than normal, and the first hour spent performing Camping activities does not incur the usual flat check for random encounters.
+                Success: You find a serviceable spot for a camp and for Camping activities.
+                Failure: Your campsite will work, but it’s not the best. Campsite activities that require checks take a –2 penalty.
+                Critical Failure: The campsite is a mess. You can use it to rest and to perform daily preparations, but it isn’t good enough to allow for Campsite activities at all. Worse, your attempt to secure a campsite has possibly attracted unwanted attention—attempt a flat check against the zone’s Encounter DC. If successful, a random encounter automatically occurs.
+        HUSTLE:
+            Source: PF2 Core Rulebook Page 480
+            Traits:
+                - Exploration
+                - Move
+            Description: You strain yourself to move at double your travel speed. You can Hustle only for a number of minutes equal to your Constitution modifier × 10 (minimum 10 minutes). If you are in a group that is Hustling, use the lowest Constitution modifier among everyone to determine how fast the group can Hustle together.
+            Time: Varies
+            Speed: Double
+            Skill Check: Constitution Modifer * 10 (Minimum 10 Minutes)
+        INVESTIGATE:
+            Source: PF2 Core Rulebook Page 480
+            Traits:
+                - Concentrate
+                - Exploration
+            Description: You seek out information about your surroundings while traveling at half speed. You use Recall Knowledge as a secret check to discover clues among the various things you can see and engage with as you journey along. You can use any skill that has a Recall Knowledge action while Investigating, but the GM determines whether the skill is relevant to the clues you could find.
+            Time: Varies
+            Speed: Half
+            Skill Check: Recall Knowledge
+        REPEAT A SPELL:
+            Source: PF2 Core Rulebook Page 480
+            Traits:
+                - Concentrate
+                - Exploration
+            Description: You repeatedly cast the same spell while moving at half speed. Typically, this spell is a cantrip that you want to have in effect in the event a combat breaks out, and it must be one you can cast in 2 actions or fewer. In order to prevent fatigue due to repeated casting, you’ll likely use this activity only when something out of the ordinary occurs. You can instead use this activity to continue Sustaining a Spell or Activation with a sustained duration. Most such spells or item effects can be sustained for 10 minutes, though some specify they can be sustained for a different duration.
+            Speed: Half
+        SCOUT:
+            Source: PF2 Core Rulebook Page 480
+            Traits:
+                - Concentrate
+                - Exploration
+            Description: You scout ahead and behind the group to watch danger, moving at half speed. At the start of the next encounter, every creature in your party gains a +1 circumstance bonus to their initiative rolls
+            Speed: Half
+
+        SEARCH:
+            Source:  PF2 Core Rulebook Page 480
+            Traits:
+                - Concentrate
+                - Exploration
+            Description: You Seek meticulously for hidden doors, concealed hazards, and so on. You can usually make an educated guess as to which locations are best to check and move at half speed, but if you want to be thorough and guarantee you checked everything, you need to travel at a Speed of no more than 300 feet per minute, or 150 feet per minute to ensure you check everything before you walk into it. You can always move more slowly while Searching to cover the area more thoroughly, and the Expeditious Search feat increases these maximum Speeds. If you come across a secret door, item, or hazard while Searching, the GM will attempt a free secret check to Seek to see if you notice the hidden object or hazard. In locations with many objects to search, you have to stop and spend significantly longer to search thoroughly.
+            Speed: Half
+            Skill Check: Perception
+        BURROW AN ARCANE SPELL:
+            Source: PF2 Core Rulebook Page 241 
+            Traits:
+                - Concentrate
+                - Exploration
+            Description: If you’re an arcane spellcaster who prepares from a spellbook, you can attempt to prepare a spell from someone else’s spellbook. The GM sets the DC for the check based on the spell’s level and rarity; it’s typically a bit easier than Learning the Spell.
+            Check Result:
+                Success: You prepare the borrowed spell as part of your normal spell preparation.
+                Failure: You fail to prepare the spell, but the spell slot remains available for you to prepare a different spell. You can’t try to prepare this spell until the next time you prepare spells.
+        COERCE:
+            Source: Core Rulebook Page 247
+            Traits:
+                - Auditory
+                - Concentrate
+                - Emotion
+                - Exploration
+                - Linguistic
+                - Mental
+            Description: With threats either veiled or overt, you attempt to bully a creature into doing what you want. You must spend at least 1 minute of conversation with a creature you can see and that can either see or sense you. At the end of the conversation, attempt an Intimidation check against the target's Will DC, modified by any circumstances the GM determines. The attitudes referenced in the effects below are summarized in the Changing Attitudes sidebar and described in full in the Conditions page.
+            Skill Check: Intimidation 
+            Check Result: 
+                Critical Success: The target gives you the information you seek or agrees to follow your directives so long as they aren't likely to harm the target in any way. The target continues to comply for an amount of time determined by the GM but not exceeding 1 day, at which point the target becomes unfriendly (if they weren't already unfriendly or hostile). However, the target is too scared of you to retaliate—at least in the short term.
+                Success: As critical success, but once the target becomes unfriendly, they might decide to act against you—for example, by reporting you to the authorities or assisting your enemies.
+                Failure: The target doesn’t do what you say, and if they were not already unfriendly or hostile, they become unfriendly.
+                Critical Failure: The target refuses to comply, becomes hostile if they weren’t already, and can’t be Coerced by you for at least 1 week.
+        COVER TRACKS:
+            Source: Core Rulebook Page 252 
+            Traits:
+                - Concentrate
+                - Exploration
+                - Move
+            Description: You cover your tracks, moving up to half your travel speed. You don’t need to attempt a Survival check to cover your tracks, but anyone tracking you must succeed at a Survival check against your Survival DC if it is higher than the normal DC to Track. In some cases, you might Cover Tracks in an encounter. In this case, Cover Tracks is a single action and doesn’t have the exploration trait.
+            Speed: Half
+            Skill Check: Survival
+        DECIPHER WRITING:
+            Source: Core Rulebook Page 234 
+            Traits:
+                - Concentrate
+                - Exploration
+                - Secret
+            Description: You attempt to decipher complicated writing or literature on an obscure topic. This usually takes 1 minute per page of text, but might take longer (typically an hour per page for decrypting ciphers or the like). The text must be in a language you can read, though the GM might allow you to attempt to decipher text written in an unfamiliar language using Society instead. The DC is determined by the GM based on the state or complexity of the document. The GM might have you roll one check for a short text or a check for each section of a larger text.
+            Time: Varies
+            Check Result:
+                Critical Success: You understand the true meaning of the text.
+                Success: You understand the true meaning of the text. If it was a coded document, you know the general meaning but might not have a word-for-word translation.
+                Failure: You can’t understand the text and take a –2 circumstance penalty to further checks to decipher it.
+                Critical Failure: You believe you understand the text on that page, but you have in fact misconstrued its message.
+        GATHER INFORMATION:
+            Source: Core Rulebook Page 246
+            Traits:
+                - Exploration
+                - Secret
+            Description: You canvass local markets, taverns, and gathering places in an attempt to learn about a specific individual or topic. The GM determines the DC of the check and the amount of time it takes (typically 2 hours, but sometimes more), along with any benefit you might be able to gain by spending coin on bribes, drinks, or gifts.
+            Time: 2 Hours or more.
+            Skill Check: Varies
+            Check Result:
+                Success: You collect information about the individual or topic. The GM determines the specifics.
+                Failure: You collect incorrect information about the individual or topic.
+        IDENTIFY ALCHEMY:
+            Source: Core Rulebook Page 245
+            Traits: 
+                - Concentrate
+                - Exploration
+                - Secret
+            Description: You can identify the nature of an alchemical item with 10 minutes of testing using alchemist’s tools. If your attempt is interrupted in any way, you must start over.
+            Time: 10 Minutes
+            Check Result:
+                Success: You identify the item and the means of activating it.
+                Failure: You fail to identify the item but can try again.
+                Critical Failure: You misidentify the item as another item of the GM’s choice.
+        IDENTIFY MAGIC:
+            Source: Core Rulebook Page 238
+            Traits:
+                - Concentrate
+                - Exploration
+                - Secret
+            Description: Once you discover that an item, location, or ongoing effect is magical, you can spend 10 minutes to try to identify the particulars of its magic. If your attempt is interrupted, you must start over. The GM sets the DC for your check. Cursed or esoteric subjects usually have higher DCs or might even be impossible to identify using this activity alone. Heightening a spell doesn’t increase the DC to identify it.
+            Time: 10 Minutes
+            Check Result:
+                Critical Success: You learn all the attributes of the magic, including its name (for an effect), what it does, any means of activating it (for an item or location), and whether it is cursed.
+                Success: For an item or location, you get a sense of what it does and learn any means of activating it. For an ongoing effect (such as a spell with a duration), you learn the effect’s name and what it does. You can’t try again in hopes of getting a critical success.
+                Failure: You fail to identify the magic and can’t try again for 1 day.
+                Critical Failure: You misidentify the magic as something else of the GM’s choice.
+        IMPERSONATE:
+            Source: Core Rulebook Page 245
+            Traits:
+                - Concentrate
+                - Exploration
+                - Manipulate
+                - Secret
+            Description: You create a disguise to pass yourself off as someone or something you are not. Assembling a convincing disguise takes 10 minutes and requires a disguise kit, but a simpler, quicker disguise might do the job if you’re not trying to imitate a specific individual, at the GM’s discretion. In most cases, creatures have a chance to detect your deception only if they use the Seek action to attempt Perception checks against your Deception DC. If you attempt to directly interact with someone while disguised, the GM rolls a secret Deception check for you against that creature’s Perception DC instead. If you’re disguised as a specific individual, the GM might give creatures you interact with a circumstance bonus based on how well they know the person you’re imitating, or the GM might roll a secret Deception check even if you aren’t directly interacting with others.
+            Time: 10 Minutes
+            Skill Check: Deception
+            Check Result:
+                Success: You trick the creature into thinking you’re the person you’re disguised as. You might have to attempt a new check if your behavior changes.
+                Failure: The creature can tell you’re not who you claim to be.
+                Critical Failure: The creature can tell you’re not who you claim to be, and it recognizes you if it would know you without a disguise.
+        LEARN A SPELL:
+            Source:  Core Rulebook Page 238
+            Traits:
+                - Concentrate
+                - Exploration
+            Description: You can gain access to a new spell of your tradition from someone who knows that spell or from magical writing like a spellbook or scroll. If you can cast spells of multiple traditions, you can Learn a Spell of any of those traditions, but you must use the corresponding skill to do so. For example, if you were a cleric with the bard multiclass archetype, you couldn't use Religion to add an occult spell to your bardic spell repertoire. To learn the spell, you must do the following Spend 1 hour per level of the spell, during which you must remain in conversation with a person who knows the spell or have the magical writing in your possession. Have materials with the Price indicated in Table 4–3. Attempt a skill check for the skill corresponding to your tradition (DC determined by the GM, often close to the DC on Table 4–3). Uncommon or rare spells have higher DCs. If you have a spellbook, Learning a Spell lets you add the spell to your spellbook; if you prepare spells from a list, it's added to your list; if you have a spell repertoire, you can select it when you add or swap spells.
+            Time: 1 Hour
+            Skill Check: Varies
+            Check Result:
+                Critical Success: You expend half the materials and learn the spell.
+                Success: You expend the materials and learn the spell.
+                Failure: You fail to learn the spell but can try again after you gain a level. The materials aren’t expended.
+                Critical Failure: As failure, plus you expend half the materials.
+        MAKE AN IMPRESSION:
+            Source: Core Rulebook Page 246 
+            Traits:
+                - Auditory
+                - Concentrate
+                - Exploration
+                - Linguistic
+                - Mental
+            Description: With at least 1 minute of conversation, during which you engage in charismatic overtures, flattery, and other acts of goodwill, you seek to make a good impression on someone to make them temporarily agreeable. At the end of the conversation, attempt a Diplomacy check against the Will DC of one target, modified by any circumstances the GM sees fit. Good impressions (or bad impressions, on a critical failure) last for only the current social interaction unless the GM decides otherwise.
+            Time: Varies
+            Skill Check: Diplomacy
+            Check Result:
+                Critical Success: The target’s attitude toward you improves by two steps.
+                Success: The target’s attitude toward you improves by one step.
+                Critical Failure: The target’s attitude toward you decreases by one step.
+        REPAIR:
+            Source: Core Rulebook Page 243
+            Traits:
+                - Exploration
+                - Manipulate
+            Description: You spend 10 minutes attempting to fix a damaged item, placing the item on a stable surface and using the repair kit with both hands. The GM sets the DC, but it’s usually about the same DC to Repair a given item as it is to Craft it in the first place. You can’t Repair a destroyed item.
+            Time: 10 Minutes
+            Skill Check: Craft
+            Check Result:
+                Critical Success: You restore 10 Hit Points to the item, plus an additional 10 Hit Points per proficiency rank you have in Crafting (a total of 20 HP if you’re trained, 30 HP if you’re an expert, 40 HP if you’re a master, or 50 HP if you’re legendary).
+                Success: You restore 5 Hit Points to the item, plus an additional 5 per proficiency rank you have in Crafting (for a total of 10 HP if you are trained, 15 HP if you’re an expert, 20 HP if you’re a master, or 25 HP if you’re legendary).
+                Critical Failure: Critical Failure You deal 2d6 damage to the item. Apply the item’s Hardness to this damage.
+        SENSE DIRECTION:
+            Source: Core Rulebook Page 252
+            Traits:
+                - Exploration
+                - Secret
+            Description: Using the stars, the position of the sun, traits of the geography or flora, or the behavior of fauna, you can stay oriented in the wild. Typically, you attempt a Survival check only once per day, but some environments or changes might necessitate rolling more often. The GM determines the DC and how long this activity takes (usually just a minute or so). More unusual locales or those you’re unfamiliar with might require you to have a minimum proficiency rank to Sense Direction. Without a compass, you take a –2 item penalty to checks to Sense Direction.
+            Skill Check: Survival
+            Check Result:
+                Critical Success: You get an excellent sense of where you are. If you are in an environment with cardinal directions, you know them exactly.
+                Success: You gain enough orientation to avoid becoming hopelessly lost. If you are in an environment with cardinal directions, you have a sense of those directions.
+        SQUEEZE:
+            Source: Core Rulebook Page 241
+            Traits:
+                - Exploration
+                - Move
+            Description: You contort yourself to squeeze through a space so small you can barely fit through. This action is for exceptionally small spaces; many tight spaces are difficult terrain that you can move through more quickly and without a check.
+            Time: Varies
+            Speed: Varies
+            Check Result:
+                Critical Success: You squeeze through the tight space in 1 minute per 10 feet of squeezing.
+                Success: You squeeze through in 1 minute per 5 feet.
+                Critical Failure: You become stuck in the tight space. While you’re stuck, you can spend 1 minute attempting another Acrobatics check at the same DC. Any result on that check other than a critical failure causes you to become unstuck.
+        TRACK:
+            Source: Core Rulebook Page 252
+            Traits:
+                - Concentrate
+                - Exploration
+                - Move
+            Description: You follow tracks, moving at up to half your travel speed. After a successful check to Track, you can continue following the tracks at half your Speed without attempting additional checks for up to 1 hour. In some cases, you might Track in an encounter. In this case, Track is a single action and doesn’t have the exploration trait, but you might need to roll more often because you’re in a tense situation. The GM determines how often you must attempt this check. You attempt your Survival check when you start Tracking, once every hour you continue tracking, and any time something significant changes in the trail. The GM determines the DCs for such checks, depending on the freshness of the trail, the weather, and the type of ground.
+            Time: 1 Hour
+            Speed: Half
+            Skill Check: Survival
+            Check Result:
+                Success: You find the trail or continue to follow the one you’re already following.
+                Failure: You lose the trail but can try again after a 1-hour delay.
+                Critical Failure: You lose the trail and can’t try again for 24 hours.
+        TREAT WOUNDS:
+            Source: Core Rulebook Page 249 
+            Traits:
+                - Exploration
+                - Healing
+                - Manipulate
+            Description: You spend 10 minutes treating one injured living creature (targeting yourself, if you so choose). The target is then temporarily immune to Treat Wounds actions for 1 hour, but this interval overlaps with the time you spent treating (so a patient can be treated once per hour, not once per 70 minutes). The Medicine check DC is usually 15, though the GM might adjust it based on the circumstances, such as treating a patient outside in a storm, or treating magically cursed wounds. If you’re an expert in Medicine, you can instead attempt a DC 20 check to increase the Hit Points regained by 10; if you’re a master of Medicine, you can instead attempt a DC 30 check to increase the Hit Points regained by 30; and if you’re legendary, you can instead attempt a DC 40 check to increase the Hit Points regained by 50. The damage dealt on a critical failure remains the same. If you succeed at your check, you can continue treating the target to grant additional healing. If you treat them for a total of 1 hour, double the Hit Points they regain from Treat Wounds. The result of your Medicine check determines how many Hit Points the target regains.
+            Time: 10 Minutes
+            Skill Check: Medicine
+            Check Result:
+                Critical Success: The target regains 4d8 Hit Points, and its wounded condition is removed.
+                Success: The target regains 2d8 Hit Points, and its wounded condition is removed.
+                Critical Failure: The target takes 1d8 damage.
+        TRAVEL:
+            Source: PF2 Gamemastery Guide pg. 172
+            Traits:
+                - Move
+            Description: You progress toward moving into an adjacent hex. In open terrain, like a plain, using 1 Travel activity allows you to move from one hex to an adjacent hex. Traversing a hex with difficult terrain (such as a typical forest or desert) requires 2 Travel activities, and hexes of greater difficult terrain (such as a steep mountain or typical swamp) require 3 Travel activities to traverse. Traveling along a road uses a terrain type one step better than the surrounding terrain. For example, if you are traveling on a road over a mountain pass, the terrain is difficult terrain instead of greater difficult terrain. The Travel activity assumes you are walking overland. If you are flying or traveling on water, most hexes are open terrain, though there are exceptions. Flying into storms or high winds count as difficult or greater difficult terrain. Traveling down a river is open terrain, but traveling upriver is difficult or greater difficult terrain.
+            Time: Varies
+            Speed: Varies
+        RECONNOITER:
+            Source: Gamemastery Guide Page 173
+            Traits:
+                - Concentrate
+            Description: You spend time surveying and exploring a specific area, getting the lay of the land and looking for unusual features and specific sites. Reconnoitering a single hex takes a number of hexploration activities equal to the number of Travel activities necessary to traverse the hex—1 for open terrain, 2 for difficult terrain, and 3 for greater difficult terrain. Traveling on roads doesn’t lessen the time required to Reconnoiter. Once the hex has been Reconnoitered, you can Map the Area to reduce your chance of getting lost in that hex (see below). You automatically find any special feature that doesn’t require a check to find, and you attempt the appropriate checks to find hidden special features. For instance, if you were looking for an obvious rock formation among some hills, you would spend 2 hexploration activities to Reconnoiter the hex, and you’d find the rock formation. But if you were looking for a hidden tengu monastery somewhere in some deep forests, after spending 2 activities to Reconnoiter the forest hex, you would have to succeed at a Perception check as part of your Reconnoiter activity to find the monastery.
+            Time: Varies
+            Speed: Varies
+            Skill Check: Varies
+        FORTIFY CAMPING:
+            Source: Gamemastery Guide Page 173
+            Description: You can spend time fortifying your camp for defense with a successful Crafting check (typically at a trained or expert DC). Anyone keeping watch or defending the camp gains a +2 circumstance bonus to initiative rolls and Perception checks to Seek creatures attempting to sneak up on the camp.
+            Time: Varies
+            Skill Check: No Checks
+        MAP THE AREA:
+            Source: Gamemastery Guide Page 173
+            Traits:
+                - Concentrate
+            Description: As long as your group has successfully Reconnoitered the hex, you can use this activity to create an accurate map of the hex with a successful Survival check (typically at a trained or expert DC). When you have an accurate map of the hex, the DC of any check to navigate that hex is reduced by 2.
+            Skill Check: Survival
+Downtime:
+Generators:
+    Rumors:
+        CENTRAL STOLEN LANDS:
+            Note: These rumors can be discovered in Brevoy or in zones 1–6. If you want to constrain lower-level PCs to hearing rumors for sites that won’t challenge them beyond their capabilities, roll 1d10 on this table instead of 1d20.
+            1: Breeg Orlivanch, a foul-mannered trapper, has been missing for some time; they say he gave up trapping and joined a bandit camp hidden at the head of Thorn River! (False.)
+            2: Some of the bandits wear amulets that resemble a stag’s skull. These bandits belong to a debased cult dedicated to a hideous animal demon. (The second sentence is false.)
+            3: There used to be a bridge crossing the Shrike River to the southeast, but bandits ruined it. They say the old bridge keeper Davik Nettles haunts the place now.
+            4: The bandits are getting braver and more organized, and there are whispers they’ve got a new leader a man who dresses in animals’ bones and calls himself the Stag Lord.
+            5: Bandits aren’t the only things in the Kamelands that cause trouble—kobolds and gremlins live in the hills too. They aren’t as much trouble as the bandits, but their presence certainly makes the idea of settling the land less attractive.
+            6: The primary trade route between the River Kingdoms and Brevoy is the East Sellen River, a major waterway that runs through a swampy region to the west called the Hooktongue Slough. That trade route has been closed for several months, due to increasing violence from members of the boggard knots who dwell there. Hopefully, the frog folk keep to the swamp and don’t turn their bulging eyes east toward the Narlmarches!
+            7: A group of evil monks and priests of the goddess of hatred, extortion, and spite once lived on the northern shore of the Tuskwater. I bet there are still cultists out there, and that they’re behind the sudden rise in bandit raids! (Partially false a monastery dedicated to Gyronna did once sit on the shores of the Tuskwater, and while the bandits have repurposed the ruined structure as their hideout, Gyronna’s faith has nothing to do with the Stag Lord or his bandits.)
+            8: Some people report that a unicorn lives in the Narlmarches, but sightings of the magnificent creature have fallen off in recent months. Perhaps the unicorn was driven out by the bandits?
+            9: Folks have mentioned spotting strange plantlife and fungi growing in the wilds—flora that doesn’t seem natural to the Stolen Lands. (This rumor doesn’t pertain to any one encounter in particular, but is meant to foreshadow the growing influence of the First World over the region as the Adventure Path progresses.)
+            10: An old friend of a friend had a brother—a traveling wizard—who went missing in the Stolen Lands a while back. His spellbook is probably just rotting away in the underbrush or in some monster’s lair. Shame, really!
+            11: The Stag Lord has risen from the dead and now stalks the Greenbelt, gathering an army of ghostly bandits from an ancient crypt in the eastern Kamelands. (This rumor is false, but can’t occur at all until after the PCs kill the Stag Lord at the end of Chapter 3.)
+            12: Beware the hateful hermit to the south. He speaks to beasts and lives in a hollow tree.
+            13: A red dragon lives in the Narlmarches and eats anyone who crosses its path. (False. This rumor is the result of sightings of the drake at area SP1.)
+            14: Some gnome explorers came by a few weeks ago, claiming they’re here to map the entire Greenbelt; they were last seen heading up the Skunk River.
+            15: A hag known as the Swamp Witch lives in a marsh on the northwest shore of the Tuskwater. She consorts with demons and steals children, boiling them for stew in her magic cauldron. (False.)
+            16: A brutish hill giant has been seen wandering the southern Kamelands. Give him a wide berth—or a stiff drink—and he’ll leave you alone. For the most part.
+            17: To the west, there’s an old ruin built long ago by the elves. Some say it’s full of treasure, but others say it’s haunted by angry spirits and worse.
+            18: In the southern Stolen Lands dwells a band of violent lizardfolk led by a lizard king who talks to the spirits of his dead ancestors.
+            19: The old tower on the island in Candlemere marks a place where the boundary between this world and another has grown thin; it’s now guarded by some sort of deadly monster.
+            20: The Swamp Witch is friendly enough if you call out to her before you enter her yard. Those foolish enough to trespass end upworking for her as scarecrows or worse! (The former is true, but the latter is false.)
+        EASTERN STOLEN LANDS:
+            Note: These rumors can be discovered in zones 7–9.
+            1: A silver dragon lives in the Tors of Levenies, but no one has seen her for sometime. Perhaps she moved on? (Partially false the silver dragon is now dead.)
+            2: A giant bird lives in the ruins of an old tower on Talon Peak.
+            3: Lake monsters lurk in Lake Silverstep, they say, but the eels that also live there make damn fine eating.
+            4: The centaurs of Nomen, in the Dunsward, are violent and territorial; if you’re going to visit them, don’t make any sudden moves when one of their war parties approaches you.
+            5: The centaurs from Nomen eat humans. I suppose that’s not technically cannibalism—but still pretty horrible! (False.)
+            6: One of my cousin’s friend’s fathers was an assayer, and he says that there’s probably some pretty good grounds for mining south of Lake Silverstep.
+            7: One-eyed giants once ruled this entire area; the strangely regular mounds you see on the Tors now and then are the ruins of their lost kingdom.
+            8: There’s a valley to the south that the Nomen clan centaurs say is an old cyclops graveyard. It’s said that an army of one-eyed, blood-drinking ghosts guards the place! (Partially false the cemetery contains no ghosts.)
+            9: The Nomen centaurs bury their dead in strange boneyards in the Dunsward; there’s probably lots of treasure buried with them. Too bad the places are swarming with undead centaurs! (False.)
+            10: A group of spriggans lives somewhere in the Tors. They’ve been at war with the Nomen centaurs for as long as anyone, I reckon. Rumor holds that the current spriggan leader stole a magic bow from the centaurs quite a few years ago, and that’s what started the whole fight between them.
+        WESTERN STOLEN LANDS:
+            Note: These rumors can be discovered in zones 10–12.
+            1: The Tiger Lord barbarians have a new warlord who seeks a powerful weapon long thought lost; if he finds this weapon, he may become a dangerous foe.
+            2: Baron Drelev has taken on a beautiful young lover, much to his wife’s dismay... and with good cause, for this lover is in fact a succubus who has dominated the baron and is behind all of Fort Drelev’s problems. (Partially false the baron’s lover is human.)
+            3: There’s a secret tunnel between the dungeons of Drelev Keep and a hidden exit somewhere near the city.
+            4: Baron Drelev was a plant from Pitax from the start, and he’s only now showing his true colors—“surrendering” to King Castruccio was just a sham. (False, and this rumor won’t start to circulate until the PCs are about to start Chapter 7.)
+            5: The most powerful boggard settlement in the swamp has found a strange new god to worship.
+            6: Giants have been spotted to the north; some say they’re part of a larger force moving in from Numeria, and they carry strange weaponry with them. (False.)
+            7: People say the black dragon Ilthuliak has returned to the Stolen Lands and has recently moved into Hooktongue Slough. (Partially false Ilthuliak is back, but her lair is in the Branthlend Mountains).
+            8: An old but dangerous saber-toothed tiger called Speartooth lives somewhere in the hills north of the swamp. Baron Drelev hired a hard-case hunter to seek out the tiger and kill it, but no one’s heard of the hunter since. The tiger must have eaten him!
+            9: A group of strange, intelligent insects known as bog striders live in the swamp. They’re said to be at war with the much more prolific boggards.
+            10: Old Hooktongue, the lake monster, hasn’t been sighted in many years. (True.) Maybe he died? (False.)
+        PITAX:
+            Note: These rumors can be discovered in zones 13–19.
+            1: A flight of wyverns has destroyed the village of Littletown, and they say that King Castruccio Irovetti actually gave the wyverns permission to do so! (This rumor won’t start until after the War of the River Kings begins.)
+            2: A lot of folks are unhappy with Castruccio’s rule, including a woman named Ilora Nuski, who once led the River Razors. She’s said to be hiding out in the wilds still, plotting a way to raise an army against the king.
+            3: Castruccio caught a huge remorhaz several years ago. He marched it through Pitax and still keeps it in his dungeon as a pet.
+            4: There’s a mammoth graveyard in the Branthlend Mountains; whoever discovers it will surely make a great fortune in ivory!
+            5: Some say that the black dragon Ilthuliak is dead, but a friend of a friend saw her flying over Glenebon just last month!
+            6: The old abbey on Whiterose Hill is still haunted by the priests of Cayden Cailean who were murdered there years ago. (Partially false it’s haunted by their murderer.)
+            7: The so-called mother of all wyverns, Minognos-Ushad, lives in a cave just at the easternmost edge of Thousand Voices.
+            8: Castruccio has fallen under the spell of a vampire priestess of Urgathoa who lives in a secret cave under his palace. She wants to turn Pitax into a necropolis! (False.)
+            9: The mastodon-riding hill giants known as Tusker’s Riders are on the march! Some say King Castruccio hired them, but I don’t believe that.
+            10: Somewhere in Thousand Voices lies a mysterious ruin called the Castle of Knives, but no one seems to know who built it.
+Hex-Encounter:
+    Hex-Crawl:
+        Zone 1 - ROSTLAND HINTERLANDS (RL):
+            0:
+                Dice:
+                    - 1
+                    - 2
+                    - 3
+                    - 4
+                    - 5
+                Encounter: 3 Bandits
+                Notes: Use stats for Thorn River bandits PF2 Kingmaker Adventure Path Book Page 170
+                Challenge: Low 1
+            1:
+                Dice:
+                    - 6
+                    - 7
+                    - 8
+                Encounter: 2 Brush Thylacines
+                Notes: PF2 Kingmaker Adventure Path Book Page 609
+                Challenge: Low 1
+            2:
+                Dice:
+                    - 9
+                    - 10
+                    - 11
+                Encounter: 1 Hunter
+                Notes: Use stats for poacher PF2 Gamemastery Guide Page 218
+                Challenge: Low 1
+            3:
+                Dice:
+                    - 12
+                    - 13
+                Encounter: 2 Elk
+                Notes: PF2 Kingmaker Adventure Path Book Page 608
+                Challenge: Moderate 1
+            4:
+                Dice:
+                    - 14
+                    - 15
+                Encounter: 2 Wolves
+                Notes: PF2 Beastiary I Book Page 334
+                Challenge: Moderate 1
+            5:
+                Dice:
+                    - 16
+                    - 17
+                Encounter: 2 Boars
+                Notes: PF2 Beastiary I Book Page 43
+                Challenge: Moderate 1
+            6:
+                Dice:
+                    - 18
+                    - 19
+                Encounter: 3 Thylacines
+                Notes: PF2 Kingmaker Adventure Path Book Page 609
+                Challenge: Moderate 1
+            7:
+                Dice:
+                    - 20
+                Encounter: 1 Grizzly Bear
+                Notes: PF2 Beastiary I Book Page 40
+                Challenge: Severe 1
+                
+
+
+        Zone 2 - GREENBELT (GB):
+            0:
+                Dice:
+                    - 1
+                    - 2
+                    - 3
+                    - 4
+                    - 5
+                Encounter: Roll on zone 1 table
+                Notes: PF2 Kingmaker Adventure Path Book Page 52
+                Challenge: Varies
+                Reroll: Zone 1 - ROSTLAND HINTERLANDS (RL)
+            1:
+                Dice:
+                    - 6
+                    - 7
+                    - 8
+                Encounter: 4 Mitflit Gremlins
+                Notes: PF2 Beastiary I Book Page XX
+                Challenge: Low 2
+            2:
+                Dice:
+                    - 9
+                    - 10
+                    - 11
+                Encounter: 2 Hunting Spiders
+                Notes: PF2 Beastiary I Book Page XX
+                Challenge: Low 2
+            3:
+                Dice:
+                    - 12
+                    - 13
+                Encounter: 4 Stag Lord Bandits
+                Notes: PF2 Kingmaker Adventure Path Book Page 177
+                Challenge: Moderate 2
+            4:
+                Dice:
+                    - 14
+                    - 15
+                Encounter: 2 Brush Thylacines
+                Notes: PF2 Kingmaker Adventure Path Book Page 609
+                Challenge: Moderate 2
+            5:
+                Dice:
+                    - 16
+                    - 17
+                Encounter: 5 Kobolds
+                Notes: PF2 Beastiary I Book Page XX
+                Challenge: Moderate 2
+            6:
+                Dice:
+                    - 18
+                    - 19
+                Encounter: 1 Owlbear
+                Notes: PF2 Beastiary I Book Page XX
+                Challenge: Moderate 2
+            7:
+                Dice:
+                    - 20
+                Encounter: 3 Ruffians
+                Notes: PF2 Gamemastery Guide Page XX
+                Challenge: Severe 2
+        Zone 3 - TUSKWATER (TW):
+            0:
+                Dice:
+                    - 1
+                    - 2
+                    - 3
+                    - 4
+                    - 5
+                Encounter: Roll on zone 2 table
+                Notes: PF2 Kingmaker Adventure Path Book Page 58
+                Challenge: Varies
+                Reroll: Zone 2 - GREENBELT (GB)
+            1:
+                Dice:
+                    - 6
+                    - 7
+                    - 8
+                Encounter: 2 Brush Thylacines
+                Notes: PF2 Kingmaker Adventure Path Book Page 609
+                Challenge: Low 3
+            2:
+                Dice:
+                    - 9
+                    - 10
+                    - 11
+                Encounter: 1 Owlbear
+                Notes: PF2 Beastiary I Book Page XX
+                Challenge: Low 3
+            3:
+                Dice:
+                    - 12
+                    - 13
+                Encounter: 6 Stag Lord Bandits
+                Notes: PF2 Kingmaker Adventure Path Book Page 177
+                Challenge: Moderate 3
+            4:
+                Dice:
+                    - 14
+                    - 15
+                Encounter: 3 ruffians
+                Notes: PF2 Gamemastery Guide Page XX
+                Challenge: Moderate 3
+            5:
+                Dice:
+                    - 16
+                    - 17
+                Encounter: 3 Wargs
+                Notes: PF2 Beastiary I Book Page XX
+                Challenge: Moderate 3
+            6:
+                Dice:
+                    - 18
+                    - 19
+                Encounter: 1 Troll
+                Notes: PF2 Beastiary I Book Page XX
+                Challenge: Moderate 3
+            7:
+                Dice:
+                    - 20
+                Encounter: 1 Shambler
+                Notes: PF2 Beastiary I Book Page XX
+                Challenge: Severe 3
+        Zone 4 - KAMELANDS (KL):
+            0:
+                Dice:
+                    - 1
+                    - 2
+                    - 3
+                    - 4
+                    - 5
+                Encounter: Roll on zone 3 table
+                Notes: PF2 Kingmaker Adventure Path Book Page 70
+                Challenge: Varies
+                Reroll: Zone 3 - TUSKWATER (TW)
+            1:
+                Dice:
+                    - 6
+                    - 7
+                    - 8
+                Encounter: 6 Goblins
+                Notes: PF2 Beastiary I Book Page XX
+                Challenge: Low 4
+            2:
+                Dice:
+                    - 9
+                    - 10
+                    - 11
+                Encounter: 1 Troll
+                Notes: PF2 Beastiary I Book Page XX
+                Challenge: Low 4
+            3:
+                Dice:
+                    - 12
+                    - 13
+                Encounter: 3 Twigjacks
+                Notes: PF2 Bestiary II Book Page XX
+                Challenge: Moderate 4
+            4:
+                Dice:
+                    - 14
+                    - 15
+                Encounter: 1 Blodeuwedd
+                Notes: PF2 Bestiary II Book Page XX
+                Challenge: Moderate 4
+            5:
+                Dice:
+                    - 16
+                    - 17
+                Encounter: 1 Will-o'-Wisp
+                Notes: Bestiary I Book Page XX
+                Challenge: Moderate 4
+            6:
+                Dice:
+                    - 18
+                    - 19
+                Encounter: 1 Wyvern
+                Notes: PF2 Bestiary I Book Page XX
+                Challenge: Moderate 4
+            7:
+                Dice:
+                    - 20
+                Encounter: 4 Dire Wolves
+                Notes: PF2 Bestiary I Book Page XX
+                Challenge: Severe 4
+        Zone 5 - NARLMARCHES (NM):
+            0:
+                Dice:
+                    - 1
+                    - 2
+                    - 3
+                    - 4
+                    - 5
+                Encounter: Roll on zone 4 table 
+                Notes: PF2 Kingmaker Adventure Path Book Page 78
+                Challenge: Varies
+                Reroll: Zone 4 - KAMELANDS (KL)
+            1:
+                Dice:
+                    - 6
+                    - 7
+                    - 8
+                Encounter: 1 Hydra
+                Notes: PF2 Bestiary I Book Page XX
+                Challenge: Low 5
+            2:
+                Dice:
+                    - 9
+                    - 10
+                    - 11
+                Encounter: 3 Twigjacks
+                Notes: PF2 Bestiary II Book Page XX
+                Challenge: Low 5
+            3:
+                Dice:
+                    - 12
+                    - 13
+                Encounter: 2 Trolls
+                Notes: PF2 Bestiary I Book Page XX
+                Challenge: Moderate 5
+            4:
+                Dice:
+                    - 14
+                    - 15
+                Encounter: 1 Dweomercat
+                Notes: PF2 Bestiary II Book Page XX
+                Challenge: Moderate 5
+            5:
+                Dice:
+                    - 16
+                    - 17
+                Encounter: 4 Trollhounds
+                Notes: PF2 Bestiary II Book Page XX
+                Challenge: Moderate 5
+            6:
+                Dice:
+                    - 18
+                    - 19
+                Encounter: 2 Ogre Spiders
+                Notes: PF2 Bestiary II Book Page XX
+                Challenge: Moderate 5
+            7:
+                Dice:
+                    - 20
+                Encounter: 2 Verdurous Oozes
+                Notes:  PF2 Bestiary II Book Page XX
+                Challenge: Severe 5
+        Zone 6 - SELLEN HILLS (SH):
+            0:
+                Dice:
+                    - 1
+                    - 2
+                    - 3
+                    - 4
+                    - 5
+                Encounter: Roll 1d12+8 on zone 5 Table
+                Notes: PF2 Kingmaker Adventure Path Book Page 82
+                Challenge: Varies
+                Reroll: Zone 5 - NARLMARCHES (NM)
+            1:
+                Dice:
+                    - 6
+                    - 7
+                    - 8
+                Encounter: 2 Trolls
+                Notes: PF2 Bestiary I Book Page XX
+                Challenge: Low 6
+            2:
+                Dice:
+                    - 9
+                    - 10
+                    - 11
+                Encounter: 3 Megaloceroses
+                Notes: PF2 Kingmaker Adventure Path Book Page 608
+                Challenge: Low 6
+            3:
+                Dice:
+                    - 12
+                    - 13
+                Encounter: 2 Manticores
+                Notes: PF2 Bestiary I Book Page XX
+                Challenge: Moderate 6
+            4:
+                Dice:
+                    - 14
+                    - 15
+                Encounter: 2 Wyverns
+                Notes: PF2 Bestiary I Book Page XX
+                Challenge: Moderate 6
+            5:
+                Dice:
+                    - 16
+                    - 17
+                Encounter: 6 cultists
+                Notes: PF2 Gamemastery Guide Page 229
+                Challenge: Moderate 6
+            6:
+                Dice:
+                    - 18
+                    - 19
+                Encounter: 1 Bulette
+                Notes: PF2 Bestiary I Book Page XX
+                Challenge: Moderate 6
+            7:
+                Dice:
+                    - 20
+                Encounter: 1 Aurumvorax
+                Notes: PF2 Bestiary II Book Page XX
+                Challenge: Severe 6
+COMPANIONS:
+    Amiri:
+        Favorite Meal: Monster casserole
+        Activity:
+            Name: Enhance Weapons
+            Traits:
+                - Camping
+                - Concentrate
+                - Manipulate
+            Requirements: Expert in Crafting
+            Description: Amiri spends her time in camp sharpening the group’s weapons, bolstering grips and handles, or festooning blunt weapons with temporary stone weights designed to maximize damage. Each PC chooses one melee weapon. That melee weapon gains a +1 circumstance bonus to damage rolls during the next encounter it’s used in; this bonus expires at the end of that encounter or after 24 hours, whichever comes first. 
+    Ekundayo:
+        Favorite Meal: Hunter’s roast
+        Activity:
+            Name: Wilderness Survival
+            Traits:
+                - Camping
+                - Concentrate
+                - Manipulate
+            Requirements: Expert in Survival
+            Description: Ekundayo attempts to bolster efforts to cook campfire meals or treating illness by gathering herbs from the campsite’s environs. Any attempts to Cook a Meal (page 110) or Treat Disease gain a +1 item bonus during this camping session. If the party level is 11 or higher, the bonus increases to +2.
+    Harrim:
+        Favorite Meal: Haggis
+        Activity:
+            Name: Blend into the Night
+            Traits:
+                - Camping
+                - Concentrate
+            Requirements: Trained in Religion, worships Groetus
+            Description: Harrim’s prayers to Groetus bring an air of gloom and solitude over the party’s campsite. While this causes the PCs to experience morose and somewhat unsettling dreams, it doesn’t affect the quality of rest. It does, however, help to make the campsite less attractive to predators or wandering monsters. When checking for wandering encounters during the night (including when made as part of camping), the flat check DC for the encounter (page 107) is increased by 2.
+    Jaethal:
+        Favorite Meal: Jeweled rice
+        Activity:
+            Name: Undead Guardians
+            Traits:
+                - Camping
+                - Concentrate
+                - Evil
+            Requirements: Expert in Religion
+            Description: As the party preps the campsite, Jaethal takes an hour to establish contact with the spirits of the dead who linger in the region, be they slain bandits, doomed adventurers, or even just wild animals who succumbed to the laws of nature. If the camp is attacked during the period of rest, these spirits of the dead rise up as undead guardians to defend Jaethal and her allies. These undead guardians manifest as shrieking ghostlike spirits. While their exact shape is determined by the GM, their effect in battle remains the same. Each round during combat, one PC can choose to be defended by the undead guardians (and gain a +1 status bonus to AC for 1 round) or to have them aid their attacks (and gain a +1 status bonus to all melee Strikes for 1 round).
+    Jubilost:
+        Favorite Meal: Onion soup
+        Activity:
+            Name: Camp Management
+            Traits:
+                - Camping
+                - Concentrate
+                - Manipulate
+            Requirements: Expert in Survival
+            Description: Jubilost helps organize Camping activities to be more efficient, allowing the campers to attempt additional Camping activities during the camping session. Jubilost attempts a Survival check against the Zone DC to determine how helpful his management is.
+            Skill Check: Survival vs Zone DC
+            Check result:
+                Critical Success: Jubilost’s advice speeds things along significantly. During the hour immediately following this critical success, each PC may attempt two Camping activities instead of one. This success does not increase the number of activities companions may attempt.
+                Success: As critical success, but only one PC may attempt two Camping activities during the next hour.
+                Critical Failure: Jubilost’s advice backfires, resulting in inefficiencies during the rest of the camping session. All checks made to resolve Camping activities take a –2 circumstance penalty for the remainder of this camping session.
+    Kalikke:
+        Favorite Meal: Chocolate ice cream
+        Activity:
+            Name: Water Hazards
+            Traits:
+                - Camping
+                - Concentrate
+            Requirements: Expert in Nature
+            Description: Kalikke infuses water in the environment near the campsite with latent magical qualities that bolster the campsite’s defenses. If the campsite is attacked by enemies during the next 24 hours, the attackers suffer a –2 circumstance penalty to Initiative checks as they’re forced to deal with unexpectedly deep puddles, sudden currents in standing water, or thick patches of muddy earth. This penalty increases to –3 once the party reaches 11th level.
+    Kanerah:
+        Favorite Meal: Seasoned wings and thighs
+        Activity:
+            Name: Enhance Campfire
+            Traits:
+                - Camping
+                - Concentrate
+            Requirements: Expert in Nature
+            Description: Kanerah expertly controls the campfire’s exact temperature, making it easier to prepare meals. All cooking activities that take place for the remainder of the camping session gain a +1 circumstance bonus. This bonus increases to +2 if the PCs are at least 11th level.
+    Linzi:
+        Favorite Meal: Sweet pancakes
+        Activity:
+            Name: Bolster Confidence
+            Traits:
+                - Auditory
+                - Camping
+                - Concentrate
+                - Linguistic
+                - Mental
+            Requirements: Expert in Performance
+            Description: Linzi’s enthusiasm inspires everyone around her. Checks on all other Camping activities while Linzi does so gain a +1 circumstance bonus. If Linzi is master in Performance, this becomes a +2 circumstance bonus.
+    Nok-Nok:
+        Favorite Meal: Baked spider legs
+        Activity:
+            Name: Set Traps
+            Traits:
+                - Camping
+                - Manipulate
+            Requirements: Expert in Thievery
+            Description: Nok-Nok sets several annoying and frustrating traps around the camp’s perimeter. If the campsite is attacked by enemies during the next 24 hours, the invaders suffer a –1 item penalty to all attack rolls and skill checks on the first round of combat as they navigate the distracting traps. Any enemy whose initiative result is less than Nok-Nok’s Thievery DC is also flat-footed from the traps until the start of their turn on the second round of combat.
+    Octavia:
+        Favorite Meal: Rice-n-nut pudding
+        Activity:
+            Name: Set Alarms
+            Traits:
+                - Camping
+                - Concentrate
+            Requirements: Expert in Arcana
+            Description: Octavia places magical alarms at key places along the campsite’s perimeter in order to catch ambushers before they can spring their attack on sleeping PCs. The first time the campsite is attacked by enemies during the next 24 hours, the alarms trigger and alert the PCs. Sleeping characters do not take the normal –4 status penalty when rolling initiative during such an attack, while characters who are awake gain a +2 circumstance bonus to their initiative check.
+    Regongar:
+        Favorite Meal: Succulent sausages
+        Activity:
+            Name: Intimidating Posture
+            Traits:
+                - Camping
+                - Concentrate
+                - Manipulate
+            Requirements: Expert in Intimidation
+            Description: The camp’s intimidating nature scares off less powerful encounters. If a Low or Trivial random encounter is rolled at any point during the camp, treat it as no encounter instead. The PCs still earn any XP they would have otherwise earned for defeating the encounter in combat when they wake the next day and notice the telltale signs of flight from the skipped encounter.
+    Tristian:
+        Favorite Meal: Kameberry pie
+        Activity:
+            Name: Dawnflower’s Blessing
+            Traits:
+                - Camping
+                - Concentrate
+            Requirements: Trained in Religion, worships Sarenrae
+            Description: Tristian’s prayers to Sarenrae invoke her healing blessing on the party, imparting feelings of comfort and security to everyone who’s part of the campsite. When the party rests during this camp, each character regains twice the normal amount of Hit Points from the rest (an amount equal to double their Constitution modifier—minimum 2—multiplied by their level). The effect isn’t cumulative with the critical success effect of a basic meal.
+    Valerie:
+        Favorite Meal: Whiterose oysters
+        Activity:
+            Name: Maintain Armor
+            Traits:
+                - Camping
+                - Manipulate
+            Requirements: Expert in Craft
+            Description: Valerie spends her time in camp maintaining the group’s armor and potentially repairing broken shields. One PC chooses one suit of armor or a broken shield. If the PC chooses a suit of armor, that suit of armor grants the wearer temporary Hit Points equal to half their level during the next encounter it’s worn; these temporary Hit Points expire at the end of the encounter or after 24 hours. If the PC chooses a broken shield, Valerie restores the broken shield to full HP. An additional PC can choose a suit of armor or broken shield once the party is 3rd level, and then again every 2 levels thereafter.
+XXXX:
+YYYY:
+ZZZZ:
