@@ -962,10 +962,11 @@ $confirm = Read-Host "Please Type 'David Hasselhoff' to confirm -case sensitive,
 }
 while ($confirm -ne 'David Hasselhoff')
 
-
 do
 {
  $David_Hasselhoff = $true
+
+ $Test_David = [System.IO.File]::Exists("C:\David_Hasselhoff\the_glory.png")
 
 IF ($Test_David -eq $False){
 $David_Hasselhoff_Base64 = @"
@@ -989,6 +990,7 @@ sleep -Seconds .6
 }
  while ($David_Hasselhoff = $true)
 }
+
 
 Function Flip-Table {
 Write-Host ""
