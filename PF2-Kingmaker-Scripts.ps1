@@ -6,6 +6,10 @@ WIP
 - Hazard Generator
 - Add Compainion Stats (Leveling Options?)
 - To Finish - Camping Steps Step 2-5
+1.8
+- Fixed Some Info Topics
+- Suggestion to remove Install-Module Scripts any installing from other sources would stop this script from running
+Credit: JoeJJohnsonII
 1.7
 - Early April Fools David Hasselhoff function
 1.6
@@ -57,8 +61,10 @@ Author: Tony V
 <#
 Powershell Module Required
 #>
-$Module_check = Get-Module "PSYaml"
-IF (($Module_check | measure).Count -eq 0){Write-Host -ForegroundColor Magenta "PowerShell Module - PSYaml not installed...";Write-Host -ForegroundColor Cyan "PowerShell Module - PSYaml Installing..."; Install-Module -Name PSYaml -RequiredVersion 1.0.2 -Force -ErrorAction SilentlyContinue }
+Import-Module PSYaml -ErrorAction SilentlyContinue
+
+$Module_check = Get-Module -ListAvailable "PSYaml"
+IF (($Module_check | measure).Count -eq 0){Write-Host -ForegroundColor Magenta "PowerShell Module - PSYaml not installed...";Write-Host -ForegroundColor Cyan "PowerShell Module - Please Run this Command to install...'Install-Module -Name PSYaml -RequiredVersion 1.0.2'"}
 
 $ThisScriptPath = $MyInvocation.MyCommand.Path
 $FolderScriptPath = (Get-ChildItem "$ThisScriptPath").Directory.FullName
@@ -68,18 +74,22 @@ Write-Host -ForegroundColor Cyan "Path where Script is: "$ThisScriptPath
 Write-Host -ForegroundColor Cyan "Using Parent Folder "$FolderScriptPath
 
 Write-Host ""
-Write-Host -ForegroundColor Yellow "Loading Functions..."
-
-Write-Host ""
 Write-Host -ForegroundColor Yellow "Downloading Monsters..." 
 $MonstersFile = Test-Path -Path "$FolderScriptPath\PF2_Monsters.txt"
 
 IF ($MonstersFile -eq $True){Write-Host -ForegroundColor Green "Monsters...Detected...Skipping Download..." }
 IF ($MonstersFile -eq $False){invoke-webrequest -Uri "https://docs.google.com/spreadsheets/d/1SpzEGKgmPNI3fxab4wQtPZm8weqXDgAJeIubIiU-B4U/export?format=csv" -OutFile "$FolderScriptPath\PF2_Monsters.txt"}
 
+Write-Host ""
+Write-Host -ForegroundColor Yellow "Loading YAML Database..."
 
 $YAML = ConvertFrom-Yaml (Get-Content "$FolderScriptPath\Tables.yml" -Raw)
+IF (($YAML | measure).Count -eq 0){Write-Host "*** WARNING ***" -ForegroundColor Red ; Write-Host "YAML File did not Import correctly" -ForegroundColor yellow; Write-Host "*** WARNING ***" -ForegroundColor Red; $YAMLERROR = Show-Menu -Title ***YAML ERROR - Quit Now?*** -options "No","Yes" }
+IF ($YAMLERROR -eq 'Yes'){exit}
 #$YAML = ConvertFrom-Yaml (Get-Content "C:\Monsters\PF2 Kingmaker\Tables.yml" -Raw)
+
+Write-Host ""
+Write-Host -ForegroundColor Yellow "Loading Functions..."
 
 Function Show-Menu {
     param (
@@ -395,9 +405,10 @@ $Info_List = @()
 
 switch ($Info_Choice)
 {
-'Stolen Lands Zones' {$InfoSet = 'SLZ';break} 
-'CAMPING ZONES'      {$InfoSet = 'CZ';break}
-'TERRAIN'      {$InfoSet = 'T';break}
+'Stolen Lands Zones Summary'      {$InfoSet = 'SLZ';break}
+'Stolen Lands Zones Area-Details' {$InfoSet = 'SLZAD';break}
+'CAMPING ZONES'                   {$InfoSet = 'CZ';break}
+'TERRAIN'                         {$InfoSet = 'T';break}
 }
 
 IF ($InfoSet -eq 'CZ'){
@@ -1023,6 +1034,9 @@ switch ($MENU)
 }
 while ($MENU -ne "Quit")
 }
+
+Write-Host ""
+Write-Host -ForegroundColor Yellow "Running Main-Menu..."
 
 Main-Run
 
