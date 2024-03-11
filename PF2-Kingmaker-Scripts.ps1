@@ -6,6 +6,12 @@ WIP
 - Hazard Generator
 - Add Compainion Stats (Leveling Options?)
 - To Finish - Camping Steps Step 2-5
+2.0
+- Added Options in Menu to Reload Database
+- Fixed long message note in attack rolls Example Mitflint
+- Working on Hazards Table WIP 127 of 334 completed
+1.9
+- Working on Hazards Table WIP 88 of 334 completed
 1.8
 - Fixed Some Info Topics
 - Suggestion to remove Install-Module Scripts any installing from other sources would stop this script from running
@@ -87,6 +93,9 @@ $YAML = ConvertFrom-Yaml (Get-Content "$FolderScriptPath\Tables.yml" -Raw)
 IF (($YAML | measure).Count -eq 0){Write-Host "*** WARNING ***" -ForegroundColor Red ; Write-Host "YAML File did not Import correctly" -ForegroundColor yellow; Write-Host "*** WARNING ***" -ForegroundColor Red; $YAMLERROR = Show-Menu -Title ***YAML ERROR - Quit Now?*** -options "No","Yes" }
 IF ($YAMLERROR -eq 'Yes'){exit}
 #$YAML = ConvertFrom-Yaml (Get-Content "C:\Monsters\PF2 Kingmaker\Tables.yml" -Raw)
+
+$YAMLH = ConvertFrom-Yaml (Get-Content "$FolderScriptPath\Hazards.yml" -Raw)
+#$YAMLH = ConvertFrom-Yaml (Get-Content "C:\Monsters\PF2 Kingmaker\Git\PF2-Kingmaker-PoSh\Hazards.yml" -Raw)
 
 Write-Host ""
 Write-Host -ForegroundColor Yellow "Loading Functions..."
@@ -320,7 +329,7 @@ Function Convert-Attacks-Roll20-CMD {
    )
 #$AttackString = "Melee horn +5, Damage 1d4+3 bludgeoning and Push"
 #$AttackString = "Melee claw +26 (agile, magical, reach 10 feet), Damage 3d8+12 slashing"
-
+try{
 $Attack_Name = $AttackString -match "(?>Melee\s|Ranged\s)(.*)(?>\s\+)"
 $Attack_Name = $Matches[1].Trim()
 
@@ -338,6 +347,10 @@ $Damage = $Matches[1].Trim()
 
 $Damage_Type = $AttackString -match "(?>Damage\s)(\d*\w\d*[^ ]\d*)(\s)(\w*(\sand\s\w*)|\w*)"
 $Damage_Type = $Matches[3].Trim()
+}
+catch {
+
+}
 
 $Plus_Damage = $AttackString -match "(?>plus\s)((\d*\w\d*[^ ]\d*)(\s)(\w*(\sand\s\w*)|\w*)|(\w*))"
 IF ($Plus_Damage -ne $False){
@@ -358,9 +371,12 @@ IF ($Plus_Damage_Type_2 -ne $False){
         $Plus_Damage_Type_2 = ""
     }
 }
+
+IF ($Attack_Name -ne ""){
 $MonsterAtk  = "$MonsterName : Attack $Num `r`n $Attack_Name ($Attack_MR) [[1d20$Attack_Hit]] `r`n"
 $MonsterDmg  = "[[$Damage]] $Damage_Type"
 $MonsterPlus = " | Plus [[$Plus_Damage]] $Plus_Damage_Type_1 $Plus_Damage_Type_2"
+}
 
 IF ($MonsterPlus -like "*False False*"){
 Write-Host $MonsterAtk$MonsterDmg
@@ -1011,10 +1027,25 @@ Write-Host '┬─┬ /( º _ º/)'
 Write-Host ""
 }
 
+Function Reload-Database {
+Write-Host "Loading YAML Database...again..." -ForegroundColor Yellow
+$YAML = ConvertFrom-Yaml (Get-Content "$FolderScriptPath\Tables.yml" -Raw)
+}
+
+Function Menu-Options {
+$OptionsM = Show-Menu -Title "Options" -options 'Reload Database','Exit'
+switch ($OptionsM)
+{
+'Reload Database'          {Reload-Database}
+'Exit'                     {Write-Host "Going back to Main..." -ForegroundColor Cyan}
+}
+}
+
+
 Function Main-Run{
 do
 {
-$MENU = Show-Menu -Title "PF2 Kingmaker Generator" -options 'Info','Search Monster','Random Encounter Chance','Encounter Roll','Roll Rumor','Travel Calculator','Companion Activities','Camping Activities','Exploration Activities','David Hasselhoff','Quit','(╯°□°)╯_ ┻━┻'
+$MENU = Show-Menu -Title "PF2 Kingmaker Generator" -options 'Info','Search Monster','Random Encounter Chance','Encounter Roll','Roll Rumor','Travel Calculator','Companion Activities','Camping Activities','Exploration Activities','Options','David Hasselhoff','Quit','(╯°□°)╯_ ┻━┻'
 
 switch ($MENU)
 {
@@ -1027,6 +1058,7 @@ switch ($MENU)
 'Companion Activities'     {List-Companion-Activities}
 'Camping Activities'       {List-Camping-Activities}
 'Exploration Activities'   {List-Exploration-Activities}
+'Options'                  {Menu-Options}
 'David Hasselhoff'         {David-Hasselhoff}
 '(╯°□°)╯_ ┻━┻'              {Flip-Table}
 }
