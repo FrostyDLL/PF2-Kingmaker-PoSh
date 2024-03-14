@@ -106,7 +106,7 @@
             Source: Core Rulebook Page 524
             Complexity: Simple
             Stealth: DC 24 (expert)
-            Description: An invisible rune creates an invisible, spherical magical sensor with a 20-foot radius.
+            Description: An invisible rune creates an invisible, spherical Magical sensor with a 20-foot radius.
             Disable_DC: Thievery DC 22 (expert) to erase the rune without triggering the sensor, or dispel magic (3rd level; counteract DC 20) to counteract the rune
             Trigger: Fireball [reaction] (arcane, evocation, fire); Trigger A living creature enters the sensor area. Effect The rune detonates a fireball centered on the triggering creature’s square. This is a 3rd-level fireball spell that deals 6d6 fire damage (DC 22 basic Reflex save).
             URL: https://2e.aonprd.com/Hazards.aspx?ID=7
@@ -136,7 +136,7 @@
             Stealth: DC 25 (expert)
             Description: A curse is imbued on an entryway’s threshold.
             Disable_DC: Thievery DC 27 (master) to painstakingly remove the lintel without triggering the magic, or dispel magic (4th level; counteract DC 25) to counteract the rune
-            Trigger: Curse the Intruders [reaction] (curse, divine, necromancy); Trigger The seal on the tomb is broken from the outside. Effect Each living creature within 60 feet must succeed at a DC 23 Will save or be subjected to the pharaoh’s curse. A cursed creature takes a –2 status penalty to Fortitude saves, and any natural or magical healing it receives is halved. The curse remains until removed by remove curse or similar magic.
+            Trigger: Curse the Intruders [reaction] (curse, divine, necromancy); Trigger The seal on the tomb is broken from the outside. Effect Each living creature within 60 feet must succeed at a DC 23 Will save or be subjected to the pharaoh’s curse. A cursed creature takes a –2 status penalty to Fortitude saves, and any natural or Magical healing it receives is halved. The curse remains until removed by remove curse or similar magic.
             Reset: The trap resets when the door is shut
             URL: https://2e.aonprd.com/Hazards.aspx?ID=9
         Yellow Mold:
@@ -241,7 +241,7 @@
             Stealth: DC 40 (master)
             Description: Warding magic attempts to trap intruders or would-be thieves in a disrupted time flow.
             Disable_DC: Thievery DC 38 (legendary) to rapidly disassemble the spell’s myriad components in a single blink of an eye; or dispel magic (9th level; counteract DC 36) to counteract the trap before it triggers or to counteract the effect on one creature after the trap is triggered
-            Trigger: Adrift in Time [reaction] (occult, transmutation); Trigger A creature touches the warded object or area. Effect The triggering creature and all creatures within 30 feet are trapped in a disrupted time flow (DC 38 Fortitude negates). The creatures’ minds move so quickly that each round seems to last a century, but their bodies and magical energies move so slowly that they can’t use any actions except Recall Knowledge. An affected creature must attempt a DC 36 Will saving throw against a warp mind spell immediately and again for every minute of real time that passes while the creature is trapped in the frozen moment. This effect has an unlimited duration but can be counteracted.
+            Trigger: Adrift in Time [reaction] (occult, transmutation); Trigger A creature touches the warded object or area. Effect The triggering creature and all creatures within 30 feet are trapped in a disrupted time flow (DC 38 Fortitude negates). The creatures’ minds move so quickly that each round seems to last a century, but their bodies and Magical energies move so slowly that they can’t use any actions except Recall Knowledge. An affected creature must attempt a DC 36 Will saving throw against a warp mind spell immediately and again for every minute of real time that passes while the creature is trapped in the frozen moment. This effect has an unlimited duration but can be counteracted.
             URL: https://2e.aonprd.com/Hazards.aspx?ID=16
         Vorpal Executioner:
             Level: 19
@@ -293,9 +293,9 @@
             Source: Core Rulebook Page 526
             Complexity: Complex
             Stealth: +7 (trained)
-            Description: A cloud of invisible magical sensors in a 10-foot radius surrounds an invisible wall or floor rune the size of the creature to be summoned.
+            Description: A cloud of invisible Magical sensors in a 10-foot radius surrounds an invisible wall or floor rune the size of the creature to be summoned.
             Disable_DC: Acrobatics DC 15 to approach without triggering the trap followed by Thievery DC 17 (trained) to erase the rune, or dispel magic (1st level; counteract DC 15) to counteract the rune
-            Trigger: Summon Monster [reaction] (arcane, conjuration, summon); Trigger A creature enters the cloud of magical sensors. Effect This trap summons a specific level 1 creature, determined when the trap is created. The creature rolls initiative and remains for 2d6 rounds, after which the spell ends and the creature disappears. The creature also disappears if someone disables the trap before the duration expires. The summoned creature can use 3 actions each round and can use reactions, unlike most summoned creatures.
+            Trigger: Summon Monster [reaction] (arcane, conjuration, summon); Trigger A creature enters the cloud of Magical sensors. Effect This trap summons a specific level 1 creature, determined when the trap is created. The creature rolls initiative and remains for 2d6 rounds, after which the spell ends and the creature disappears. The creature also disappears if someone disables the trap before the duration expires. The summoned creature can use 3 actions each round and can use reactions, unlike most summoned creatures.
             Reset: The trap resets each day at dawn
             Upgrade: You can make a summoning rune of nearly any level. It summons a creature of a level equal to the trap’s level. Use Table 10–5 DCs by Level on page 503 to determine the Thievery DC and spell DC, using the trap’s level and applying a hard adjustment (+2). The Stealth modifier for the trap is equal to this number – 10. Stronger summoning runes usually require expert proficiency or better in Perception to find, and they might require a higher proficiency rank in Thievery to disable.
             URL: https://2e.aonprd.com/Hazards.aspx?ID=20
@@ -356,8 +356,8 @@
               - Trap
             Source: Core Rulebook Page 527
             Complexity: Complex
-            Stealth: +16 (expert) to detect the magical sensor; noticing the wheel has a DC of 0
-            Description: An ornate wheel set into a wall—divided into six segments with colored runes on each—is controlled by a magical sensor that detects any creature within 100 feet in front of it.
+            Stealth: +16 (expert) to detect the Magical sensor; noticing the wheel has a DC of 0
+            Description: An ornate wheel set into a wall—divided into six segments with colored runes on each—is controlled by a Magical sensor that detects any creature within 100 feet in front of it.
             Disable_DC: Thievery DC 26 (expert) on the wheel to stop it from spinning, Thievery DC 22 (master) to erase each rune, or dispel magic (4th level; counteract DC 22) to counteract each rune
             AC: 24
             Fort: +15
@@ -449,7 +449,7 @@
             Source: Core Rulebook Page 529
             Complexity: Complex
             Stealth: +30 (legendary)
-            Description: A magically contagious wail of the banshee spell is trapped in the larynx of an invisible, mummified elf.
+            Description: A Magically contagious wail of the banshee spell is trapped in the larynx of an invisible, mummified elf.
             Disable_DC: Thievery DC 42 (master) to pierce the invisible larynx so precisely that the magic releases in a trickle before the trap activates, Thievery DC 44 (legendary) three times to deconstruct the larynx while the trap is active in such a way that it tears the spell apart, or spell DC 38 (9th level) to counteract the wail of the banshee before the trap activates
             Trigger: Scream [reaction] Trigger Three or more living creatures remain within 100 feet of the trap for 6 seconds or longer. Effect The trap releases an arcane wail of the banshee (DC 40) with a 100-foot-radius emanation instead of 40 feet, targeting all living creatures in the area, and rolls initiative.
             Routine: Routine (1 action) The trap uses its action to force one random creature that failed its save against wail of the banshee last turn to emit a wail of the banshee with the same statistics as the initial one. The creature wails even if it is dead or unable to speak, no matter how far away from the trap it is. Unlike a casting of the spell, the drained condition from this trap’s wail of the banshee spells increases the targets’ drained condition values. A creature that critically succeeds at any of its saves can still be affected by the trap on future rounds, but can’t be forced to wail by the trap.
@@ -640,8 +640,8 @@
             Complexity: Simple
             Stealth: DC 33 (master)
             Description: A robe-clad spirit rises out of the floor, pointing an accusing finger.
-            Disable_DC: DC 36 Arcana, Nature, Occultism, or Religion (master) to convince the spirit that the target’s magical knowledge is too great to be trifled with
-            Trigger: Rend Magic [reaction] (abjuration, arcane) Trigger A creature that is currently affected by a beneficial spell approaches within 30 feet of the abjurer; Effect Envying the fame and magical prowess of others, the jealous abjurer attempts to engineer a catastrophic failure in the highest-level beneficial spell currently affecting its target. It attempts a counteract check with a +26 modifier. If the counteract check succeeds, the spell is dispelled, and the creature it had been affecting takes 4d12+30 force damage as the spell violently implodes (DC 32 basic Reflex save).
+            Disable_DC: DC 36 Arcana, Nature, Occultism, or Religion (master) to convince the spirit that the target’s Magical knowledge is too great to be trifled with
+            Trigger: Rend Magic [reaction] (abjuration, arcane) Trigger A creature that is currently affected by a beneficial spell approaches within 30 feet of the abjurer; Effect Envying the fame and Magical prowess of others, the jealous abjurer attempts to engineer a catastrophic failure in the highest-level beneficial spell currently affecting its target. It attempts a counteract check with a +26 modifier. If the counteract check succeeds, the spell is dispelled, and the creature it had been affecting takes 4d12+30 force damage as the spell violently implodes (DC 32 basic Reflex save).
             Reset: 1 hour
             URL: https://2e.aonprd.com/Hazards.aspx?ID=41
         Plummeting Doom:
@@ -795,7 +795,7 @@
             Complexity: Complex
             Stealth: +12 (expert)
             Description: When a living creature crosses the midpoint of the trapped tunnel, necromantic magic partially animates the corpses buried in the walls and ceiling.
-            Disable_DC: Disable Thievery DC 24 (expert) to disrupt the magical trigger before the hazard rolls initiative, or Religion DC 18 (trained) to overwhelm the area with positive energy and prevent the hazard from using its routine for 1 round; on the third successful Religion check, the necromantic energies are disrupted and the hazard is destroyed.
+            Disable_DC: Disable Thievery DC 24 (expert) to disrupt the Magical trigger before the hazard rolls initiative, or Religion DC 18 (trained) to overwhelm the area with positive energy and prevent the hazard from using its routine for 1 round; on the third successful Religion check, the necromantic energies are disrupted and the hazard is destroyed.
             AC: 20
             Fort: +15
             Ref: +8
@@ -875,7 +875,7 @@
             Complexity: Complex
             Stealth: +22 (master) to notice the sudden breeze in the theater
             Description: A portal to the Plane of Air rips open onstage, causing roaring winds to tear through the opera house.
-            Disable_DC: DC 38 Arcana (master) to sew the magical threads of the rift shut, DC 40 Nature or Survival (legendary) to open enough windows and doors to reduce its intensity, or dispel magic (7th level; counteract DC 34) to counteract the air rift
+            Disable_DC: DC 38 Arcana (master) to sew the Magical threads of the rift shut, DC 40 Nature or Survival (legendary) to open enough windows and doors to reduce its intensity, or dispel magic (7th level; counteract DC 34) to counteract the air rift
             AC: 35
             Fort: +30
             Stats: HP 220; Weaknesses earth vulnerabilty
@@ -1112,7 +1112,7 @@
             Source: Pathfinder 146 Cult of Cinders Page 55
             Complexity: Simple
             Stealth: +0 or detect magic
-            Description: A ring of eight dragon pillar replicas mark the border of a dome of magical prismatic energy that entirely contains the Fortress of Sorrow.
+            Description: A ring of eight dragon pillar replicas mark the border of a dome of Magical prismatic energy that entirely contains the Fortress of Sorrow.
             Disable_DC: Disable Each dragon pillar that is destroyed removes the corresponding color's effect from Dahak's shell; as long as even one color remains active, the pillars marking the shell's border cannot be damaged themselves, but a successful DC 32 Thievery (master) check or a successful dispel magic (6th level; counteract DC 30) against one of the eight pillars can cause a randomly determined active color in the shell defense (below) to become deactivated for 1d4 rounds.
             Trigger: Shell Defense (abjuration, divine, light) When a creature physically passes through the shell, the creature is affected simultaneously by all colors of energy currently active in the shell; apply these effects in the following order; red, orange, yellow, green, blue, indigo, violet, black. These effects are the same as that of the eye beams described on the dragon pillar hazard, but with a save DC of 32. Each effect requires its own save. Prismatic Beam [reaction] (abjuration, divine, light); Trigger a creature attempts and fails to disable one of the shell colors via Thievery or dispel magic; Effect Dahak's shell Strikes the triggering creature with a random eye beam. Roll 1d8 to determine the color (1–red, 2–orange, 3–yellow, 4–green, 5–blue, 6–indigo, 7–violet, 8–black). Ranged [one-action] eye beam +20 (range 120 feet), Effect The target suffers an effect corresponding to the eye beam's color, as described on the dragon pillar hazard, but with a save DC of 32. On a critical hit, the target's save result is one degree worse.
             URL: https://2e.aonprd.com/Hazards.aspx?ID=69 
@@ -1123,7 +1123,7 @@
               - Trap
             Source: Pathfinder 146 Cult of Cinders Page 57
             Complexity: Complex
-            Stealth: +22 (expert) to notice subtle vapors of magical energy seething across the doors
+            Stealth: +22 (expert) to notice subtle vapors of Magical energy seething across the doors
             Description: Description These heavy doors, carved with an image of Dahak, echo with a hatred so powerful that it can kill anyone who comes nearby, manifesting a vision of Dahak's head emerging from the doors to strike at a foe.
             Disable_DC: Disable Thievery DC 29 (expert) to disrupt the divine magic, Religion DC 29 (expert) to placate the wrathful energies, or dispel magic (5th level; counteract DC 26).
             AC: 30
@@ -1144,7 +1144,7 @@
             Source: Pathfinder 146 Cult of Cinders Page 61
             Complexity: Complex
             Stealth: +0, but DC 24 to notice that the fiery lights within the skull's eye sockets seem to be looking around the room.
-            Description: A pair of magical gems inside the dragon skull's eye sockets act as magical sensors with a 30-foot radius.
+            Description: A pair of Magical gems inside the dragon skull's eye sockets act as Magical sensors with a 30-foot radius.
             Disable_DC: Thievery DC 27 (expert) two times to pry the gems embedded deep in the skull's eye sockets without triggering the sensor, or dispel magic (4th level, counteract DC 22) twice to dispel both eyes.
             Perception: +16m darkvision, see invisibility
             AC: 24
@@ -1181,7 +1181,7 @@
             Complexity: Complex
             Stealth: +22 (expert)
             Description: Description The statue of the willow tree animates, its branches lashing out to try to grab anyone in area B2.
-            Disable_DC: Athletics or Thievery DC 25 (trained) to force or lever open a single branch, disabling that branch and freeing any creature trapped within. Thievery DC 29 (expert) to disrupt the tree's magical animation, shut it down, and free all trapped creatures. Placing a dreamstone in the tree's trunk takes 2 Interact actions and causes the trap to shut down, freeing all trapped creatures. Placing the cursed dreamstone from area B4 in the trunk instead increases the tree's actions per turn to 4 and gives it a +2 item bonus to all saving throws and attack rolls.
+            Disable_DC: Athletics or Thievery DC 25 (trained) to force or lever open a single branch, disabling that branch and freeing any creature trapped within. Thievery DC 29 (expert) to disrupt the tree's Magical animation, shut it down, and free all trapped creatures. Placing a dreamstone in the tree's trunk takes 2 Interact actions and causes the trap to shut down, freeing all trapped creatures. Placing the cursed dreamstone from area B4 in the trunk instead increases the tree's actions per turn to 4 and gives it a +2 item bonus to all saving throws and attack rolls.
             AC: 30
             Fort: +22
             Ref: +14
@@ -1201,7 +1201,7 @@
             Description: Hell hounds invisible to all but their lone target burn their chosen victim.
             Disable_DC: Disable Religion DC 24 (expert) to perform an exorcism (with 2 actions)
             Trigger: Begin the Hunt [reaction] (conjuration, occult); Trigger A creature that doesn't openly wear the symbol of Asmodeus comes within 60 feet of the haunt's initial location. Effect The hounds appear before the chosen target and begin to chase that creature, howling wildly. The haunt rolls initiative. Others cannot see or hear this baying and must Seek to determine the hounds' location.
-            Routine: Routine (2 actions) The haunt uses its first action to Stride, then its second action for a jaws Strike against its designated target if it is in reach. If the target is not in reach, the haunt resets. Speed 60 feet Melee [one-action] jaws +20 (magical), Damage 1d10+11 piercing plus 1d10 fire
+            Routine: Routine (2 actions) The haunt uses its first action to Stride, then its second action for a jaws Strike against its designated target if it is in reach. If the target is not in reach, the haunt resets. Speed 60 feet Melee [one-action] jaws +20 (Magical), Damage 1d10+11 piercing plus 1d10 fire
             Reset: If their designated target dies or the hounds can't reach it in a turn, the hounds vanish into noxious smoke, but they manifest again elsewhere in the city after the next sunset.
             URL: https://2e.aonprd.com/Hazards.aspx?ID=74
         Phantom Bells:
@@ -1301,7 +1301,7 @@
             Description: Malevolent spirits led by a ghostly image of Ludika rise and begin a deadly brawl. These spirits attempt to overwhelm living creatures, forcing them to join the battle. This haunt is Neutral Evil.
             Disable_DC: Religion DC 35 (master) three times to exorcise the spirits or Diplomacy DC 39 (expert) three times to talk them down.
             Trigger: Confuse [reaction] (emotion, fear, illusion, mental, occult) Trigger At least three creatures enter area H10. Effect The haunt takes control of all creatures in the prison, affecting them with confusion (8th level, DC 37).
-            Routine: (1 action) As 1 action, the haunt causes a barrage of ghostly fists to lash from the walls, floors, and ceiling. The haunt attempts a spectral fist Strike against each creature in area H10. Melee spectral fist +35 (magical, reach 10 feet), Damage 5d10 bludgeoning, and the creature must attempt a new DC 37 Will save against confusion if it's not already confused.
+            Routine: (1 action) As 1 action, the haunt causes a barrage of ghostly fists to lash from the walls, floors, and ceiling. The haunt attempts a spectral fist Strike against each creature in area H10. Melee spectral fist +35 (Magical, reach 10 feet), Damage 5d10 bludgeoning, and the creature must attempt a new DC 37 Will save against confusion if it's not already confused.
             Reset: After 24 hours, the haunt returns. The spirits are permanently put to rest only if a lawfully appointed judge from Saggorak (or Kovlar) comes into the prison, takes damage from the haunt, and survives the attack.
             URL: https://2e.aonprd.com/Hazards.aspx?ID=80
         Endless Elven Aging:
@@ -1599,7 +1599,7 @@
             Description: Several swinging pendulums of force cleave through the room across the platforms, knocking people into the pit.
             Disable_DC: DC 48 Arcana (legendary), DC 44 Thievery (master), or dispel magic (9th level; counteract DC 44) on a platform to deactivate its pendulum blade; once all five platforms have been deactivated, the trap is disabled and the room rotates back into position along the exits. DC 48 Thievery (legendary) from any blocked exit to activate the rotating mechanism and rotate the room back into position before the trap has been disabled.
             Trigger: Locking Room [reaction] Trigger A creature disturbs any of the platforms, or anything falls into the pit; Effect The room rotates 45 degrees, closing of the room by shifting its exits to face bare walls. A pendulum of force swings across the platform with the armor on it, knocking the armor into the pit and making a pendulum blade Strike against a creature on that platform (if any). The trap then rolls for initiative.
-            Routine: Routine (5 actions) For each active platform, the trap uses an action to create a pendulum of force to swing down along a straight line between the platform and one other creature in the room that isn't on the platform (if any). The trap makes a pendulum blade attack against any creature in that line. For each platform deactivated, reduce the number of actions the trap takes in its routine by 1. Melee pendulum blade +38 (fatal d12, force, magical), Damage 4d10+22 force damage plus pendulum shove; no multiple attack penalty Pendulum Shove A creature hit by a pendulum blade must succeed at a DC 44 Refex save or be moved 5 feet along the line of the pendulum's swing. This is forced movement.
+            Routine: Routine (5 actions) For each active platform, the trap uses an action to create a pendulum of force to swing down along a straight line between the platform and one other creature in the room that isn't on the platform (if any). The trap makes a pendulum blade attack against any creature in that line. For each platform deactivated, reduce the number of actions the trap takes in its routine by 1. Melee pendulum blade +38 (fatal d12, force, Magical), Damage 4d10+22 force damage plus pendulum shove; no multiple attack penalty Pendulum Shove A creature hit by a pendulum blade must succeed at a DC 44 Refex save or be moved 5 feet along the line of the pendulum's swing. This is forced movement.
             Reset: The trap resets after 1 hour. If the darkness throughout the room has been dispelled, the darkness in the room returns when the trap resets.
             URL: https://2e.aonprd.com/Hazards.aspx?ID=99
         Stinger Ward Trap:
@@ -1711,8 +1711,8 @@
             Source: Pathfinder 173 Doorway to the Red Star Page 48
             Complexity: Complex
             Stealth: +33 (expert); darkvision
-            Description: A mounted gun equipped with a magical targeting system and integrated ammo supply.
-            Disable_DC: Thievery DC 35 (master) to disconnect the turret from its ammo supply system, or Arcana DC 35 (master) to neutralize the magical targeting system. Tan-Takneh can also deactivate one or both auto-turrets remotely with a special command word.
+            Description: A mounted gun equipped with a Magical targeting system and integrated ammo supply.
+            Disable_DC: Thievery DC 35 (master) to disconnect the turret from its ammo supply system, or Arcana DC 35 (master) to neutralize the Magical targeting system. Tan-Takneh can also deactivate one or both auto-turrets remotely with a special command word.
             AC: 37
             Fort: +29
             Ref: +27
@@ -1732,7 +1732,7 @@
             Description: Ebeshra brushes against a structure, possibly causing it to collapse.
             Disable_DC: Disable DC 43 Athletics (master), Crafting (master), or Engineering Lore (master) to brace the structure to reduce the risk of collapse until the end of the creature's next turn. The DC of the flat check for this round (see Routine) is increased by 4 on a success, or by 8 on a critical success. Increasing the flat check DC to 21 or higher stabilizes the structure, ending this hazard.
             Trigger: Shake Apart [reaction] Trigger Ebeshra applies any amount of force to the structure; Effect The building trembles. The floors of the building and the streets within 30 feet of the building become difficult terrain; creatures on this difficult terrain take a –2 circumstance penalty to attack rolls, AC, and skill checks. The hazard rolls initiative.
-            Routine (1 action) The GM rolls a DC 9 flat check to determine if the building partially collapses, increasing the DC as listed above. On a successful check, dust and debris fall within the building and 30 feet around it, providing concealment and dealing 6d6 bludgeoning damage to 1d4 randomly chosen targets (DC 35 basic Reflex save; on a critical failure, the creature is knocked prone). On a critical success, the effect is the same, but the debris deals 12d6 bludgeoning damage to 2d4 randomly chosen targets instead (DC 35 basic Reflex save; on a critical failure, the creature is restrained by rubble until freed [Force Open DC 38, Escape DC 35]).
+            Routine: (1 action) The GM rolls a DC 9 flat check to determine if the building partially collapses, increasing the DC as listed above. On a successful check, dust and debris fall within the building and 30 feet around it, providing concealment and dealing 6d6 bludgeoning damage to 1d4 randomly chosen targets (DC 35 basic Reflex save; on a critical failure, the creature is knocked prone). On a critical success, the effect is the same, but the debris deals 12d6 bludgeoning damage to 2d4 randomly chosen targets instead (DC 35 basic Reflex save; on a critical failure, the creature is restrained by rubble until freed [Force Open DC 38, Escape DC 35]).
             Reset: The building becomes susceptible to Shake Apart again 1d6 rounds after it's stabilized.
             URL: https://2e.aonprd.com/Hazards.aspx?ID=107
         Crystal Pin:
@@ -1768,7 +1768,7 @@
             Complexity: Complex
             Stealth: +32 (master) to notice Ebeshra twisting its shape in preparation of creating a planar rift
             Description: Ebeshra opens a massive rift in the Material Plane that pulls nearby creatures into another plane entirely. The rift is typically to a random plane in the multiverse, though Ebeshra can have the rift pull creatures into a plane of Ebeshra's choosing. Additionally, Ebeshra can choose any number of creatures to be immune to the effects of the planar rift, usually due to the kaiju recognizing the innocence of the creatures.
-            Disable_DC: DC 47 Lore (master) related to the specific plane beyond the rift to disrupt the planar frequency and close the rift, DC 52 Arcana (legendary) or Occultism (legendary) to undo the magical manifestation of the rift, DC 55 Performance (legendary) to play a tone that counteracts the rift's harmonic frequency, or DC 55 Diplomacy (legendary) or Religion (legendary) to plead with Ebeshra to close the rift
+            Disable_DC: DC 47 Lore (master) related to the specific plane beyond the rift to disrupt the planar frequency and close the rift, DC 52 Arcana (legendary) or Occultism (legendary) to undo the Magical manifestation of the rift, DC 55 Performance (legendary) to play a tone that counteracts the rift's harmonic frequency, or DC 55 Diplomacy (legendary) or Religion (legendary) to plead with Ebeshra to close the rift
             Trigger: Tear Reality [reaction] Trigger Ebeshra recognizes a nearby threat as needing an indisputable resolution, or a deity tasks Ebeshra with creating a planar rift; Effect Ebeshra twists its body, aligning its segmented sections into a fine blade, and cuts the fabric of the Material Plane. It creates an enormous rift in a point in the sky within 1 mile. The rift is 100 feet long and 50 feet wide. The hazard rolls initiative.
             Routine: (1 action) The rift pulls creatures within 500 feet toward it. The rift can pull any creature, regardless of its size. Creatures in the area must attempt a DC 45 Fortitude or Reflex save (the creature's choice) to resist the effects of this pull or attempt to grab something to avoid getting pulled. If a creature is directly beneath the rift when the rift pulls it, the creature instead attempts a DC 50 Fortitude or Reflex save (the creature's choice) to avoid being pulled into the rift. On a failure, the creature is pulled up into the rift and thrown to a random point on the plane on the other side.
             Critical Success: The creature resists the pull and doesn't move toward the rift.
@@ -1848,7 +1848,7 @@
             Source: Pathfinder 175 Broken Tusk Moon Page 57
             Complexity: Complex
             Stealth: +16 (expert)
-            Description: A whirlwind of four ephemeral, magical threads dispels the undead and shrouds the living in an endless slumber.
+            Description: A whirlwind of four ephemeral, Magical threads dispels the undead and shrouds the living in an endless slumber.
             Disable_DC: DC 23 Religion (expert) or DC 21 Performance (trained) to dissipate one of the four threads. Characters who failed or critically failed a Performance check to participate in Grandfather Eiwa's funeral in Chapter 1 have been able to reflect on the experience; these characters gain a +2 circumstance bonus to their Performance checks to disable this trap. The trap is destroyed when all four threads are dissipated.
             Trigger: Breath of Pharasma [reaction] (divine, necromancy) Trigger A living or undead creature opens the trunk; Effect The ephemeral winds rise, sapping energy. All living and undead creatures within 60 feet must succeed at a DC 22 Will save or become slowed 1 (slowed 2 on a critical failure). The trap then rolls initiative.
             Routine: (4 actions) Each thread of energy passes through a random living or undead creature within 60 feet, dealing 4d6 damage (DC 22 basic Will save) to the creature. A thread deals negative damage to living creatures and positive damage to undead creatures. Each thread passes through a different random creature, if possible. Each dissipated thread reduces the trap's number of actions by 1.
@@ -1865,7 +1865,7 @@
             Complexity: Simple
             Stealth: DC 22 (trained)
             Description: An invisible magic field around the strongbox releases a spray of acid when disturbed.
-            Disable_DC: DC 22 Thievery (expert) to harmlessly bleed away the magical field or dispel magic (2nd level; counteract DC 20) to dispel it.
+            Disable_DC: DC 22 Thievery (expert) to harmlessly bleed away the Magical field or dispel magic (2nd level; counteract DC 20) to dispel it.
             Trigger: Acidic Spray [reaction] (acid, arcane, evocation) Trigger A creature touches the strongbox directly or with a held tool; Effect The trap deals 4d8+10 acid damage in a 15-foot cone in the direction of the triggering creature (DC 21 basic Reflex save).
             URL: https://2e.aonprd.com/Hazards.aspx?ID=115
         Falling Stalactites:
@@ -1958,7 +1958,7 @@
               - Trap
             Source: Pathfinder 176 Lost Mammoth Valley Page 15
             Complexity: Simple
-            Stealth: DC 25 (trained) to notice the bowl is the center point for a magical trap
+            Stealth: DC 25 (trained) to notice the bowl is the center point for a Magical trap
             Description: The bowl releases a wave of negative energy when a living creature approaches without displaying a religious symbol of Venexus.
             Disable_DC: DC 22 Thievery (expert) to remove the bowl without triggering the magic, or dispel magic (2nd level, counteract DC 20) to counteract the runes
             AC: 21
@@ -2072,7 +2072,7 @@
             Source: Pathfinder 177 Burning Tundra Page 37
             Complexity: Simple
             Stealth: DC 33 (master)
-            Description: A magical rune is inscribed on the tarry earth at the entrance to the hut, buried beneath snow, with an invisible sensor that detects creatures within a 10-foot-radius sphere.
+            Description: A Magical rune is inscribed on the tarry earth at the entrance to the hut, buried beneath snow, with an invisible sensor that detects creatures within a 10-foot-radius sphere.
             Disable_DC: Disable Thievery DC 30 (master) to erase the rune without triggering the sensor or dispel magic (5th level; counteract DC 28) to dispel the rune
             Trigger: Shattering Shockwave [reaction] (arcane, evocation, sonic) Trigger A Small or larger creature comes within 10 feet of the rune; Effect The rune unleashes a deafening peal of thunder that deals 10d8 sonic damage in a 20-foot burst (DC 30 basic Reflex save).
             URL: https://2e.aonprd.com/Hazards.aspx?ID=129
@@ -2098,7 +2098,7 @@
             Stealth: +32 (master)
             Description: While the roof is on fire and collapsing timbers crush those within the hall, demons fly down from the sky to pluck victims from the flames.
             Disable_DC: two DC 32 Athletics or Diplomacy checks to douse the flames; Athletics to do the work yourself or Diplomacy to muster the ghostly soldiers. This reduces the hazard's actions by 1 and prevents it from using Burning Timbers. Banish the demons with up to two DC 35 Arcana, Occultism, or Religion checks; each success reduces the hazard's actions by 1, and two successes prevent it from using Demonic Abduction. When the hazard loses all 3 actions, Burning Timbers, and Demonic Abduction, it's disabled.
-            outine (3 actions) The haunt spends 1 action to fill the hall with burning timbers falling from above, and 2 actions to pluck up random victims and drop them to their deaths. Burning Timbers [one-action] Creatures within the 30-foot by 90-foot area of the hall take 4d6+12 fire damage (DC 29 basic Reflex save). Demonic Abduction [one-action] Spectral demons lift a single creature 50 feet into the air and drop it. The haunt makes a Strike against the creature with a +23 attack bonus. On a success, the creature is lifted into the air and dropped, taking 25 bludgeoning damage, though it might negate some or all this damage using a spell, such as feather fall. On a critical hit, the creature also takes 2d12+13 slashing damage as the demons' claws tear through its flesh.
+            Routine: (3 actions) The haunt spends 1 action to fill the hall with burning timbers falling from above, and 2 actions to pluck up random victims and drop them to their deaths. Burning Timbers [one-action] Creatures within the 30-foot by 90-foot area of the hall take 4d6+12 fire damage (DC 29 basic Reflex save). Demonic Abduction [one-action] Spectral demons lift a single creature 50 feet into the air and drop it. The haunt makes a Strike against the creature with a +23 attack bonus. On a success, the creature is lifted into the air and dropped, taking 25 bludgeoning damage, though it might negate some or all this damage using a spell, such as feather fall. On a critical hit, the creature also takes 2d12+13 slashing damage as the demons' claws tear through its flesh.
             Trigger: Burst of Fire [reaction] Trigger A creature enters the hall or ends its turn in the hall; Effect The hall bursts into flame, dealing 4d6 fire damage to each creature in the hall. The haunt then rolls initiative.
             Reset: The hall falls quiet for 24 hours, after which it can trigger again.
             URL: https://2e.aonprd.com/Hazards.aspx?ID=131
@@ -2414,7 +2414,7 @@
             Description: A cyclone of angry spirits surges around the area.
             Disable_DC: DC 30 Occultism or Religion (trained) to weaken the haunt; three total successes in any combination are required to disable the haunt
             Trigger: Gather Spirits [reaction] Trigger Two or more creatures enter the area; Effect A spiraling column of spirits gather, becoming a whirling cyclone of souls 10 feet wide and 60 feet tall. The haunt then rolls initiative.
-            Routine (3 actions) The spirit cyclone uses 3 actions to move, traveling up to 30 feet with each action and dealing 2d10+13 negative damage to each creature in its path (DC 32 basic Reflex save). A creature needs to attempt only one save during the cyclone's movement, even if the cyclone moves over its space more than once. On a critical failure, a creature is swept up into the cyclone, becoming grabbed (Escape DC 32). A creature grabbed by the cyclone moves along with the cyclone and takes 1d10+6 additional negative damage at their beginning of its turn, and it must attempt a Reflex save against the cyclone on the cyclone's turn, no matter where the cyclone moves. A creature that successfully Escapes from the cyclone falls from a height of 1d12 × 5 feet.
+            Routine: (3 actions) The spirit cyclone uses 3 actions to move, traveling up to 30 feet with each action and dealing 2d10+13 negative damage to each creature in its path (DC 32 basic Reflex save). A creature needs to attempt only one save during the cyclone's movement, even if the cyclone moves over its space more than once. On a critical failure, a creature is swept up into the cyclone, becoming grabbed (Escape DC 32). A creature grabbed by the cyclone moves along with the cyclone and takes 1d10+6 additional negative damage at their beginning of its turn, and it must attempt a Reflex save against the cyclone on the cyclone's turn, no matter where the cyclone moves. A creature that successfully Escapes from the cyclone falls from a height of 1d12 × 5 feet.
             Reset: The spirit cyclone disperses after 1 minute and resets after 1 day.
             URL: https://2e.aonprd.com/Hazards.aspx?ID=154
         Ghost Stampede:
@@ -2469,7 +2469,7 @@
             Ref: +8
             Stats: Hardness 11, HP 44 (BT 22); Immunities critical hits, object immunities, precision damage, Weaknesses electricity 5, orichalcum 5, positive 5
             Trigger: Painful Whistle [reaction] (sonic) Trigger A living creature approaches within 10 feet of the engine (marked with a “T” on the map); Effect A loud whistle blows and all creatures within 30 feet take 2d6 sonic damage and become stunned 1 (DC 20 basic Fortitude save; creatures aren't stunned on a success). The lonely machine spirit then rolls initiative.
-            Routine (2 actions); The lonely machine spirit Belches Smoke or makes two red hot gear Strikes against two creatures within 30 feet. Belch Smoke [two-actions] (air, fire) The airship's engine issues forth a cloud of alchemical smoke in a 30-foot cone. Creatures within the cone must attempt a DC 20 Fortitude save. Ranged [one-action] red hot gear +12 (fire, range 10 feet), Damage 1d6 bludgeoning and 1d6 fire
+            Routine: (2 actions); The lonely machine spirit Belches Smoke or makes two red hot gear Strikes against two creatures within 30 feet. Belch Smoke [two-actions] (air, fire) The airship's engine issues forth a cloud of alchemical smoke in a 30-foot cone. Creatures within the cone must attempt a DC 20 Fortitude save. Ranged [one-action] red hot gear +12 (fire, range 10 feet), Damage 1d6 bludgeoning and 1d6 fire
             R_Critical Success: The creature is unaffected.
             R_Success: The creature takes 1d6 poison damage and is sickened 1.
             R_Failure: The creature takes 2d6 poison damage and is sickened 2.
@@ -2558,8 +2558,8 @@
             Ref: +8
             Stats: HP 10 (BT 5); Immunities critical hits, object immunities, precision damage
             Trigger: Explosive Catalyst [reaction] Trigger Slick drinks Gattlebee's growth serum (page 36); Effect The giant lizard bumps into lab tables and workbenches, causing dangerous ingredients to intermix and detonate. The hazard rolls initiative.
-            Routine: (1 action) A random 10-foot square in Gattlebee's laboratory explodes, dealing 2d6 damage to creatures and objects in the area (DC 18 basic Reflex save). The damage type is randomly determined each round: acid, cold, electricity, fire, slashing, or sonic.
-            Reset: Reset The lab contains enough ingredients for this hazard to last 1 minute before all materials are expended. Alternatively, the hazard resets once Slick shrinks to regular size (see below).
+            Routine: (1 action) A random 10-foot square in Gattlebee's laboratory explodes, dealing 2d6 damage to creatures and objects in the area (DC 18 basic Reflex save). The damage type is randomly determined each round acid, cold, electricity, fire, slashing, or sonic.
+            Reset: The lab contains enough ingredients for this hazard to last 1 minute before all materials are expended. Alternatively, the hazard resets once Slick shrinks to regular size (see below).
             URL: https://2e.aonprd.com/Hazards.aspx?ID=162
         Repeater Crossbow Trap:
             Level: 5
@@ -2576,7 +2576,7 @@
             Ref: +9
             Stats: Hardness 12, HP 50 (BT 25); Immunities critical hits, object immunities, precision damage
             Trigger: Auto-Bolter [reaction] Trigger An object or creature weighing at least 25 pounds steps on the pressure plate at the south end of the hallway; Effect A +1 striking heavy crossbow encased in a steel box drops from the ceiling and fires. The repeater crossbow trap Strikes a random creature in the hallway. The trap then rolls initiative.
-            Routine: (3 actions) The repeater crossbow trap reloads (2 actions) then Strikes a random creature in the hallway. Ranged [one-action] heavy crossbow +16 (magical, range 120 feet, reload 2), Damage 2d10+4 piercing
+            Routine: (3 actions) The repeater crossbow trap reloads (2 actions) then Strikes a random creature in the hallway. Ranged [one-action] heavy crossbow +16 (Magical, range 120 feet, reload 2), Damage 2d10+4 piercing
             Reset: The trap runs out of ammo after it fires 5 bolts; it must be manually reloaded.
             URL: https://2e.aonprd.com/Hazards.aspx?ID=163
         Subduing Gas Chamber:
@@ -2686,7 +2686,7 @@
             Ref: +22
             Stats: Hardness 24, HP 90 (BT 45); Immunities critical hits, object immunities, precision damage
             Trigger: Slicing Shadows [reaction] (arcane, conjuration) Trigger The paradox engine is damaged, or a creature fails a check to disable it; Effect Slats on the sides of the box open to release beams of razor-sharp freezing darkness that swipe throughout area C5 and extend 10 feet south into area C4; all creatures in this area who lack the Shadow trait take 5d6 slashing damage and 5d6 cold damage (DC 34 basic Reflex save).
-            Routine: [three-actions] (arcane, conjuration) The slicing shadows congeal into the form of what appears to be the upper half of a skeletal, cowled humanoid an owb prophet. This owb prophet is a creation of the paradox engine and does not have a forsaken patron. While the owb prophet is active, the paradox engine no longer uses its Slicing Shadows reaction; instead, the owb prophet focuses its attacks on creatures that attempt to damage or deactivate the engine. If the owb prophet is destroyed, the paradox engine's disable DCs and Hardness are reduced by 5. It thereafter functions as a simple hazard with the Slicing Shadows reaction, and resets after 1 round.
+            Routine: three actions (arcane, conjuration) The slicing shadows congeal into the form of what appears to be the upper half of a skeletal, cowled humanoid an owb prophet This owb prophet is a creation of the paradox engine and does not have a forsaken patron. While the owb prophet is active, the paradox engine no longer uses its Slicing Shadows reaction. instead, the owb prophet focuses its attacks on creatures that attempt to damage or deactivate the engine. If the owb prophet is destroyed, the paradox engine's disable DCs and Hardness are reduced by 5. It thereafter functions as a simple hazard with the Slicing Shadows reaction, and resets after 1 round.
             Reset: The paradox engine deactivates 1 minute, and its owb prophet returns to its interior after all creatures leave the area, but resets immediately thereafter.
             URL: https://2e.aonprd.com/Hazards.aspx?ID=170
         Iron Dart Launcher:
@@ -2743,7 +2743,7 @@
             Ref: +15
             Stats: Trapdoor Hardness 8, Trapdoor HP 50 (BT 25); Immunities critical hits, object immunities, precision damage
             Trigger: Explosive Charge [reaction] Trigger The desk switch is pressed or the trapdoor is opened; Effect The charge on the door explodes. All creatures within 10 feet take 2d10+6 fire damage, 1d10+3 piercing damage, and 1d6 persistent bleed damage (DC 22 basic Reflex save). The room is filled with steam, making all creatures within the room concealed. The trap then rolls initiative.
-            Routine (1 action) The trapdoor emits a jet of superheated steam. Each creature in the room must attempt a DC 28 Fortitude save.
+            Routine: (1 action) The trapdoor emits a jet of superheated steam. Each creature in the room must attempt a DC 28 Fortitude save.
             Critical Success: The creature is unaffected.
             Success: The creature takes 1d10+3 fire damage.
             Failure: The creature takes 2d10+6 fire damage and is blinded for 1 round.
@@ -2929,8 +2929,8 @@
             Source: Dark Archive Page 123
             Complexity: Simple
             Stealth: DC 23 (trained; or 0 if the illusory floor is dispelled)
-            Description: The floor in this chamber is an illusion, which conceals a 40-foot drop to the true floor below. Additionally, the area beneath the floor is magically silenced—no sound is audible within nor does sound leave this space.
-            Disable_DC: Succeeding on a Perception check against the Stealth DC of 21 (including the check to find the trap) disbelieves the illusory floor, or dispel magic (2nd level; counteract DC 18) to dispel the illusory floor; dispel magic (2nd level; counteract DC 20) to dispel the magical silence
+            Description: The floor in this chamber is an illusion, which conceals a 40-foot drop to the true floor below. Additionally, the area beneath the floor is Magically silenced—no sound is audible within nor does sound leave this space.
+            Disable_DC: Succeeding on a Perception check against the Stealth DC of 21 (including the check to find the trap) disbelieves the illusory floor, or dispel magic (2nd level; counteract DC 18) to dispel the illusory floor; dispel magic (2nd level; counteract DC 20) to dispel the Magical silence
             Trigger: Drop [reaction] Trigger A creature walks onto the illusory floor; Effect The triggering creature falls through the illusory floor and takes falling damage (typically 20 bludgeoning damage). That creature can use the Grab an Edge reaction to avoid falling. The DC to Climb the walls or Grab an Edge is 20.
             Reset: automatic
             URL: https://2e.aonprd.com/Hazards.aspx?ID=184
@@ -2962,7 +2962,7 @@
             Complexity: Simple
             Stealth: DC 25
             Description: Each time a creature enters the room, it slips through the floor, tumbles through an interdimensional void, and falls back into the room through the ceiling, landing on the floor.
-            Disable_DC: DC 28 Thievery (trained) to disrupt the magical energy, or DC 27 Arcana or Occultism (trained) to realign the magical energy
+            Disable_DC: DC 28 Thievery (trained) to disrupt the Magical energy, or DC 27 Arcana or Occultism (trained) to realign the Magical energy
             Trigger: False Step [reaction] (arcane, conjuration, teleportation) Trigger A creature enters the room and steps onto the floor; Effect The creature slips through the floor; it tumbles through an interdimensional void before falling back into the room through the ceiling and landing on the floor. The triggering creature takes 40 bludgeoning damage from the fall. That creature can try to Grab an Edge (DC 24) to avoid falling.
             Reset: automatic
             URL: https://2e.aonprd.com/Hazards.aspx?ID=186
@@ -3080,7 +3080,7 @@
             Fort: +20
             Ref: +26
             Will: +20
-            Stats: HP 60 per hound; Resistances all damage 10 (except force, ghost touch, or positive; double resistance to non-magical)
+            Stats: HP 60 per hound; Resistances all damage 10 (except force, ghost touch, or positive; double resistance to non-Magical)
             Trigger: Bay [reaction] (evocation, sonic) Trigger A creature enters the area; Effect The hounds manifest and bay loudly, dealing 3d10+16 sonic damage to all creatures within 30 feet of the hounds (DC 33 basic Fortitude save). On a failed check, a creature is additionally frightened 2. The trap then rolls initiative.
             Routine: (9 actions) The trap loses 3 actions each round for each hound disabled. Each hound uses three actions to Stride 40 feet after creatures in the room, passing through corporeal creatures during this movement if possible. Each creature the hound moves through during its movement takes 2d8+7 negative damage (DC 37 Reflex negates). A creature can only be damaged by each hound once each round, no matter how many times the hound moves through their space.
             Reset: 1 hour
@@ -3098,7 +3098,7 @@
             Fort: +26
             Ref: +32
             Will: +35
-            Stats: Spirit HP 230; Resistances all damage 20 (except force, ghost touch, or positive; double resistance to non-magical)
+            Stats: Spirit HP 230; Resistances all damage 20 (except force, ghost touch, or positive; double resistance to non-Magical)
             Trigger: Don Shroud [reaction] (occult) Trigger A creature enters the area; Effect The spirit steps out of the mirror, wearing the cloth as a shroud and revealing the mirror. The triggering creature is frightened 3 unless they succeed at a DC 38 Will save. The haunt then rolls initiative.
             Routine: (3 actions) The spirit uses 3 actions to Step, fly 60 feet, or Strike, in any order. On a successful Strike the spirit's target is frightened 1, and on a critical success, the target is frightened 2. Melee [one-action] shrouded touch +33, Damage 3d12+19 force
             Reset: The haunt can be reset if the mirror is covered in a cloth or shroud.
@@ -3127,7 +3127,7 @@
             Complexity: Complex
             Stealth: DC 25 (expert) to notice a slight tuggling feeling
             Description: A supernatural compulsion to leap into the unknown exerts itself on anyone who approaches the ledge.
-            Disable_DC: DC 34 Occultism or DC 36 Arcana to expel the magical compulsion from the current island and from any of the red ropes directly attached to it, darkening the rope in color. The Echo also automatically disables the hazard from any island he's standing on, and any of the red ropes directly attached to it, when he Reconstitutes from Thought on that island.
+            Disable_DC: DC 34 Occultism or DC 36 Arcana to expel the Magical compulsion from the current island and from any of the red ropes directly attached to it, darkening the rope in color. The Echo also automatically disables the hazard from any island he's standing on, and any of the red ropes directly attached to it, when he Reconstitutes from Thought on that island.
             Trigger: Leap into the Unknown [reaction] (enchantment, mental); Trigger A creature enters a square adjacent to the ledge of an island or steps onto one of the red ropes; Effect The call of the void tugs at the mind of intruders, compelling them to leap off the ledge. The creature must succeed at a DC 34 Will save or DC 32 Acrobatics check to Balance or else drop off the ledge. If the creature falls off, it drops 100 feet, loops through the closed space of the mindscape, and lands in the square it fell from, taking falling damage as normal (usually 50 bludgeoning damage). The call of the void then rolls initiative.
             Routine: (1 action) The call targets all creatures adjacent to a ledge or on one of the red ropes and tugs at their minds. A creature who has already fallen this round is immune.
             Reset: The call of the void persists as long as the Echo exists, though it doesn't activate until the Echo has rolled initiative. The hazard resets each day.
@@ -3186,9 +3186,9 @@
             Source: Pathfinder 181 Zombie Feast Page 40
             Complexity: Complex
             Stealth: +10 (trained)
-            Description: A cloud of invisible magical sensors floats in the square above an invisible floor rune.
+            Description: A cloud of invisible Magical sensors floats in the square above an invisible floor rune.
             Disable_DC: DC 18 Acrobatics to approach without triggering the trap followed by DC 20 Thievery (trained) to disrupt the rune's summoning effect; alternatively, dispel magic (2nd level; counteract DC 17) to counteract the rune
-            Trigger: Summon Monster [reaction] (arcane, conjuration, summoned); Trigger A creature enters the cloud of magical sensors; Effect The trap summons a cockatrice. The cockatrice rolls initiative and remains for 2d6 rounds; after this duration, the spell ends and the cockatrice disappears. The cockatrice also disappears if someone disables the trap before the duration expires. The cockatrice can use 3 actions each round and can use reactions, unlike most summoned creatures.
+            Trigger: Summon Monster [reaction] (arcane, conjuration, summoned); Trigger A creature enters the cloud of Magical sensors; Effect The trap summons a cockatrice. The cockatrice rolls initiative and remains for 2d6 rounds; after this duration, the spell ends and the cockatrice disappears. The cockatrice also disappears if someone disables the trap before the duration expires. The cockatrice can use 3 actions each round and can use reactions, unlike most summoned creatures.
             Reset: The trap resets after 24 hours
             URL: https://2e.aonprd.com/Hazards.aspx?ID=200
         Sickle Blades:
@@ -3198,7 +3198,7 @@
               - Mechanical
               - Trap
             Source: Pathfinder 181 Zombie Feast Page 40
-            Complexity:Simple
+            Complexity: Simple
             Stealth: DC 20 (trained)
             Description: A skeletal arm holding a sickle is concealed in the ceiling and connected to a mechanism in the sliding door below it.
             Disable_DC: DC 20 Thievery (trained) on the door frame or ceiling groove, or Interact to operate a lever on the opposite side of the door (in areas D2 and D4, respectively)
@@ -3269,8 +3269,8 @@
             Source: Pathfinder 182 Graveclaw Page 18
             Complexity: Complex
             Stealth: +15 (expert)
-            Description: Iron Taviah's cottage comes to life and tries to eat everyone in it. The hazard is divided into three areas: the basement becomes the cottage's stomach; the stairs act as the cottage's throat, becoming a steep, slippery incline that is greater difficult terrain; and the ground floor is the inside of the cottage's mouth. Creatures within the cottage can move around within it but can't exit without pulling the mouth open or slipping out while its teeth gnash. Characters who successfully escape the cottage are safe from the hazard.
-            Disable_DC: Disable The hungry cottage can't be damaged or disabled, but the danger in each area can be temporarily mitigated. In the stomach: DC 17 Athletics (trained) to Climb atop the hoarded belongings and avoid contact with the acidic walls or floor for 1 round, or DC 25 Crafting (expert) as a 2-action activity to concoct an alchemical antacid that neutralizes acid damage dealt by the stomach for 1d4 rounds. In the throat: DC 23 Athletics (trained) to hold the throat open for one round, allowing all characters in the stairs to use a Reflex save result one degree of success greater than their roll to avoid being pushed into the stomach, or DC 23 Nature or Survival as a 2-action activity to ease the throat's contractions and provide the same effect for 1d4 rounds. In the mouth: DC 22 Athletics to Force Open a window or a door and forcibly expel one creature that's within 10 feet of an exit from the cottage, or DC 25 Athletics (expert) as a 2-action activity to jam furniture in place that prevents the teeth from gnashing for 1d4 rounds and allows anyone in the cottage to move from it during that time.
+            Description: Iron Taviah's cottage comes to life and tries to eat everyone in it. The hazard is divided into three areas the basement becomes the cottage's stomach; the stairs act as the cottage's throat, becoming a steep, slippery incline that is greater difficult terrain; and the ground floor is the inside of the cottage's mouth. Creatures within the cottage can move around within it but can't exit without pulling the mouth open or slipping out while its teeth gnash. Characters who successfully escape the cottage are safe from the hazard.
+            Disable_DC: Disable The hungry cottage can't be damaged or disabled, but the danger in each area can be temporarily mitigated. In the stomach DC 17 Athletics (trained) to Climb atop the hoarded belongings and avoid contact with the acidic walls or floor for 1 round, or DC 25 Crafting (expert) as a 2-action activity to concoct an alchemical antacid that neutralizes acid damage dealt by the stomach for 1d4 rounds. In the throat DC 23 Athletics (trained) to hold the throat open for one round, allowing all characters in the stairs to use a Reflex save result one degree of success greater than their roll to avoid being pushed into the stomach, or DC 23 Nature or Survival as a 2-action activity to ease the throat's contractions and provide the same effect for 1d4 rounds. In the mouth DC 22 Athletics to Force Open a window or a door and forcibly expel one creature that's within 10 feet of an exit from the cottage, or DC 25 Athletics (expert) as a 2-action activity to jam furniture in place that prevents the teeth from gnashing for 1d4 rounds and allows anyone in the cottage to move from it during that time.
             Trigger: The Cottage Hungers [reaction] Trigger Iron Taviah is defeated in the cottage basement; Effect The basement floor absorbs Iron Taviah, and the cottage transforms into a hungry, semi-animate creature. The cottage rolls initiative.
             Routine: (3 actions) The cursed cottage uses 3 actions Acidic Assault in the stomach, Swallowing Staircase in the throat, and Gnashing Portal in the mouth (in that order). Checks to disable the areas might prevent these actions for a brief time. Acidic Assault [one-action] (acid) The walls and floor of the stomach steam with digestive juices; all creatures in contact with these surfaces take 2d8+4 acid damage (DC 24 basic Fortitude save). Gnashing Portal [one-action] Creatures on the cottage's main floor are ground down as massive teeth appear from the floor and ceiling, gnash, and recede into the architecture, dealing 2d8+4 bludgeoning damage. Creatures in this area must attempt a DC 24 Reflex save. Swallowing Staircase [one-action] Muscular swallowing contractions force creatures down the stairs and into the stomach. Creatures on the stairs must attempt a DC 24 Reflex save or be pushed 15 feet down the stairs (and across the basement floor with any excess forced movement if they're pushed to the bottom of the stairs). Creatures who critically fail this Reflex save fall prone at the end of this forced movement.
             Critical Success: The creature takes no damage and, if within 10 feet of an exit on the ground floor, can choose to exit the cottage.
@@ -3303,7 +3303,7 @@
               - Haunt
             Source: Pathfinder 182 Graveclaw Page 58
             Complexity: Simple
-            Stealth:DC 26 (expert)
+            Stealth: DC 26 (expert)
             Description:  The gold religious symbol of a former priest of Sarenrae is haunted by the priest's tormented soul.
             Disable_DC: DC 28 Diplomacy to bring the spirit to its senses, or DC 24 Religion (expert) to banish it
             Trigger: Solar Wrath [reaction] (divine, fire) Trigger A non-good creature approaches within 10 feet of the religious symbol; Effect The Sarenite summons a burst of spiritual flame in a 30-foot radius. Creatures in the area take 10d8 good damage (DC 26 basic Will save). Creatures who fail this save are also frightened 1, and creatures who critically fail are frightened 3 and fleeing for 1 round.
@@ -3318,7 +3318,7 @@
             Stealth: DC 28 (expert)
             Description: The skull of a defeated demilich is haunted by souls of the demilich's victims.
             Disable_DC: DC 26 Arcana, Occultism, Nature, or Religion to counteract the skull's Broken Gems
-            Trigger: Broken Gems [reaction] (arcane) Trigger A living creature approaches within 10 feet of the skull; Effect The spirits haunting the skull activate one of the skull's ruined gemstones, casting one of the following four spells determined randomly: cast into time, chain lightning, fireball (6th), spellwrack. The saving throw DC for any spell is 26.
+            Trigger: Broken Gems [reaction] (arcane) Trigger A living creature approaches within 10 feet of the skull; Effect The spirits haunting the skull activate one of the skull's ruined gemstones, casting one of the following four spells determined randomly cast into time, chain lightning, fireball (6th), spellwrack. The saving throw DC for any spell is 26.
             Reset: 1 day
             URL: https://2e.aonprd.com/Hazards.aspx?ID=208
         Wrathful Dinosaur:
@@ -3348,8 +3348,7 @@
             Ref: +19
             Stats: Hardness 15, HP 60 (BT 30; Immunities critical hits, object immunities, precision damage
             Trigger: Ghostly Images [reaction] (enchantment, fear, mental, occult) Trigger Two or more creatures enter the room; Effect Three trapped souls appear in mirrors throughout the room, menacing the reflections of the triggering creatures. The triggering creatures must each succeed at a DC 28 Will save or become frightened 1 (frightened 3 on a critical failure). The haunt then rolls initiative.
-            Routine: (3 actions) Each trapped soul makes a reflective rip Strike against the reflection of a creature in the room; each trapped soul must attack a different target.
-            Melee: [one-action] reflective rip +20, Damage 2d10+11 slashing plus soul shred
+            Routine: (3 actions) Each trapped soul makes a reflective rip Strike against the reflection of a creature in the room; each trapped soul must attack a different target. Melee [one-action] reflective rip +20, Damage 2d10+11 slashing plus soul shred
             Soul Shred: A creature damaged by the haunt's reflective rip Strike is enfeebled 1 until 1 minute after it leaves the room. This enfeebled condition is cumulative, up to enfeebled 4. If the creature dies from reflective rip, its soul is contained within the mirror until the mirror is broken and a specter emerges.
             URL: https://2e.aonprd.com/Hazards.aspx?ID=210
         Memory Hole:
@@ -3386,7 +3385,7 @@
             Stats: Hardness 15, HP 72 (BT 36); Immunities critical hits, object immunities, precision damage, Weaknesses fire 10, positive 10
             Trigger: Shadow Pulse [reaction] Trigger A creature approaches within 10 feet of the heart; Effect The heart gives a slow beat, and all creatures in the room must succeed at a DC 30 Will save or be stunned 1 and unable to take reactions for 1 round (stunned 3 on a critical failure). The dark heart then rolls initiative.
             Routine: (3 actions) The shadow heart uses Battering Vortex, and then uses shadow lash on a random creature within range.
-            Battering Vortex: [two-actions] A swirling vortex of shadows forms around the heart, lifting all creatures in the room and slamming them forcefully to the ground, dealing 4d10 bludgeoning damage. Each creature must attempt a DC 30 Fortitude save. Anyone adjacent to a wall may Grab an Edge with a successful DC 28 Reflex save; on a success at Grabbing an Edge, the creature uses a result one step better than the roll of their Fortitude save. Melee shadow lash +21 (cold, reach 30 feet), Damage 3d4 cold
+            Battering Vortex: two actions A swirling vortex of shadows forms around the heart, lifting all creatures in the room and slamming them forcefully to the ground, dealing 4d10 bludgeoning damage. Each creature must attempt a DC 30 Fortitude save. Anyone adjacent to a wall may Grab an Edge with a successful DC 28 Reflex save; on a success at Grabbing an Edge, the creature uses a result one step better than the roll of their Fortitude save. Melee shadow lash +21 (cold, reach 30 feet), Damage 3d4 cold
             Critical Success: The creature is unaffected.
             Success: The creature takes half damage and is knocked prone.
             Failure: The creature takes full damage, is knocked prone, and is clumsy 1 for 1 round.
@@ -3452,7 +3451,7 @@
             Source: Pathfinder 151 The Show Must Go On Page 12
             Complexity: Complex
             Stealth: +12 (trained)
-            Description: Four magical plants inside the wagon release hallucinogenic pollen when disturbed.
+            Description: Four Magical plants inside the wagon release hallucinogenic pollen when disturbed.
             Disable_DC: Thievery DC 18 (trained) to carefully remove a pollen pod or Nature DC 18 (trained) to prevent a pod from bursting.
             AC: 18
             Fort: +9
@@ -3586,7 +3585,7 @@
               - Trap
             Source: Pathfinder 152 Legacy of the Lost God Page 51
             Complexity: Complex
-            Stealth: +19 (expert) to detect the magical sensor; noticing the wheel has a DC of 0
+            Stealth: +19 (expert) to detect the Magical sensor; noticing the wheel has a DC of 0
             Description: An ornate wheel, divided into eight segments with a rune painted on each, is mounted on a pole and controlled by a lever that can be triggered manually or a sensor that detects creatures within 30 feet in front of it.
             Disable_DC: DC 31 Thievery (master) on the wheel to flip the switch returning it to a harmless carnival game, DC 26 Thievery (expert) to erase each rune, or dispel magic (5th level; counteract DC 28) to counteract each rune
             AC: 30
@@ -3606,7 +3605,7 @@
               - Trap
             Source: Pathfinder 152 Legacy of the Lost God Page 56
             Complexity: Complex
-            Stealth: +18 (trained) to detect the magical runes in the maze; noticing the maze itself has a DC of 0
+            Stealth: +18 (trained) to detect the Magical runes in the maze; noticing the maze itself has a DC of 0
             Description: Invisible runes in the maze disorient those within it and cause its mirrored walls to shift about.
             Disable_DC: DC 26 Thievery (expert) or dispel magic (5th level; counteract DC 28) to stop the mirrors' shuffling; DC 28 Occultism or Religion (expert) to dispel the minotaur
             AC: 28
@@ -3618,7 +3617,7 @@
             Success: The target is on the right path to the exit. If the target was already on the right path, it escapes the maze.
             Failure: The target makes no progress toward escape.
             Critical Failure: The target makes no progress toward escape, and if it was on the right path, it no longer is.
-            Routine: (3 actions) The trap uses its first action to magically shuffle the mirrors, rendering markings or maps of the maze ineffective. Creatures in the maze that fail a DC 26 Will save are stupefied 1 until they leave the maze. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of stupefied 4). For its second action, the trap's ghostly minotaur attacks a random creature in the maze with its spectral gore. For its third action, the trap makes another spectral gore attack against a random creature. Melee [one-action] spectral gore +21, Damage 2d8+8 mental
+            Routine: (3 actions) The trap uses its first action to Magically shuffle the mirrors, rendering markings or maps of the maze ineffective. Creatures in the maze that fail a DC 26 Will save are stupefied 1 until they leave the maze. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of stupefied 4). For its second action, the trap's ghostly minotaur attacks a random creature in the maze with its spectral gore. For its third action, the trap makes another spectral gore attack against a random creature. Melee [one-action] spectral gore +21, Damage 2d8+8 mental
             Reset: The trap deactivates and resets if 1 minute passes without any creature in the maze.
             URL: https://2e.aonprd.com/Hazards.aspx?ID=225
         Raving Spirit:
@@ -3631,7 +3630,7 @@
             Description: The restless spirit of Currew raves against his tormentors when someone enters his room.
             Disable_DC: DC 30 Intimidation (expert) to quiet the spirit for 1 round, or DC 32 Religion (master) to exorcise it
             Trigger: Raving Diatribe [reaction] (death, emotion, fear, illusion, mental, occult) Trigger A creature remains in area B3 for longer than 1 round; Effect Each creature in the sealed room is targeted by nightmare (DC 30 Will save). The haunt counts as having met the targets. It then rolls initiative.
-            Routine: (2 actions) The haunts casts phantasmal killer (DC 30 Will save) on a random creature who can see Currew's bed (it can even target creatures outside of area B3, so long as the target can see the bed). Everyone affected by the phantasmal killer sees the same image: a sickly old man lies in the bed, screaming and ranting about his guilt, shame, and eventual death.
+            Routine: (2 actions) The haunts casts phantasmal killer (DC 30 Will save) on a random creature who can see Currew's bed (it can even target creatures outside of area B3, so long as the target can see the bed). Everyone affected by the phantasmal killer sees the same image a sickly old man lies in the bed, screaming and ranting about his guilt, shame, and eventual death.
             Reset: The haunt grows quiet and resets 1 minute after no creatures are in area B3.
             URL: https://2e.aonprd.com/Hazards.aspx?ID=226
         Caustic Dart Trap:
@@ -3679,7 +3678,7 @@
             Complexity: Simple
             Stealth: DC 32 (master)
             Description: An invisible rune on the door begins emitting a very loud buzzing sound, potentially paralyzing an intruder.
-            Disable_DC: DC 34 Thievery (master) to disrupt the rune without triggering it or dispel magic (6th level; counteract DC 31) to magically counteract the rune
+            Disable_DC: DC 34 Thievery (master) to disrupt the rune without triggering it or dispel magic (6th level; counteract DC 31) to Magically counteract the rune
             AC: 33
             Fort: +25
             Ref: +19
@@ -3765,7 +3764,7 @@
             Description: A host of angry spirits inhabiting the ruined house attempts to drag living creatures closer and crush them to death.
             Disable_DC: Disable DC 43 Religion (master) to exorcise the spirits or DC 45 Deception (master) to trick the spirits into departing
             Trigger: Embrace of Death [reaction] (attack, death, necromancy, occult) Trigger A creature that has angered the haunt begins its turn within 50 feet of the ruins of the house; Effect The haunt attempts a ghostly hand Strike against the target creature, and then rolls initiative.
-            Routine (3 actions) For each of its actions, the trap attempts a ghostly hand Strike against a different creature within 50 feet of the ruins of the house (if there are fewer than 3 creatures, the haunt doesn't use its remaining actions). Melee ghostly hand +35, Damage 2d10+10 negative plus ghostly grip Ghostly Grip A creature outside the house that takes damage from the host of spirits' ghostly hand Strike must succeed at a DC 42 Reflex save or be pulled directly into the house. If there is a wall in the creature's path, that section of wall is destroyed, and the creature takes an additional 3d12 bludgeoning damage. The haunt's ghostly hand Strike also deals an additional 6d6 bludgeoning damage to a target already inside the house (DC 42 basic Fortitude save).
+            Routine: (3 actions) For each of its actions, the trap attempts a ghostly hand Strike against a different creature within 50 feet of the ruins of the house (if there are fewer than 3 creatures, the haunt doesn't use its remaining actions). Melee ghostly hand +35, Damage 2d10+10 negative plus ghostly grip Ghostly Grip A creature outside the house that takes damage from the host of spirits' ghostly hand Strike must succeed at a DC 42 Reflex save or be pulled directly into the house. If there is a wall in the creature's path, that section of wall is destroyed, and the creature takes an additional 3d12 bludgeoning damage. The haunt's ghostly hand Strike also deals an additional 6d6 bludgeoning damage to a target already inside the house (DC 42 basic Fortitude save).
             Reset: The haunt ends 1 round after no creatures are within 50 feet of the house. The haunt resets after 1 day
             URL: https://2e.aonprd.com/Hazards.aspx?ID=234
         Witch-Priests Curse:
@@ -3783,685 +3782,660 @@
             Reset: The trap resets if both secret compartments are shut.
             URL: https://2e.aonprd.com/Hazards.aspx?ID=235
         Stabbing Sentinels:
-            Level:
+            Level: 18
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Magical
+              - Mechanical
+              - Trap
+            Source: Pathfinder 151 Lord of the Black Sands Page 53
+            Complexity: Simple
+            Stealth: DC 45 (master)
+            Description: A petrified creature momentarily animates to attack an adjacent creature.
+            Disable_DC: DC 40 Thievery (master) to remove the animating magic without triggering the trap, or dispel magic (8th level; counteract DC 38) to counteract the animating magic
+            AC: 41
+            Fort: +36
+            Ref: +27
+            Stats: Hardness 30, HP 120 (BT 60); Immunities critical hits, object immunities, precision damage
+            Trigger: Animated Attack [reaction] (attack, necromancy, transmutation) Trigger A living or undead creature moves within 5 feet of the stabbing sentinel; Effect The stabbing sentinel animates, making one Strike against the triggering creature. Melee blade +38, Damage 6d12+40 piercing plus petrification overcharge Petrification Overcharge On a critical hit, the target is petrified for 1 round. Additionally, if another stabbing sentinel has already been triggered, that sentinel immediately resets. If no other stabbing sentinels have been triggered, then another random statue in the room becomes infused with animating magic and becomes another stabbing sentinel hazard (to a maximum of four at a time).
+            Reset: The Magical energy that animates the statue builds up again over 24 hours and the trap resets.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=236
         Imperious Darkside Mirror:
-            Level:
+            Level: 19
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Magical
+              - Mechanical
+              - Trap
+            Source: Pathfinder 151 Lord of the Black Sands Page 54
+            Complexity: Complex
+            Stealth: +32 (legendary) to notice that the mirror isn't a regular mirror
+            Description: This magic mirror replaces characters with evil duplicates from another dimension.
+            Disable_DC: DC 42 Thievery (legendary) to retrieve a creature from the mirror within 10 minutes of the switch (possible only if their mirror duplicate is dead), DC 47 Thievery (master) to permanently disable the mirror once all mirror duplicates are dead, or dispel magic (9th level; counteract DC 40) to counteract the mirror for 1 minute and prevent additional replacements from appearing during that time.
+            AC: 41
+            Fort: +32
+            Ref: +27
+            Stats: Hardness 1, HP 4 (BT 2); the mirror can't be damaged while any mirror duplicate is alive; Immunities critical hits, object immunities, precision damage
+            Trigger: Reflection of Evil [reaction] (arcane, conjuration, teleportation) Trigger A non-evil creature is reflected in the mirror; Effect The mirror absorbs the creature into the mirror, replacing it with an evil mirror duplicate (DC 42 Reflex to avoid being absorbed into the mirror), and rolls initiative.
+            Routine: (1 action) The mirror absorbs another reflected creature into the mirror (DC 42 Reflex) and replaces it with a mirror duplicate. Mirror duplicates act on their own initiative, using the same statistics as the original creature, but with an evil alignment (changing only abilities that shift with the alignment change). Mirror duplicates are legendary in Intimidation and are permanently quickened, but they can use this additional action only to Demoralize. A mirror duplicate can spend 3 actions in contact with the mirror to return to its original dimension and release the creature it duplicated, but most mirror duplicates prefer not to.
+            Reset: The mirror is always ready to absorb creatures into another dimension. 10 minutes after a creature is sucked into the mirror, if an ally doesn't rescue the creature using the Thievery skill, the creature reaches the mirror dimension, where it could be captured or killed. In the mirror dimension, it counts as a mirror duplicate, so the denizens of the other dimension can't destroy the mirror on their side while the absorbed creature is there. These dimensions are alternate realities, not planes, so even rituals like plane shift can't reach them.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=237
         Convergence Lattice:
-            Level:
+            Level: 20
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Unique
+              - Magical
+              - Trap
+            Source: Pathfinder 156 The Apocalypse Prophet Page 15
+            Complexity: Complex
+            Stealth: +34 (master) to realize the lattice is a complex clockwork before it begins to move; noticing the lattice itself is DC 0.
+            Description: A complex clockwork of bright metal and delicately carved gemstones, the lattice's interlocking gears begin to whir as golden runes glow across its surface.
+            Disable_DC: DC 40 Thievery (master) or DC 35 Religion (master) four times to obliterate each of the four key runes. A DC 45 Thievery (legendary) check (or breaking the lattice) stops the clockwork's movement and prevents it from resetting, but doesn't stop its current activation.
+            AC: 45
+            Fort: +33
+            Ref: +28
+            Will: +36
+            Stats: Hardness 30, HP 460 (BT 230); Immunities object immunities (except mental effects), Weaknesses chaotic 30, mental 30
+            Trigger: Begin Convergence [reaction] Trigger A creature that is not controlled by the convergence lattice sees it; Effect The lattice's clockworks begin to move and it rolls for initiative.
+            Routine: (3 actions) The convergence lattice uses its first action to call for aid. Each convergent creature within 100 feet of the lattice Strides toward the lattice as a reaction. Creatures thus called continue to move toward the lattice on their turn each round until they are adjacent to it, at which point they defend it with their lives. The lattice uses its second action to deal 16d6 mental damage (DC 42 basic Will save) to a non-convergent creature within 100 feet. This damage is nonlethal; a creature knocked out by this damage doesn't gain the dying condition and is automatically controlled by the convergence lattice when they awaken. The lattice uses its third action to make the same attack against a second non-convergent creature within 100 feet; if there isn't such a second creature, it doesn't take its third action.
+            Reset: The convergence lattice deactivates and resets after there are no uncontrolled targets within line of sight for 1 minute.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=238
         Suffering Xulgaths:
-            Level:
+            Level: 16
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Unique
+              - Haunt
+            Source: Pathfinder 156 The Apocalypse Prophet Page 22
+            Complexity: Complex
+            Stealth: +26 (expert) to hear the echoed shouts of panicked xulgaths
+            Description: The shadows of four xulgaths endlessly relive their deaths at the hands of the wendigos and their clutchmates.
+            Disable_DC: DC 42 Religion (master) or DC 42 Occultism (master) to calm each of the four spirits. On a character's first successful check, the character also learns that xulgath funerary rites typically involve cremation, which hints that fire is a viable way to put them to rest.
+            AC: 39
+            Fort: +27
+            Ref: +31
+            Will: +27
+            Stats: HP 24 per spirit; Immunities death effects, disease, paralyzed, poison, precision, unconscious, Resistances all damage 20 (except fire, force, ghost touch, or positive)
+            Trigger: Wendigo Remnants [reaction] Trigger A living creature other than a wendigo gains the frightened condition while within 100 feet of the way station; Effect The haunt rolls for initiative.
+            Routine: (4 actions) Each active spirit chooses a living non-wendigo creature within 120 feet and attempts to devour it, targeting different creatures if possible. Each calmed spirit reduces the hazard's actions by 1. Melee [one-action] ghostly bite +32 (Magical), Damage 3d6+5 negative
+            Reset: The haunt is deactivated and resets 1 minute after all non-wendigo creatures leave the area.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=239
         Guthallath Rockslide:
-            Level:
+            Level: 19
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Environmental
+            Source: Pathfinder 156 The Apocalypse Prophet Page 27
+            Complexity: Complex
+            Stealth: +30 (master) to notice the odd aging of the stones, seemingly far older and more weathered than the surrounding rocks
+            Description: The rock walls nearby begin to crumble and collapse.
+            Disable_DC: DC 48 Crafting (legendary) to buttress the collapsing rocks in three different locations. Using large and durable materials (or applicable spells) to support the rocks reduces the check to DC 45 Crafting (master).
+            AC: 42
+            Fort: +35
+            Ref: +29
+            Stats: Hardness 20 (10 in theguthallath's erosion aura), HP 150; Immunities critical hits, object immunities, precision damage
+            Trigger: Rumbling Rocks [reaction] Trigger The guthallath rolls initiative; Effect The rocks of the area begin to crumble. The hazard rolls for initiative.
+            Routine: (2 actions) On the hazard's first action, any areas of crumbling rocks from a previous round collapse, making a falling rocks Strike against each creature in the area. On its second action, the hazard crumbles rocks in a 20- foot radius around the previous collapse. A character can Seek (DC 40) to determine where the rocks will fall on the following round, but on a critical failure, they incorrectly identify where the rocks will fall. Ranged [one-action] falling rocks +36, Damage 4d10+20 bludgeoning Early Collapse [free-action] Trigger The hazard takes 30 or more damage; Effect Move the hazard's initiative to immediately follow the creature that damaged the hazard.
+            Reset: The guthallath can reset the hazard with a few days of work stacking the fallen rocks.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=240
         Thiefs Trap:
-            Level:
+            Level: 20
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Magical
+              - Trap
+            Source: Pathfinder 156 The Apocalypse Prophet Page 36
+            Complexity: Simple
+            Stealth: DC 50 (master) to notice that the hairline cracks on the passage walls actually form runes.
+            Description: Nearly imperceptible runes set off an explosion at the point a thief is most unable to receive aid.
+            Disable_DC: DC 45 Thievery (master) or dispel magic (10th level, counteract DC 50) to counteract the runes
+            Trigger: Explosion [reaction] Trigger A creature crosses a rune; Effect The runes unleash a gout of fire roaring up the chute. Anyone in the chute and within 5 feet of its openings is dealt 8d10+44 fire damage (DC 42 basic Reflex save). Immediately thereafter, the runes emanate a 4th-level silence effect for 1 minute, so anyone injured in the chute can't call out for help.
+            Reset: The trap resets in 1 minute.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=241
         Angry Vegetation:
-            Level:
+            Level: 20
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Unique
+              - Environmental
+            Source: Pathfinder 156 The Apocalypse Prophet Page 41
+            Complexity: Complex
+            Stealth: DC 42 (master) to notice massive buds beneath the other foliage before they open
+            Description:  Five large flowers in the weed-choked field unfurl, each dusting pollen onto vines that animate into wemmuths.
+            Disable_DC: DC 48 Nature (master) or DC 48 Performance (legendary) to calm a flower, closing it
+            AC: 37
+            Fort: +33
+            Ref: +30
+            Will: +30
+            Stats: HP 120 per flower; Immunities mental, Weaknesses fire 20
+            Trigger: Bloom [reaction] Trigger A non-plant creature enters the garden; Effect The blooms open, spawning a single wemmuth that acts on the hazard's initiative, and the hazard rolls for initiative.
+            Routine: (2 actions) If there are fewer wemmuths than open flowers, the flowers create more wemmuths (so there as many wemmuths as open flowers) as their first action. For their second action, the flowers produce a mind-addling pollen. Each non-plant creature within 30 feet of a flower must succeed at a DC 41 Fortitude save or become slowed 1 for 1 round (or confused for 1 round, on a critical failure). The pollen is an emotion, mental, and olfactory effect.
+            Reset: Wemmuths collapse into ordinary vines and the trap resets if the area is left alone for 1 minute.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=242
         Axiomatic Polymorph Trap:
-            Level:
+            Level: 20
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Magical
+              - Trap
+            Source: Pathfinder 156 The Apocalypse Prophet Page 49
+            Complexity: Simple
+            Stealth: DC 47 (master)
+            Description: A Utopian glyph transforms trespassers into aeons.
+            Disable_DC: DC 48 Thievery (master) to drain the glyph's power harmlessly, or dispel magic (9th level; counteract DC 42) to counteract the glyph
+            Trigger: Axiomatic Polymorph [reaction] (divine, transmutation); Trigger A creature moves within 10 feet of the entryway to the Hall of Wonders (area N4) without speaking the passphrase (“The History and Future of Humanity”) in Utopian; Effect Each creature within 20 feet of the door is targeted by baleful polymorph (DC 42 Will save), except the effect transforms creatures into the form of an arbiter aeon rather than that of an animal.
+            Reset: 1 hour
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=243
         Unsafe Stairs:
-            Level:
+            Level: 0
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Environmental
+            Source: Crown of the Kobold King Page 33
+            Complexity: Simple
+            Stealth: DC 16
+            Description: The rickety stairs groan and strain alarmingly if a Small or larger creature ascends them.
+            Disable_DC: DC 16 Crafting to quickly jury-rig some supports to prevent the stairs from collapsing
+            Trigger: Collapse [reaction] Trigger A Small or larger creature attempts to climb the stairs; Effect The stairs attempt a DC 8 flat check (if a Small creature triggered the hazard) or a DC 16 flat check (if a Medium or multiple Small creatures triggered it). On a failure, the stairs collapse. All creatures on the stairs fall and take 2d6+3 bludgeoning damage from the collapsing rubble (DC 16 basic Reflex save).
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=244
         Falling Debris:
-            Level:
+            Level: 1
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Mechanical
+              - Trap
+            Source: Crown of the Kobold King Page 33
+            Complexity: Simple
+            Stealth: DC 20
+            Description: A net filled with stones and a small anvil crashes down on someone who steps into the room.
+            Disable_DC: DC 17 Thievery to disarm the trap through a cracked-open door, or [three-actions] Interact to open the door slowly without triggering the trap
+            Trigger: Drop Debris [reaction] Trigger A creature opens the door without taking care to avoid triggering the trap; Effect The net drops a dozen hefty stones and a small but quite hard anvil onto the creature, inflicting 3d6 bludgeoning damage (DC 17 basic Reflex save). The sound of this trap going off alerts Gurtlekep in area C8.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=245
         Phantom Mold:
-            Level:
+            Level: 2
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Environmental
+              - Fungus
+            Source: Crown of the Kobold King Page 35
+            Complexity: Simple
+            Stealth: DC 18 (expert)
+            Description: A burst of pale gray spores sprays into the air.
+            Disable_DC: Survival DC 18 to remove the mold without triggering the spores
+            AC: 15
+            Fort: +11
+            Ref: +5
+            Stats: HP 30; Immunities critical hits, object immunities, precision damage
+            Trigger: Spore Burst [reaction] Trigger The moldy books are moved or the mold takes any damage; Effect All creatures within 10 feet of the mold patch are exposed to phantom mold spores. Phantom Mold Spores (inhaled, poison) Any penalties to Perception from this poison persist for 1 hour after the poison's duration ends (this effect can be removed before then by any effect that neutralizes poison); Saving Throw DC 18 Fortitude; Maximum Duration 4 rounds; Stage 1 1d6 poison damage; Stage 2 1d6 poison damage, and the victim takes a –1 status penalty on visual Perception checks as strange shadows and flittering movement appear in their peripheral vision; Stage 3 as stage 2, but a –2 status penalty.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=246
         Lodestone Trap:
-            Level:
+            Level: 2
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Unique
+              - Magical
+              - Trap
+            Source: Crown of the Kobold King Page 46
+            Complexity: Complex
+            Stealth: +8
+            Description: The Magical lodestone discharges bolts of electricity that also magnetize metal in the room.
+            Disable_DC: DC 18 Thievery to unhook the pressure plates from the trap, or dispel magic (2nd level, counteract DC 18) to counteract the trap
+            AC: 18
+            Fort: +11
+            Ref: +5
+            Stats: Hardness 8, HP 30 (BT 15); Immunities critical hits, object immunities, precision damage
+            Trigger: Magneto-Electric Pulse [reaction] Trigger A single Medium or two or more Small creatures end their turn inside the room. Effect A pulse of electricity discharges from the lodestone to strike all four doors, with smaller arcs of electricity lancing out to strike all creatures in the room. The south and east doors slam shut, while the north and west doors fly open, releasing two vargouilles into the room. All creatures in the room take 2d6 electricity damage (DC 18 basic Reflex save). The trap then rolls initiative.
+            Routine (1 action) On its initiative, the trap exerts a strong magnetic pull on the doors, causing the north and west doors to open if they're closed, or causing the south and east doors to close if they're open. A character can open or close a door against this pull with a successful DC 18 Athletics check to Force Open the door. At the same time, any character in the room who wears primarily metal armor must attempt a DC 18 Reflex save (characters in medium metal armor suffer a –1 circumstance penalty to this save, and characters in heavy metal armor suffer a –2 circumstance penalty).
+            R_Critical Success: The PC is unaffected.
+            R_Success: The PC resists the pull but treats the room as difficult terrain.
+            R_Failure: The PC treats the room as difficult terrain and is knocked prone. A PC who's already prone suffers a critical failure instead.
+            R_Critical Failure: As failure, but the PC is also pulled 5 feet toward the lodestone. A PC who is adjacent to the lodestone instead becomes stuck to it and is restrained as long as the trap continues its routine (Escape DC 18).
+            Reset: At the end of a round in which there are no creatures standing on the floor or stuck to the lodestone, the trap deactivates. The vargouilles return to their alcoves, and the doors close. The trap resets automatically after 1 minute.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=247
         Charge of the Spear Legion:
-            Level:
+            Level: 3
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Unique
+              - Mechanical
+              - Trap
+            Source: Crown of the Kobold King Page 47
+            Complexity: Simple
+            Stealth: DC 20 (expert)
+            Description: When triggered, the room lurches suddenly on its side, causing those in the room to slide down toward the double line of spears on the west wall while the statues on the east slide down on a pulley-and-roller system to smash into the victims.
+            Disable_DC: Thievery DC 20 to deactivate the triggering pressure plate near the northern door
+            Trigger: Shift Sideways [reaction] Trigger A Small or larger creature approaches within 15 feet of the double door to area D9. Effect The entire room rotates, its west half descending as its right half rises, forming a 45º slope down to the west. All creatures in the room fall prone and slide toward the west wall (a creature adjacent to the north or south wall can attempt to arrest this fall with a DC 20 check to Grab an Edge) and take 2d6+5 piercing damage (DC 20 basic Reflex save) as they land among the spears. At the same time, the warhammer-wielding statues to the east slide downward on chains to smash into the lower wall; each person in the trap is subjected to a sliding statue Strike. Melee sliding statue +12, Damage 2d6+5 bludgeoning
+            Reset: After 1 minute, the chamber rights itself and resets the trap.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=248
         Trapped Elevator:
-            Level:
+            Level: 2
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Uncommon
+              - Mechanical
+              - Trap
+            Source: Crown of the Kobold King Page 54
+            Complexity: Simple
+            Stealth: DC 18 (expert)
+            Description: An oversized cauldron rigged as an elevator suddenly drops 30 feet if it's overloaded.
+            Disable_DC:  Thievery DC 18 (trained) to lock the releasing mechanisms in place, or Crafting DC 20 to rig additional supports for the cauldron (this activity requires 10 minutes of work)
+            Trigger: Release the Cauldron [reaction] Trigger More than one Medium or more than two Small creatures are inside the cauldron when it is activated to lower; Effect The cauldron releases from its anchor points on the chains and drops 30 feet to area E1; any creatures within take 15 points of bludgeoning damage in the fall. A creature can attempt to Grab an Edge to avoid falling by clinging to a chain.
+            Reset:  Creatures can still fall down the shaft even after the cauldron is released, but the cauldron must be reset manually
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=249
         Pendulum Blades:
-            Level:
+            Level: 3
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Uncommon
+              - Mechanical
+              - Trap
+            Source: Crown of the Kobold King Page 75
+            Complexity: Simple
+            Stealth: DC 20 (expert)
+            Description: Several swinging pendulums mounted with razor-sharp blades extend from the ceiling and slice into the room below.
+            Disable_DC: DC 20 Thievery to jam the gears and prevent the trap from being activated
+            Trigger: Swinging Blades [two-actions] (attack) Trigger This trap must be manually activated by a creature adjacent to the southwest gear stack; Effect Blades swing down to strike at all creatures in area F2 before wrenching to a frozen halt against the opposite walls. All creatures in the central part of this room take 6d6+3 slashing damage (DC 20 basic Reflex save).
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=250
         Spike Thrower:
-            Level:
+            Level: 2
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Uncommon
+              - Mechanical
+              - Trap
+            Source: Crown of the Kobold King Page 75
+            Complexity: Simple
+            Stealth: DC 18 (expert)
+            Description: Slats in the ceiling open and pepper the chamber below with long, metal spikes fired from spring-loaded tubes.
+            Disable_DC: DC 18 Thievery to jam the gears and prevent the trap from being activated
+            Trigger: Throw Spikes [two-actions] (attack) Trigger This trap must be manually activated by a creature adjacent to the southwest gear stack; Effect The spike thrower makes a ranged attack against each creature in the central part of area F2. Ranged spike +14, Damage 4d6+3 piercing
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=251
         Obscured Pitfalls:
-            Level:
+            Level: 2
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Uncommon
+              - Environmental
+            Source: Crown of the Kobold King Page 79
+            Complexity: Simple
+            Stealth: DC 18 (or 0 if the eyes covering an area that obscures a pitfall are destroyed)
+            Description: A layer of disembodied eyes obscures a pitfall in the floor that's either deep enough for a human to fall into, or narrow enough to cause a painful fall.
+            Disable_DC: Disable This hazard can't be disabled, merely avoided.
+            Trigger: Pitfall [reaction] Trigger A creature walks into a large pit's square; Effect The triggering creature falls into the pit but can attempt a DC 18 Reflex save to Grab an Edge to avoid falling. On a failure, a creature falls 20 feet into an eye-filled pit. The eyes cushion the fall so the 20-foot fall inflicts only 5 bludgeoning damage, but they also completely obscure vision; a character is effectively blind as long as they remain in the pit. The walls of the pit are slick, though a character can Climb them with a successful DC 25 Athletics check. Trip [reaction] Trigger A creature walks into a small pit's square; Effect The triggering creature must succeed at a DC 18 Reflex save or fall prone (on a critical failure, the creature also twists its ankle and becomes clumsy 1 until it receives any amount of healing).
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=252
         Avalanche Doors:
-            Level:
+            Level: 4
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Uncommon
+              - Mechanical
+              - Trap
+            Source: Crown of the Kobold King Page 80
+            Complexity: Simple
+            Stealth: DC 22 (expert)
+            Description: The double door is a false door; when triggered, the door slams downward like a drawbridge to crush anyone standing before it.
+            Disable_DC: DC 22 Thievery (trained) to detach the trigger from the doors and lock them in place
+            AC: 21
+            Fort: +14
+            Ref: +8
+            Stats: Hardness 11, HP 50 (BT 25); Immunities critical hits, object immunities, precision damage
+            Trigger: Topple Forward [reaction] Trigger Someone attempts to open the doors, or the doors take enough damage to become broken; Effect The heavy metal doors are spring-loaded to slam downward, dropping like a drawbridge to smash all creatures in a 10-foot-square before the doors. All creatures in this area must attempt a DC 21 Reflex save.
+            Critical Success: The creature lurches to the side and takes no damage—move the creature to a square of the creature's choice adjacent to the trap's area of effect.
+            Success: The creature takes 3d8 bludgeoning damage and is pushed into an adjacent square just outside the trap's area.
+            Failure: The creature takes 6d8 bludgeoning damage, is pushed into an adjacent square just outside the trap's area, and falls prone in that square.
+            Critical Failure: The creature takes 12d8 bludgeoning damage and is knocked prone. The heavy doors pin the creature to the ground, Immobilizing it (Escape DC 22). A non-immobilized character can lift the doors by Forcing them open with a successful DC 22 Athletics check so that an immobilized character can crawl to safety.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=253
         Pit of Toil:
-            Level:
+            Level: 2
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Unique
+              - Haunt
+            Source: Crown of the Kobold King Page 81
+            Complexity: Complex
+            Stealth: +0
+            Description: As ghostly, ectoplasm-dripping figures of dwarves work all around, the body of a living creature within the pit begins to ache with the pains of countless hours of back-breaking toil.
+            Disable_DC: DC 21 Crafting (expert) to shame the pit by miming skilled artistry, or DC 18 Religion (trained) to exorcise the haunt
+            Trigger: Invite Toil [reaction] Trigger A living creature enters the pit; Effect The surrounding dwarven shapes begin to chant in Dwarven, encouraging newcomers to join them as they grasp for them with their cold, incorporeal hands. The pit of toil rolls initiative.
+            Routine: (1 action; divine, necromancy) As the dwarves continue to chant and grasp at the living, the pit infuses all living creatures inside it with the ache and pain a body endures after hours of constant toil. Each living creature in the pit must attempt a DC 18 Fortitude save.
+            R_Critical Success: The creature suffers no ill effect and is thereafter immune to the pit of toil's routine.
+            R_Success: The creature suffers no ill effect.
+            R_Failure: The creature takes 2d6 negative damage and becomes enfeebled 1 for 1 round.
+            R_Critical Failure: The creature takes 4d6 negative damage and becomes fatigued.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=254
         Loose Slab:
-            Level:
+            Level: 3
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Uncommon
+              - Mechanical
+              - Trap
+            Source: Crown of the Kobold King Page 82
+            Complexity: Simple
+            Stealth: DC 23 (trained)
+            Description: The stone slab tears free from its track with the ear-piercing sound of failing metal.
+            Disable_DC: Disable DC 20 Crafting (expert) to shore up the track so that it functions as intended, or DC 18 Thievery (trained) to wedge the slab in place to immobilize it.
+            Stats: Immunities critical hits, object immunities, precision damage
+            Trigger: Falling Slab [reaction] Trigger A creature attempts to move the slab; Effect The slab rips free from its track and falls, slamming down in one direction while it kicks up twisted metal debris in the other. All creatures adjacent to the slab take 3d6 bludgeoning and 3d6 piercing damage (DC 20 basic Reflex save).
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=255
         Toxic Furnace:
-            Level:
+            Level: 6
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Magical
+              - Trap
+            Source: Crown of the Kobold King Page 84
+            Complexity: Complex
+            Stealth: +15 (expert)
+            Description: The smoking furnace begins to hiss and click, and its vents swivel and adjust to spew toxic fumes in the direction of intruders.
+            Disable_DC: DC 25 Thievery (trained) to render one of the vents useless, or DC 25 Athletics to wrench and bend a vent until it no longer functions
+            AC: 24
+            Fort: +17
+            Ref: +11
+            Stats: Vent Hardness 10, Vent HP 18 (BT 9); Furnace Hardness 15, Furnace HP 56 (BT 28); Immunities critical hits, object immunities, precision damage
+            Trigger: Spew Toxins [reaction] Trigger A visible living creature enters the room, or a Stealthy creature fails to remain hidden from the toxic furnace with a DC 25 Stealth check (the trap's sensors have darkvision and lifesense); Effect One of the toxic furnace's vents swivels to aim at the triggering creature and then spews a gout of boiling toxin at the target. The toxic furnace then rolls initiative.
+            Routine: (3 actions) The trap loses 1 action for each disabled vent. On each of the trap's actions, a vent spews a gout of boiling toxin at a living creature in sight of it. It can't target a single creature more than once per round, so if there aren't enough viable targets for all 3 actions, the trap loses those unspent actions. Ranged boiling toxin +17 (range 30 feet), Damage 1d6 acid, 2d6 fire, and 2d6 poison
+            Reset: The trap resets after 1 minute, during which it sees no creatures to target.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=256
         Explosive Crystal Spheres:
-            Level:
+            Level: 6
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Magical
+              - Trap
+            Source: Crown of the Kobold King Page 91
+            Complexity: Complex
+            Stealth: +15 (expert)
+            Description: Shimmering, glyph-graven, two-foot-diameter crystalline spheres shimmer and condense in the air, launching with explosive force at intruders.
+            Disable_DC: DC 25 Thievery (expert) to locate and deface tiny activation runes located at one of the six locations that spawn crystal spheres, or DC 28 Arcana (expert) or DC 28 Occultism (expert) to manipulate the magical energy at one of those locations to render the spheres inert, or dispel magic (3rd level; counteract DC 22) to counteract one of the crystal sphere spawn points
+            AC: 24
+            Fort: +11
+            Ref: +17
+            Stats: Sphere Hardness 13, Sphere HP 54 (BT 27); Immunities critical hits, fire damage, object immunities, precision damage
+            Trigger: Manifest Crystal Sphere [reaction] Trigger Three or more creatures remain in the Outer Ring for 6 seconds or longer; Effect Six spheres of crystal, each measuring 2 feet in diameter, manifest from thin air and begin quickly floating toward intruders. A sphere manifests at each of the points on the map indicated with a small numeral (labeled 1 through 6); the trap then rolls initiative.
+            Routine: (6 actions) On each of the trap's actions, a crystal sphere that hasn't yet taken an action during the turn either flies 25 feet toward the closest creature in the Outer Ring (if no creature is within 25 feet), or it attacks a visible creature within 25 feet (the crystal spheres can sense targets via darkvision). If a crystal sphere attacks a target, that target takes 1d6 force damage (DC 24 basic Reflex save) as the sphere hits them and bursts. A creature can be attacked by multiple spheres in a turn, but a sphere always targets the closest target. Once a sphere attacks and bursts, it vanishes but respawns at its spawn point at the start of the next turn and continues its routine. A sphere that has been destroyed or had its spawn point disabled vanishes and doesn't continue to respawn and attack, and the trap loses 1 action for each sphere destroyed or disabled in this way.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=257
         The Last Crucible:
-            Level:
+            Level: 6
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Mechanical
+              - Trap
+            Source: Crown of the Kobold King Page 100
+            Complexity: Complex
+            Stealth: +15 (expert)
+            Description: Magically hardened sheets of obsidian drop down over the room's exits while the machinery within taps into wells of magma to begin spewing lava—and monsters—into the maze.
+            Disable_DC: Thievery DC 28 (expert) to disable the main pressure plate at area H4a and deactivate the trap entirely (this causes the obsidian walls to retract up into the ceiling as well), Thievery DC 25 (trained) to disable one of the three lava spouts, or Athletics DC 28 (trained) to Force Open a fallen obsidian wall
+            AC: 22
+            Fort: +17
+            Ref: +11
+            Stats: Obsidian Wall Hardness 15, Obsidian Wall HP 58 (BT 29) to smash a 5-foot-square hole in the wall; Spout Hardness 13; Spout HP 20 (BT 10); Immunities critical hits, fire, object immunities, precision damage
+            Trigger: Drop the Wall [reaction] Trigger Four or more Small or larger creatures walk onto the pressure plate at area H4a; Effect A magically hardened sheet of obsidian drops down like a portcullis in the western and northern entrances to this room that lead to areas H3 and H5, respectively. Any creatures standing in one of these squares takes 4d6+4 bludgeoning damage from the falling wall (DC 24 basic Reflex save) and then decides what side of the wall they want to be on. At the same moment, four thoqquas that have spent centuries in hibernation awaken and emerge from vents into area H4b. The trap then rolls initiative, as do the thoqquas.
+            Routine: (3 actions) The trap loses 1 action per disabled spout each turn. On each action, a different spout located at one of the three areas marked H4c spews a gout of lava at the closest non-thoqqua target in its line of sight; these spouts use magical sensors that have darkvision and a Perception DC of 25. Originally, agents of the abbot would come through here after the trap was triggered, deactivate it, and clean out the hardened blobs of lava and dead bodies that remained, but the amount of time it would take for this trap to clog tunnels with cooled lava makes tracking that slow accretion over the course of this adventure unnecessary. Ranged [one-action] lava gout +17 (fire), Damage 4d8 fire; no multiple attack penalty
+            Reset: The Last Crucible deactivates and resets 10 minutes after it has no target creatures (because the creatures either left area H4 or died). Any thoqquas that still live sense the magma river at area H6 and eventually make their way north to that area to swim away.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=258
         Nights Breath Trap:
-            Level:
+            Level: 14
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Rare
+              - Magical
+              - Trap
+            Source: Pathfinder 184 The Ghouls Hunger Page 11
+            Complexity: Simple
+            Stealth: DC 38 (master)
+            Description: The night giant mummy unfolds its arms and leans forward to exhale a blast of gray mist and shrieking spirits into the room.
+            Disable_DC: DC 33 Thievery to “blind” the statue so that it cannot notice any who approach, DC 35 Occultism to redirect and expend the trap's occult energies harmlessly, or dispel magic (7th level, counteract DC 32) to counteract the trap.
+            AC: 33
+            Fort: +28
+            Ref: +22
+            Stats: Hardness 22, HP 90 (BT 45); Immunities critical hits, object immunities, precision damage
+            Trigger: Night's Breath [reaction] (emotion, fear, illusion, mental, occult) Trigger A Small or larger creature in area A2 moves within 15 feet of the secret door to the north or the double door to area A5; Effect The mummy exhales a blast of gray mist into the room that imparts an overwhelming sense that night itself is consuming all thought. The trap deals 12d6 mental damage to all creatures in area A2, who each must attempt a DC 36 Will saving throw.
+            Critical Success: The creature is unaffected.
+            Success: The creature takes half damage and is frightened 1.
+            Failure: The creature takes full damage, is frightened 2, and is fleeing for as long as they remain frightened.
+            Critical Failure: The creature takes double damage, is frightened 3, and is fleeing for as long as they remain frightened.
+            Reset: The trap resets during the following round, after which it can be triggered again.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=259
         Crystalized Agony:
-            Level:
+            Level: 11
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Environmental
+            Source: Pathfinder 184 The Ghouls Hunger Page 23
+            Complexity: Simple
+            Stealth: DC 10
+            Description: A violet crystal containing the body of a dead creature, grown from its dying agony, pulses as it exudes motes of flickering energy.
+            Disable_DC: DC 33 Thievery (master) or DC 35 Survival (master) to know where to Strike a specific crystal perfectly on a facet to cause it to shatter harmlessly
+            AC: 31
+            Fort: +18
+            Ref: +23
+            Stats: Hardness 20, HP 80 (BT 40); Immunities critical hits, object immunities, precision damage
+            Trigger: Emit Agnoy [reaction] (divine, necromancy) Trigger The crystallized agony is struck hard enough to take damage; Effect A shimmering mote of violet light flashes from the point of origin from the triggering action, unerringly striking the triggering creature. This bolt of agony deals 10d10 mental damage (DC 30 basic Fortitude save).
+            Reset: A crystallized agony resets automatically and can be triggered again the next round.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=260
         Pain Milker:
-            Level:
+            Level: 12
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Environmental
+            Source: Pathfinder 184 The Ghouls Hunger Page 23
+            Complexity: Simple
+            Stealth: DC 10
+            Description: An eerie machine made of levers, crystals, and glowing bits of metal, as one draw near, causes unsettling aches and pains.
+            Disable_DC: DC 33 Thievery (master) to deactivate the machine, or DC 38 Perception (expert) to decipher the proper order in which the switches and dials should be adjusted in order to power the device down harmlessly
+            AC: 31
+            Fort: +24
+            Ref: +18
+            Stats: Hardness 22, HP 60 (BT 30); Immunities critical hits, object immunities, precision damage
+            Trigger: Agonizing Overload [reaction] (divine, necromancy) Trigger The pain milker is struck hard enough to take damage, or any of its dials and levers are adjusted carelessly; Effect The pain milker emits a shrill whine and exudes a blast of violet light. All creatures in area B2 must attempt a DC 30 Fortitude save. This DC is reduced by 2 if the machine is broken.
+            Critical Success: The creature is unaffected.
+            Success: The creature takes 4d10 positive or negative damage (whichever is more harmful).
+            Failure: The creature takes 8d10 positive or negative damage (whichever is more harmful) and is enfeebled 1.
+            Critical: Failure As failure but 16d10 damage and enfeebled 2.
+            Reset: If the augnagar still lives and at least one crystallized agony is still functional, the pain milker resets automatically in a number of rounds equal to 7 – the number of remaining crystallized agonies.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=261
         Unfinished Portalrender:
-            Level:
+            Level: 13
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Magical
+              - Trap
+            Source: Pathfinder 184 The Ghouls Hunger Page 26
+            Complexity: Complex
+            Stealth: +27 (master)
+            Description: A sphere of concentrated agony harvested from a qlippoth begins pulsing with violet light as it blasts the room with otherworldly agony.
+            Disable_DC: DC 37 Thievery (master) to dismantle the housing and refocus the agony inward so it consumes itself harmlessly, DC 33 Arcana or Occultism (master) to vent the agony in a controlled way that causes the portalrender to become inert after 1 minute (during which it can still be triggered normally), or dispel magic (7th level; counteract DC 31)
+            AC: 34
+            Fort: +26
+            Ref: +20
+            Stats: Hardness 22, HP 88 (BT 44)
+            Trigger: Agonizing Pulse [reaction] (emotion, enchantment, mental, occult) Trigger The unfinished portalrender takes any damage or is moved (the portalrender is Bulk 5); Effect The central sphere of concentrated agony flashes bright violet, filling the mind's of the room's inhabitants with overwhelming mental sensations of pain and hallucinations that the world around them is being torn away and replaced by a demon-haunted apocalypse. All creatures in area B4 must attempt a DC 33 Will save, then the trap rolls initiative.
+            Critical Success: The creature is unaffected.
+            Success: The creature takes 4d6 mental damage from the pain.
+            Failure: The creature takes 8d6 mental damage from the pain and is confused until the end of their next turn.
+            Critical Failure: The creature takes 16d6 mental damage from the pain, is stupefied 1, and is confused for 1 minute.
+            Routine: (1 action) The unfinished portalrender continues to flood area B4 with agony, and everyone in the room must attempt a DC 33 Will save against its Agonizing Pulse. At the end of its turn, the unfinished portalrender attempts a DC 6 flat check. On a failure, its stores of agony deplete and it deactivates, causing the central orb of agony to fade away permanently
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=262
         Glyph of Warding:
-            Level:
+            Level: 13
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Magical
+              - Trap
+            Source: Pathfinder 184 The Ghouls Hunger Page 28
+            Complexity: Simple
+            Stealth: DC 33 (trained)
+            Description: A magical glyph flashes before triggering a spell.
+            Disable_DC: DC 33 Thievery (trained) to disable the glyph, or dispel magic (7th level, counteract DC 33) to counteract the glyph
+            Trigger: Discharge Glyph [reaction] (abjuration, divine) Trigger A creature opens the door between area B8 and B7; Effect A sound burst, heightened to 6th level (DC 33), is centered on the creature opening the door. The sound alerts all creatures in the tower
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=263
         The Putrid Rise:
-            Level:
+            Level: 14
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Magical
+              - Trap
+            Source: Pathfinder 184 The Ghouls Hunger Page 47
+            Complexity: Complex
+            Stealth: +28 (master)
+            Description: The stink of bile suddenly grows as the myriad mouths carved into the walls begin to vomit forth a deluge of acidic slurry.
+            Disable_DC: Disable DC 33 Thievery (master) to disrupt the trap's magical network of sensors and effectively “blind” it to targets to react to, DC 38 Religion (master) to recognize the carvings and recall one of the mantras needed to pass safely, or dispel magic (7th level; counteract DC 32) to counteract the trap.
+            Trigger: Vomit [reaction] Trigger The trap's sensors notice a creature on the stairs north of the entrance to area D4; Effect The myriad mouths on the walls spew out a foul-smelling acidic slurry along the entire stairwell. The stairs in areas D3 become difficult terrain, and all creatures in area D3 must attempt a DC 34 Reflex saving throw. A creature that is fatigued by hunger takes a –2 circumstance penalty to this saving throw. The trap then rolls initiative.
+            Critical Success: The creature is unaffected.
+            Success: The creature takes 4d6 acid damage and is sickened 1.
+            Failure: The creature takes 8d6 acid damage, is sickened 2, and is knocked prone.
+            Critical Failure: The creature takes 16d6 acid damage, is sickened 3, is knocked prone, and then tumbles down the stairs. The fall ends once the creature reaches the next lowest landing (note that a creature falling at the lowest flight tumbles into the carrion pit at area D2, but can attempt to Grab an Edge as detailed in that room). A creature that falls down the steps takes an additional 4d6 bludgeoning damage (DC 32 basic Reflex save) from the tumble, regardless of the total distance traveled.
+            Routine: (1 action) On its turn, the trap Vomits as its action. As long as the Putrid Rise is active, the stairs in area D3 are difficult terrain.
+            Reset: The trap deactivates 1 round after no targets can be sensed, but resets immediately.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=264
         Void Garden:
-            Level:
+            Level: 14
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Environmental
+            Source: Pathfinder 184 The Ghouls Hunger Page 48
+            Complexity: Complex
+            Stealth: +28 (master)
+            Description: Six eerie purple crystals react to the presence of life, pulsing with flashes of violet light that seem to match the heartbeats of living creatures in the room.
+            Disable_DC: DC 33 Thievery (master) or DC 35 Nature (master) to discern a hairline fracture that, when struck, shatters a crystal to dust
+            AC: 36
+            Fort: +28
+            Ref: +22
+            Stats: Crystal Hardness 22, Crystal HP 92 (BT 46); Immunities critical hits, object immunities (except positive), precision damage, Weaknesses positive 15
+            Trigger: Negative Energy Pulse [reaction] (attack) Trigger A living creature enters the circular portion of area D4, or a crystal takes damage from any source; Effect The void garden creates a pulse of negative energy that fills the entire room and, if the doors to area D3 are open, extends 30 feet into the hallway beyond. All living creatures in this area must attempt a DC 34 Fortitude save. The trap then rolls initiative.
+            Critical Success: The creature is unaffected
+            Success: The creature takes 5d6 negative damage.
+            Failure: The creature takes 8d6 negative damage and is drained 1.
+            Critical Failure: The creature takes 16d6 negative damage and is drained 2.
+            Routine: (6 actions) The void garden's crystals each use an action to fire a void ray, a beam of destructive dark purple energy, at a random living creature in the room or in visible reach through the open doorway (the crystals don't fire at living targets on the balcony in area D6c). A single creature can be targeted only once per round by a void ray. The void garden loses one action for each crystal that is disarmed or destroyed. Ranged [one-action] void ray +29 (negative, range 120 feet), Damage 3d10 negative plus drained 1 (this drained value stacks with that caused by other void rays or the hazard's Negative Energy Pulse, to a maximum of drained 5).
+            Reset: The void garden deactivates 1 round after all living targets leave the area but resets immediately thereafter.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=265
         Glyph of Warding (A):
-            Level:
+            Level: 14
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Magical
+              - Trap
+            Source: Pathfinder 184 The Ghouls Hunger Page 50
+            Complexity: Simple
+            Stealth: DC 34 (trained)
+            Description: A magical glyph flashes before triggering a spell.
+            Disable_DC: DC 34 Thievery (trained) to disable the glyph, or dispel magic (7th level, counteract DC 34) to counteract the glyph
+            Trigger: Discharge Glyph [reaction] (abjuration, divine) Trigger A creature opens the door to area D6; Effect The creature is targeted by a spirit blast spell (DC 34).
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=266
         Collapsing Bridge:
-            Level:
+            Level: 15
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Mechanical
+              - Trap
+            Source: Pathfinder 184 The Ghouls Hunger Page 63
+            Complexity: Simple
+            Stealth: DC 40 (master)
+            Description: An iron bridge's connectors give way to drop into the lake below.
+            Disable_DC: Disable DC 40 Thievery (master) to disable one side of the bridge's quick release mechanisms
+            Trigger: Collapse [reaction] Trigger A Small or larger creature moves more than 20 feet onto the bridge; Effect The bridge chains detach from their connectors, dropping itself and anything on it into the lake 150 feet below. A creature that's adjacent to the ledges to the north or south can attempt a DC 33 Reflex save to Grab the Edge, but creatures who can't reach the edge fall with the bridge into the toxic water below (unless one side of the bridge remains attached, in which case a creature can attempt to Grab an Edge by clinging to the dangling bridge—requiring a successful DC 20 Athletics check to climb the hanging bridge to safety).
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=267
         Nightmare Portal:
-            Level:
+            Level: 16
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Mechanical
+              - Trap
+            Source: Pathfinder 184 The Ghouls Hunger Page 66
+            Complexity: Complex
+            Stealth: DC +32 (master)
+            Description: Horrific visions of a lumbering monstrosity whose face is nothing but a fanged mouth lurch out of the violet mist to attempt to eat the viewer alive.
+            Disable_DC: DC 42 Thievery (master) to focus the portal's energies back in on itself to close it off, or DC 36 Occultism (master) to invoke the proper chant and make the proper hand gestures to untether the portal from the Dreamlands, or dispel magic (8th level; counteract DC 34) to counteract the portal for 1 minute and prevent Orgesh's influence from reaching through during that time
+            AC: 39
+            Fort: +30
+            Ref: +25
+            Stats: Hardness 26, HP 104 (BT 52); Immunities critical hits, object immunities, precision damage
+            Trigger: Dreadful Vision [reaction] (illusion, mental, occult) Trigger At the start of a round after a creature who can dream and isn't immune to sleep effects enters the room, the portal starts to glow with purple mist. At this point, the portal triggers as soon as such a creature looks into it. A character who just passes by and doesn't specifically avert their gaze must attempt a DC 11 flat check to not accidently glance into the portal, while a character who Searches this room automatically looks into it unless they specify otherwise. Effect The nightmare portal casts phantasmal calamity (heightened to 8th level, Will save DC 37), making reality appear to crumble away to reveal a vast cavern filled with bones through which immense wormlike creatures burrow as they endlessly eat away at the world. The trap then rolls initiative.
+            Routine: (2 actions) A vision of an immense lumbering figure with nothing but a circular mouth for a face lurches out of the portal. For each action, the nightmare portal casts phantasmal killer (heightened to 8th level, Will save DC 37), targeting a different creature both times. It can select targets in area E11, the secret alcove to the northeast, or up to 10 feet east from the door (although a closed door blocks it), choosing the closest two targets each round. The nightmare portal loses 1 action if it's broken and can thus only cast phantasmal killer once per round.
+            Reset: The nightmare portal resets 1 minute after it no longer detects targets.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=268
         Spiral Seal:
-            Level:
+            Level: 16
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Unique
+              - Magical
+            Source: Kingmaker Adventure Path Page 400
+            Complexity: Simple
+            Description:  A spiral shape suggesting the curling religious symbol of Pharasma is carved into the stone floor.
+            Disable_DC: Disable DC 37 Occultism (master) or DC 40 Religion (master) to unmake the Spiral Seal through occult ritual or prayer performed as a 10 minute activity with the Concentrate trait, or dispel magic (9th level, counteract DC 40) to counteract the Spiral Seal.
+            AC: 39
+            Fort: +30
+            Ref: +25
+            Stats: Hardness 27, HP 106 (BT 53); Immunities critical hits, object immunities, precision damage
+            Trigger: Backlash [reaction] (abjuration, incapacitation, occult) Trigger A creature fails an attempt to disable the Spiral Seal or inflicts damage to it without successfully breaking it; Effect The magic stored within the Spiral Seal blasts outward in a concussive wave of power, surging in a spiraling vortex. All creatures within 60 feet of the Spiral Seal must attempt a DC 41 Fortitude save.
+            Critical Success: The creature is unaffected.
+            Success: The creature is knocked prone.
+            Failure: The creature is knocked prone and is stupefied 1 for 24 hours.
+            Critical Failure: The creature is knocked prone, is stupefied 3 for 24 hours, and increases their doomed value by 1.
+            Reset: Recovery [free-action] Frequency once per round; Trigger The Spiral Seal is damaged but is above its Broken Threshold; Effect The Spiral Seal repairs itself, regaining 30 Hit Points.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=269
         Unstable Pit:
-            Level:
+            Level: 0
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
+              - Environmental
+            Source: Kingmaker Adventure Path Page 69
+            Complexity: Simple
+            Stealth: DC 12
+            Description: This open pit was once covered with branches— it's now visible, but its unstable edges are not obvious.
             Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+            Trigger: Crumbling Edge [reaction] Trigger A creature comes within 5 feet of the pit's edge; Effect The edge of the pit crumbles. The triggering creature must attempt a DC 19 Reflex save.
+            Critical Success: The triggering creature steps back from the edge before it collapses.
+            Success: The triggering creature falls prone.
+            Failure: The triggering creature falls prone and slides into the pit, taking 1d6 bludgeoning damage.
+            Critical Failure: As failure, but 2d6 bludgeoning damage.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=270
         Smoke-Filled Hallway:
-            Level:
+            Level: 2
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
+              - Environmental
+            Source: Kingmaker Adventure Path Page 34
+            Complexity: Complex
+            Stealth: +0 (noticing the smoke is automatic)
+            Description: Thick smoke fills this hallway, making it difficult to see and breathe.
+            Disable_DC: Disable While a spell like gust of wind can temporarily clear a path through the smoke, the hazard returns at the start of the next round as long as the fires in area A17 continue to burn; DC 18 Survival to know how best to cover your nose and mouth with a wet cloth to help alleviate the choking effects of the smoke.
             AC:
             Fort:
             Ref:
             Stats:
-            Trigger:
-            Reset:
-            URL:
+            Trigger: Choke [reaction] Trigger A creature that isn't holding their breath walks into the hallway or starts their turn in the hallway; Effect The triggering creature must attempt a DC 18 Fortitude save.
+            Critical Success: The creature is unaffected by the smoke.
+            Success: The creature is sickened 1 by the smoke.
+            Failure: The creature is sickened 1 and takes 1d6 nonlethal damage from choking on the smoke. A creature that falls unconscious from the nonlethal damage begins to suffocate in 1d4+1 rounds if not dragged to safety.
+            Critical Failure: As failure, but sickened 2 and 1d6 persistent nonlethal damage.
+            Reset: The smoke continues to affect anyone who enters area A16 until the fires in area A17 are extinguished.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=271
         Breegs Traps:
-            Level:
+            Level: 3
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Mechanical
+              - Trap
+            Source: Kingmaker Adventure Path Page 58
+            Complexity: Simple
+            Stealth: DC 20
+            Description: Several dozen spike snares are littered across this hex.
+            Disable_DC: Disable DC 17 Survival (made as an individual hexploration activity) to locate and disarm all the traps by hand.
+            Trigger: Clamp Shut [reaction] Trigger Anyone Travels or Reconnoiters this hex; Effect If the characters are Traveling, one of them (determined randomly) steps in a trap. If the characters are Reconnoitering, 1d4 of them (determined randomly) step in a trap. When a creature steps in a trap, the trap makes a bear trap Strike against the creature. Melee [one-action] bear trap +14, Damage 2d10+7 piercing
+            Reset: There are enough traps in this hex that this hazard can be triggered up to 5 times before all the traps are used up.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=272
         Rickety Bridge:
-            Level:
+            Level: 4
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Environmental
+            Source: Kingmaker Adventure Path Page 65
+            Complexity: Simple
+            Stealth: DC 22
+            Description: The bridge creaks and strains alarmingly.
+            Disable_DC:  Crafting DC 25 to Repair the bridge as an individual hexploration activity.
+            Trigger: Collapse [reaction] Trigger Two or more Medium creatures or a Large or larger creature crosses the bridge; Effect The bridge collapses. The triggering creature(s) fall into the river below, taking no damage from the fall itself due to the deep water, but taking 2d8+5 bludgeoning damage (DC 21 basic Reflex save) from falling debris. For 1 round after the collapse, the waters below the bridge churn violently, requiring a DC 20 Athletics check to Swim.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=273
         Stinging Nettles:
-            Level:
+            Level: 1
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Environmental
+              - Plant
+            Source: Kingmaker Adventure Path Page 77
+            Complexity: Simple
+            Stealth: DC 17
+            Description: This bright green plant has long triangular leaves covered with fine hair-like stingers.
+            Disable_DC: DC 17 Survival to carefully navigate the plant and pull aside or cut away the nettles
+            AC: 13
+            Fort: +10
+            Ref: +4
+            Stats: Immunities critical hits, object immunities, precision damage
+            Trigger: Sting [reaction] (poison) Trigger A creature touches the stinging nettles or moves through a square containing stinging nettles; Effect The triggering creature must attempt a DC 17 Fortitude save if they're walking through the square or a DC 20 Fortitude save if they touched the nettles.
+            Critical Success: The creature avoids being stung by the plant's nettles.
+            Success: The creature is sickened 1 by the pain caused by brief contact with the nettles.
+            Failure: The creature is sickened 1 by the pain caused by contact with the nettles and is also clumsy 1 for 8 hours from the lingering pain.
+            Critical Failure: The creature is sickened 2 by the pain caused by contact with the nettles and is also clumsy 1 for 24 hours from the lingering pain.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=274
         Dropping Web Trap:
-            Level:
+            Level: 2
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Mechanical
+              - Trap
+            Source: Kingmaker Adventure Path Page 88
+            Complexity: Simple
+            Stealth: DC 21 (expert)
+            Description: A 30-foot-wide rope bridge spans a 30-foot-deep chasm between two crags on the mountainside.
+            Disable_DC: DC 15 Crafting or DC 18 Thievery to secure the bridge in place.
+            Trigger: Collapse [reaction] Trigger One Large, two Medium, or three Small creatures move onto the rope bridge; Effect The bridge collapses and creatures on the bridge fall 30 feet, taking 15 points of bludgeoning damage. The triggering creatures can attempt a DC 18 Reflex save to Grab an Edge to avoid falling.
+            Reset: 1 hour
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=275
         Azure Lilies:
             Level:
             Trait:
@@ -4480,39 +4454,44 @@
             Reset:
             URL:
         Breath of Despair:
-            Level:
+            Level: 12
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Rare
+              - Environmental
+            Source: Kingmaker Adventure Path Page 100
+            Complexity: Simple
+            Stealth: +30 (expert)
+            Description: The azure lilies expel a burst of toxic pollen.
+            Disable_DC: DC 33 Nature or Survival (expert) to harvest the plant's pollen without disturbing the blossoms.
+            AC: 30
+            Fort: +27
+            Ref: +25
+            Stats: HP 120 (BT 60); Immunities critical hits, object immunities, precision damage
+            Trigger: Pollen Burst [reaction] (emotion, enchantment, mental, poison); Trigger The lily patch is disturbed; Effect The pollen erupts in a 30-foot-radius burst. Any living creature in the burst must attempt a DC 30 Will save, though creatures with the plant trait are immune.
+            Critical Success: The creature is unaffected.
+            Success: The creature takes 6d6 mental damage as the pollen causes wracking headaches and jolts of pain.
+            Failure: The creature takes 12d6 mental damage and is confused for 1 minute. The creature can attempt a new save at the end of each of its turns to end the confusion early.
+            Critical Failure: The creature takes 20d6 mental damage and is confused for 1 minute, with no save to end the confusion early.
+            Reset: 1 month
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=276
         Dread Aura:
-            Level:
-            Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+            Level: 5
+            Trait: 
+              - Magical
+              - Trap
+            Source: Kingmaker Adventure Path Page 133
+            Complexity: Complex
+            Stealth: +13 (trained)
+            Description: The faces carved on the wall appear to inhale, then exhale slithering tendrils of darkness to harm those who would despoil the tomb.
+            Disable_DC: Thievery DC 23 (expert) to disarm the trap's sensors in the chamber floor, or dispel magic (3rd level; counteract DC 23) to counteract the faces. Breaking one of the faces on the walls reduces the trap's save DC, attack rolls, and its total actions by 1 per broken face; if all four faces are destroyed, the trap is disabled.
+            AC: 22
+            Fort: +15
+            Ref: +9
+            Stats: Face Hardness 12, Face HP 30 (BT 15); Immunities critical hits, object immunities, precision damage
+            Trigger: Draining Inhalation [reaction] (divine, necromancy) Trigger A non-flying living creature moves more than 10 feet into area C2; Effect Each face inhales then exhales, and all living creatures in area C2 feel their strength and vitality being drawn out of them as tendrils of shadow from the faces latch onto their bodies. Each creature must succeed at a DC 22 Fortitude save or become enfeebled 1 (enfeebled 2 on a critical failure).
+            Routine: (4 actions) The trap loses 1 action per disabled face each turn. On each action, a different face spews a writhing breath of darkness from its mouth to a target in area C2. A creature can only be targeted once per round by the despairing breath, so if fewer than four creatures are in the room, the trap won't be able to take full advantage of all four of its actions. Ranged despairing breath +17 (fear, mental), Damage 2d8+7 mental damage; no multiple attack penalty. A creature damaged by the despairing breath must succeed at a DC 22 Will save or become frightened 1 (or fleeing 1 on a critical failure); this effect has the fear trait.
+            Reset: The trap resets after 1 minute.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=277
         Falling Portcullis:
             Level:
             Trait:
