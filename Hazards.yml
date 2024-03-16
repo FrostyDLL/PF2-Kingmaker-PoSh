@@ -4437,23 +4437,6 @@
             Reset: 1 hour
             URL: https://2e.aonprd.com/Hazards.aspx?ID=275
         Azure Lilies:
-            Level:
-            Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
-        Breath of Despair:
             Level: 12
             Trait:
               - Rare
@@ -4474,7 +4457,7 @@
             Critical Failure: The creature takes 20d6 mental damage and is confused for 1 minute, with no save to end the confusion early.
             Reset: 1 month
             URL: https://2e.aonprd.com/Hazards.aspx?ID=276
-        Dread Aura:
+        Breath of Despair:
             Level: 5
             Trait: 
               - Magical
@@ -4492,159 +4475,194 @@
             Routine: (4 actions) The trap loses 1 action per disabled face each turn. On each action, a different face spews a writhing breath of darkness from its mouth to a target in area C2. A creature can only be targeted once per round by the despairing breath, so if fewer than four creatures are in the room, the trap won't be able to take full advantage of all four of its actions. Ranged despairing breath +17 (fear, mental), Damage 2d8+7 mental damage; no multiple attack penalty. A creature damaged by the despairing breath must succeed at a DC 22 Will save or become frightened 1 (or fleeing 1 on a critical failure); this effect has the fear trait.
             Reset: The trap resets after 1 minute.
             URL: https://2e.aonprd.com/Hazards.aspx?ID=277
+        Dead Aura:
+            Level: 16
+            Trait:
+              - Environmental
+              - Magical
+            Source: Kingmaker Adventure Path Page 144
+            Complexity: Simple
+            Stealth: DC 42 (master)
+            Description: The disturbing sensation of being watched, of having attracted the unwanted attention of something unimaginably powerful, or knowing the eerie conviction that unseen stars in the sky above might be looking down upon this spot grows increasingly overwhelming.
+            Disable_DC: DC 45 Occultism (master) to inscribe eldritch warding sigils on the stones of the tower (this is an activity that takes 1 hour to perform) or defeat the Thresholder influence in the chambers below (as detailed in Chapter 9)
+            Trigger: Unsettling Attention [reaction] (emotion, enchantment, fear, mental, occult) Trigger A creature ends its turn within the ruins of the tower or the chambers below while not currently being affected by the Dread Aura; Effect The creature feels as if its presence in the area has attracted the attention of something powerful and must attempt a DC 37 Will save.
+            Critical Success: The creature is unaffected and is immune to the Dread Aura forever.
+            Success: The creature is unaffected and is immune to the Dread Aura for 24 hours.
+            Failure: The creature becomes unsettled and suffers a –2 penalty to all saves against fear effects as long as they remain within the hex containing Candlemere.
+            Critical Failure: As failure, but each time the creature becomes frightened or flees, the fear is physically enervating, and the creature is also enfeebled 1 as long as they remain frightened or fleeing.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=278
         Falling Portcullis:
-            Level:
+            Level: 6
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Mechanical
+              - Trap
+            Source: Kingmaker Adventure Path Page 149
+            Complexity: Simple
+            Stealth: DC 25 (trained)
+            Description: A tripline under the arch causes the keep's portcullis to slam down, sealing the entrance and alerting the denizens of the keep to the intruder's presence.
+            Disable_DC: DC 25 Thievery (trained) to lock the portcullis
+            AC: 24
+            Fort: +17
+            Ref: +11
+            Stats: Hardness 14, HP 56 (BT 28); Immunities critical hits, object immunities, precision damage
+            Trigger: Falling Portcullis [reaction] Trigger The trip wire is pulled or severed (typically by a person walking through the archway into area G2); Effect The portcullis comes crashing down, sealing the entrance and alerting the denizens of the keep to the intruder's presence. Any creature passing under the portcullis or standing below it must attempt a DC 27 Reflex save. Once it falls, the portcullis can be lifted with a DC 30 Athletics check to Force it Open, or via the winch in area G2.
+            Critical Success: The creature dodges aside into an adjacent square (the player chooses which square they end up in).
+            Success: As critical success, but the creature takes a glancing blow from the falling portcullis and takes 2d8 bludgeoning damage.
+            Failure: As critical success, but the creature takes a solid blow from the falling portcullis and takes 4d8+18 bludgeoning damage.
+            Critical Failure: The portcullis lands squarely on the creature, inflicting 6d8+18 piercing damage and immobilizing them. A Medium or smaller creature is also knocked prone.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=279
         Phantasmagoric Fog Trap:
-            Level:
+            Level: 6
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Rare
+              - Magical
+              - Trap
+            Source: Kingmaker Adventure Path Page 152
+            Complexity: Simple
+            Stealth: DC 25 (expert)
+            Description: Cloying violet mist billows from the undergrowth, filling the heads of any creatures inside with maddening visions of dark moonless nights, twisted malignant trees, and steaming rivers of blood.
+            Disable_DC: Survival DC 28 (expert) to find a path through the Grand Hall that doesn't disturb the undergrowth
+            Trigger: Billow Mists [reaction] (mental); Trigger A creature moves through the undergrowth; Effect One round later, the hall fills with violet fog that imposes a –2 circumstance penalty to Perception checks to all creatures within it and exposes anyone who enters it to phantasmagoric fog. Phantasmagoric Fog (inhaled, poison); Saving Throw DC 24 Will; Maximum Duration 6 rounds; Stage 1stupefied 1 (1 round); Stage 2 confused and stupefied 1 (1 round); Stage 3 confused and stupefied 2 (1 round).
+            Reset: The trap resets after 1 hour.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=280
         Camouflaged Spiked Pit:
-            Level:
+            Level: 8
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Mechanical
+              - Trap
+            Source: Kingmaker Adventure Path Page 257
+            Complexity: Simple
+            Stealth: DC 31 (expert)
+            Description: A 20-foot deep, funnel-shaped pit with dozens of wooden spikes lining its walls.
+            Disable_DC: Yanking the cloth away is a simple way to expose the danger to allow someone to merely avoid it by walking around its edges, but it cannot be quickly disabled.
+            Trigger: Spiked Pitall [reaction] Trigger A creature walks onto one of the pits; Effect The triggering creature falls and rolls through several spikes as it slides to the bottom. This inflicts 5 bludgeoning damage from the fall itself down the steep slope (the falling PC can't attempt to Grab an Edge due to the lack of defined edges to the pit's walls), but the falling PC must also attempt a DC 26 Reflex save.
+            Critical Success: The character avoids all of the spikes and takes no additional damage.
+            Success: The character takes 2d10+11 piercing damage from the spikes.
+            Failure: The character takes 4d10+22 piercing damage from the spikes.
+            Critical Failure: The character takes 4d10+22 piercing damage from the spikes plus 2d6 bleeddamage. While the character is taking this bleed damage, they are also sickened 2 from the pain.
+            Reset: Creatures can still fall into the trap once it has been exposed, but the camouflaged cover must be reset manually for the trap to become hidden again.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=281
         The Power of Faith:
-            Level:
+            Level: 7
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Unique
+              - Haunt
+            Source: Kingmaker Adventure Path Page 203
+            Complexity: Complex
+            Stealth: DC 27 (expert) to hear whispered prayers in Dwarven to Troag
+            Description: The lingering essence of the dwarven worshippers who established this shrine demand deference to Torag and punish those who don't offer it.
+            Disable_DC:  Diplomacy DC 27 (trained) to calm the lingering essence, Religion DC 23 (expert) to perform the required obeisance, or Thievery DC 30 (expert) to disrupt and redirect the essence harmlessly.
+            Trigger: Prostrate [reaction] (divine, emotion, fear, illusion, incapacitation, mental); Trigger A creature moves more than 10 feet into the room. Effect A great weight settles on all creatures in area A4, and they must attempt a DC 25 Will save.
+            Critical Success: The creature is unaffected by the haunt and is temporarily immune to it for 24 hours.
+            Success: The creature feels pressed down by the weight— it takes a 10-foot penalty to all its speeds for as long as it remains in the room.
+            Failure: The creature is knocked prone.
+            Critical Failure: The creature is knocked prone and immobilized for 1 round.
+            Routine: (3 actions; divine, enchantment, mental) Ghostly images of chanting dwarves float through the room, drifting between the creatures in the chamber. As they float, they use their 3 actions to target up to three different creatures in the room, touching their brows and filling that person's head with overwhelming but entirely mental choirs exalting the glory of Torag. The haunt targets prone creatures before other creatures, and a single creature cannot be targeted more than once per round. A targeted creature must attempt a DC 25 Will save; prone creatures take a –2 penalty on this saving throw.
+            R_Critical Success: The creature is unaffected.
+            R_Success: The creature takes 1d10 mental damage from the cacophonous choir in their head.
+            R_Failure: The creature takes 2d10+9 mental damage from the cacophonous choir in their head.
+            R_Critical Failure: The creature takes 3d10+18 mental damage from the cacophonous choir in their head and is knocked prone.
+            Reset: The haunt deactivates as soon as no living creatures are in area A4, then resets after 1 hour has passed. It can be permanently destroyed by clearing the fortress of all creatures that don't follow Torag and rededicating it to the god with a consecrate ritual.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=282
         Endless Struggle:
-            Level:
+            Level: 8
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Unique
+              - Haunt
+            Source: Kingmaker Adventure Path Page 212
+            Complexity: Complex
+            Stealth: +18 (expert)
+            Description: Vicious spirits of the two owlbears, Eirikk, and the rest of the bandits rise and resume their final battle.
+            Disable_DC: Nature DC 24 (expert) three times to empathize with the bestial spirits that comprise the haunt and to calm them, or Religion DC 28 (expert) two times to exorcise the haunt and disperse its energy.
+            Alighment: CE
+            AC: 27
+            Fort: +12
+            Ref: +12
+            Will: +18
+            Stats: HP 66, negative healing; Immunities critical hits, precision damage, Weaknesses positive 10, Resistances all 10 (except force, ghost touch, or positive; double resistance vs. non-magical)
+            Trigger: Spectral Uprising [reaction] Trigger More than three Small or larger living creatures are in area B7 at the end of a turn. Effect Spectral figures of the bandits and owlbears manifest in a sudden and overwhelming battle of endless violence. All living creatures in area B7 must make a successful DC 28 Will save or become frightened 1 (frightened 3 on a critical failure).
+            Routine: (3 actions; emotion, fear, mental) The spectral violence churns and flashes through the room, targeting three separate creatures with ghostly claws, beaks, swords, and arrows. At the end of the haunt's turn, it takes its Spectral Uprising reaction. Melee ghostly attack +20, Damage 2d10+7 negative plus 1d6 bleed
+            Reset: The haunt resets after 24 hours; it can be permanently destroyed if it is either disabled or destroyed after the Beast itself has been slain.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=283
         Flooding Room:
-            Level:
+            Level: 9
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Unique
+              - Mechanical
+              - Trap
+            Source: Kingmaker Adventure Path Page 276
+            Complexity: Complex
+            Stealth: DC +23 (master)
+            Description: When the western secret door is opened or any of the trapdoors in the ceiling are forced open, the trap is triggered. As soon as this occurs, the portcullises to the east and west come crashing down, each consisting of solid iron sheets that form watertight seals. At the same time, the dozen 5-foot-wide trapdoors open in the ceiling. These holes are the mouths of winding tunnels that connect to a second pair of apertures on the submerged side of the island outside, allowing the waters of the Little Sellen River to plunge down into this room, possibly damaging or knocking prone those in the square portion of the room itself (but not in the adjoining hallway) and eventually flooding the entire chamber.
+            Disable_DC: Thievery DC 26 (this increases to DC 30 once the trap is activated) to disable one of the 12 trapdoors and seal it shut; disabling all 12 of the trapdoors completely deactivates the trap, but a critical failure on any attempt causes the trap to trigger; Thievery DC 24 to disable one of the watertight portcullises and prevent it from falling; magic such as shape stone or wall of stone or even lock can also be used to disable portions of this deadly trap at the GM's discretion
+            AC: 25
+            Fort: +23
+            Ref: +15
+            Stats: Portcullis Hardness 16, Portcullis HP 70 (BT 35); Immunities critical hits, object immunities, precision damage
+            Trigger: Rushing Water [reaction] Trigger The secret door to the west or any trapdoor is opened. Effect The 12 ceiling trapdoors open along with the two secret doors to the cyclops zombie alcoves, releasing river water and zombies into the room. Any creature standing in the central 40-by-40 foot section of the main room must attempt a DC 28 Reflex save; the trap then rolls initiative.
+            Critical Success: The creature takes no damage.
+            Success: The creature takes 1d10+6 bludgeoning damage from the cascade of water.
+            Failure: The creature takes 2d10+13 bludgeoning damage from the cascade of water.
+            Critical Failure: The creature takes 2d10+13 bludgeoning damage from the cascade of falling water and is knocked prone.
+            Routine: (12 actions) The trap loses 1 action for each of its 12 ceiling trapdoors that are disabled. On each of the trap's actions, it pours water into the room, filling it to a depth of one inch. If all 12 trapdoors are open, it thus fills the room at a rate of 1 foot per round. If one of the portcullises is breached, the trap fills the room at half the rate, and if both are breached, it fills at one quarter the rate. Once the cascade of water begins, it's easy enough for a PC to avoid the downpour, but any creature that deliberately enters the cascade is subjected to the trap's Rushing Water reaction. If a creature is struck by Rushing Water while already underwater, the result of its Reflex save is automatically improved one degree of success. The flooding ends and the trap deactivates once the area is filled to the ceiling—at this point, the water's surface is at the level of the river, and at the top of the stairs leading down from areas D4 and D6. A Medium or smaller creature can try to Swim to freedom through one of the 5-foot-wide tunnels leading to the river from a trapdoor, but doing so requires navigating 200 feet of flooded tunnels.
+            Reset: The trap must be reset with a major engineering effort.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=284
         Stygian Fires:
-            Level:
+            Level: 12
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Unique
+              - Cold
+              - Conjuration
+              - Magical
+              - Trap
+            Source:  Kingmaker Adventure Path Page 277
+            Complexity: Simple
+            Stealth: DC 35 (master)
+            Description: Freezing black fire bursts from the two quartz altars, filling the room with numbing black flames that scour away memories and emotions as swiftly as they sear flesh and bone.
+            Disable_DC: Thievery DC 30 (master) to sever the links between the door and the lanterns, Religion DC 35 (master) to use prayer to deactivate the divine magic, or dispel magic (6th level; counteract DC 30) to counteract the trap
+            Trigger: Stygian Fire [reaction] (divine, cold, conjuration) Trigger The doors to area E3 are opened without someone making blood offerings and lighting the lanterns. Effect Every creature in area E2 must attempt a DC 32 Reflex save.
+            Critical Success: The creature takes no damage.
+            Success: The creature takes 3d10+13 cold damage and is stupefied 1 for 1 minute.
+            Failure: The creature takes 6d10+27 cold damage and is stupefied 1.
+            Critical Failure: The creature takes 6d10+27 cold damage, takes 1d10 persistent cold damage, and is stupefied 2.
+            Reset: The trap resets one minute after the doors to area E3 are closed.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=285
         Scalding Tar Lake:
-            Level:
+            Level: 9
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Uncommon
+              -  Environmental
+            Source: Kingmaker Adventure Path Page 281
+            Complexity: Complex
+            Stealth: DC +0 (the tar lake is blatantly obvious, and its effects occur near the end of each round)
+            Description: The bubbling tar churns and seethes, periodically bursting in a burning hot splatter of scalding sludge and gas.
+            Disable_DC: DC 30 Survival check to throw rocks or other bits of debris into areas within the tar lake that are about to burst, allowing the lake to vent harmlessly for that round (on a critical success, this prevents the lake from venting for 3 rounds); permanently disabling the tar pit would require powerful magic or long-term engineering projects (subject to the GM's discretion).
+            Trigger: Scalding Burst [reaction] Trigger A creature attempts to move through the tar; Effect A scalding burst of hot tar burns the creature, which must immediately attempt a DC 28 Reflex save.
+            Critical Success: The creature takes no damage.
+            Success: The creature takes 3d6 fire damage.
+            Failure: The creature takes 6d6 fire damage and 1d6 persistent fire damage.
+            Critical Failure: The creature takes 9d6 fire damage, 2d6 persistent fire damage and takes a –10-foot status penalty to its Speed as long as it continues to take the persistent fire damage from the hot tar clinging to it.
+            Routine: (1 action) The bubbling lake of tar churns and sputters. One randomly determined target within 5 feet of the tar lake is targeted by a Scalding Burst.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=286
         Test of Endurance:
-            Level:
+            Level: 13
             Trait:
-              - 
-              - 
-            Source:
-            Complexity:
-            Stealth:
-            Description:
-            Disable_DC:
-            AC:
-            Fort:
-            Ref:
-            Stats:
-            Trigger:
-            Reset:
-            URL:
+              - Cold
+              - Evocation
+              - Magical
+              - Trap
+            Source: Kingmaker Adventure Path Page 324
+            Complexity: Simple
+            Stealth: DC 40 (master)
+            Description: The room fills with swirling vortexes of freezing wind that swiftly freeze flesh and chill the bones.
+            Disable_DC: DC 33 (master) to adjust the wheel's mechanisms so that it won't trigger the Test of Endurance, or dispel magic (7th level, counteract DC 31) to counteract the trap's magic.
+            Trigger: Freezing Wind [reaction] (cold, evocation) Trigger A creature critically fails at an attempt to Rotate the Wheel or releases their grip on the wheel once they've started to rotate it; Effect A vortex of freezing wind howls through the room—all creatures in the room must attempt a DC 33 Fortitude save.
+            Critical Success: The creature takes no damage.
+            Success: The creature takes 1d6 cold damage for each revolution the wheel has been rotated (max 7d6).
+            Failure: The creature takes 2d6 cold damage for each revolution the wheel has been rotated (max 14d6) and becomes fatigued.
+            Critical Failure: The creature takes 3d6 cold damage for each revolution the wheel has been rotated (max 21d6), becomes drained 1, and becomes fatigued.
+            Reset: The trap resets automatically.
+            URL: https://2e.aonprd.com/Hazards.aspx?ID=287
         Test of Tactics:
             Level:
             Trait:
