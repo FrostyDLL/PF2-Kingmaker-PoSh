@@ -7,15 +7,6 @@ Uses PSYaml to read YAML Database "tables.yml"
 
 Uses Google SpreadSheet created by reddit user Exocist/EasyTools for creating this Google Spreadsheet*
 
-Search Monster Demo
-https://asciinema.org/a/SLXSWTPb2fbb0DcNJe3GLfaDk
-
-Travel Calculator Demo
-https://asciinema.org/a/NtdgbBhvjg1KemT7IrsY08Lrr
-
-Roll 20 Output for Dmg
-https://asciinema.org/a/CJyoY7OESBNbi51LzKbDFp1Fm
-
 <#
 Version Log:
 WIP
